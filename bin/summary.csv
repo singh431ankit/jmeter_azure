@@ -1,0 +1,1135 @@
+﻿Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+HTTP Request,10,21045,21026,21075,13.21,100.00%,0.3956,1.14,0,2959
+/chrome-variations/seed-95,10,579,341,987,158.12,0.00%,2.10926,97.51,0.65,47339
+/-96,10,687,425,1046,170.67,0.00%,2.16826,17.57,1.49,8297.8
+/node_modules/video.js/dist/video-js.min.css-98,10,271,60,395,78.33,0.00%,2.3912,29.11,0.97,12467
+/css/latostyle.css-100,10,240,50,361,94.69,0.00%,2.45098,2.39,0.93,998.4
+/css/latofonts.css-101,10,149,46,393,127.32,0.00%,2.59538,3.28,0.99,1292.5
+/node_modules/jquery/dist/jquery.min.js-102,10,243,80,326,93.43,0.00%,2.80426,98.71,1.08,36043.3
+/node_modules/tether/dist/js/tether.min.js-105,10,217,53,294,97.62,0.00%,2.96736,26.91,1.16,9284.7
+/node_modules/bootstrap/dist/css/bootstrap.min.css-99,10,281,75,395,75.57,0.00%,2.86615,79.57,1.18,28428
+/submit/contextual-services/topsites-impression/1/cac5598e-bd00-4f88-a5db-e16b4beac2b3-106,10,410,325,587,86.73,0.00%,2.63922,2.11,3.81,818.7
+/js/index.js-108,10,216,50,337,108.32,0.00%,2.67881,7.57,0.97,2895.4
+/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js-104,10,299,101,563,122.46,0.00%,2.8082,199.68,1.16,72813.4
+/bm.png-112,10,208,49,297,99.82,0.00%,3.06279,12.75,1.15,4263
+/Samsung1.jpg-110,10,238,59,307,89.1,0.00%,3.02572,81.79,1.16,27679
+/node_modules/video.js/dist/video.min.js-103,10,292,85,590,147.53,0.00%,3.18776,499.68,1.24,160511.6
+/nexus1.jpg-109,10,222,56,454,125.04,0.00%,3.50018,116.7,1.33,34140
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F5642d287-8c21-49d9-9a11-2bfa6ee1a2f2.jpeg-120,10,145,73,410,106.53,0.00%,3.78215,106.5,2.01,28834
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2Fb0c3b178-ee57-465b-aa8c-fb6f93e35cab.jpeg-123,10,21,18,25,2.18,0.00%,3.91083,38.04,2.07,9960.2
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2Ffc4fc791-0fcf-48b3-a3fa-00548c2bff9f.jpeg-125,10,24,19,38,5.11,0.00%,3.88048,81.64,2.06,21543
+/submit/firefox-desktop/newtab/1/46300a38-f283-4317-ac78-523e39fca6f2-119,10,366,273,589,94.37,0.00%,3.53857,2.94,7.47,851.4
+/submit/activity-stream/sessions/1/96fb85f3-f92e-4282-8a99-50a81d2267a6-117,10,415,315,749,118.71,0.00%,3.71747,3.05,5.06,841.1
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2Fdd016e3e-cec7-484b-8151-f72ea54dc958.jpeg-124,10,28,19,68,13.63,0.00%,4.30293,62.49,2.28,14872
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2Fc177c1b3-daca-4be8-99da-53657685afd6.jpeg-127,10,25,18,39,8.35,0.00%,4.22833,73.89,2.24,17895
+/imgs/front.jpg-115,10,238,56,306,91.83,0.00%,4.19815,102.28,1.61,24949
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F0c09ef55-602f-4eb8-aa1a-e701b5dc7903.jpeg-122,10,26,19,37,6.32,0.00%,4.7081,82.48,2.5,17939
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2Fb850def5-99d3-4f6a-83a2-cb16c6c4be47.jpeg-126,10,21,19,27,2.29,0.00%,4.74383,87.55,2.52,18899
+/obgoOYObjIFea_bXuT6L4LbBJ8j425AD87S1HMD3BWg.9991.jpg-130,10,80,58,175,33.42,0.00%,4.42087,46.22,1.77,10705.4
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2Fdccd2ce9-584e-47ab-93bf-abf8287b821e.jpeg-121,10,24,19,34,3.96,0.00%,4.5683,111.83,2.42,25068.2
+/592x296/filters:format(jpeg):quality(60):no_upscale():strip_exif()/https%3A%2F%2Fs3.amazonaws.com%2Fpocket-curatedcorpusapi-prod-images%2F18bfa351-16bf-432a-ae68-78856a5cd3cb.jpeg-129,10,41,18,157,39.27,0.00%,4.54339,91.56,2.41,20635.2
+/Eqfx-dXqpGIFV5Tmm1gv8XVA8ATij7ohWbjS9ic6ZsA.15089.jpg-131,10,29,17,45,9.74,0.00%,4.55373,70.24,1.83,15796
+/submit/contextual-services/topsites-impression/1/70e785a5-8427-494f-a747-1dd2b001fc50-128,10,314,249,360,35.12,0.00%,4.01445,3.34,5.9,851.6
+/submit/activity-stream/impression-stats/1/b8657e82-f978-4900-9153-28b38f909e99-118,10,316,257,413,54.02,0.00%,4.03714,3.26,5.11,827.5
+/node_modules/bootstrap/dist/js/bootstrap.min.js-107,10,244,50,299,91.76,0.00%,4.04531,61.12,1.6,15470.7
+/EWS/Exchange.asmx-116,10,542,480,627,48.35,100.00%,3.63504,3.82,5.37,1075
+/config.json-133,10,175,49,344,120.43,0.00%,3.8625,2.01,1.67,533.4
+/favicon.ico-132,10,202,48,312,122.95,0.00%,3.50631,19.84,1.34,5795
+/index.m3u8-135,10,104,66,285,61.57,0.00%,3.51124,4.98,1.36,1453.7
+/about_demo_hls_600k.m3u8-136,10,70,15,322,99.22,0.00%,3.25203,19.87,1.31,6257.3
+/entries-134,10,493,411,597,47.61,0.00%,2.73598,4.22,1.05,1578.3
+/iphone1.jpg-114,10,224,54,574,179.64,0.00%,2.82008,96.11,1.07,34899
+/css/fonts/Lato-Regular.woff2-111,10,484,94,1212,285.75,0.00%,2.51636,449.79,1.11,183036.9
+/EWS/Exchange.asmx-142,10,168,132,215,31.65,0.00%,2.60213,6.01,12.14,2364.3
+/imgs/galaxy_s6.jpg-138,10,376,93,1041,241.61,0.00%,2.4728,260.16,0.96,107733.4
+/imgs/Lumia_1520.jpg-139,10,349,161,734,146.79,0.00%,2.49688,354.82,0.97,145514.4
+/imgs/iphone_6.jpg-141,10,358,140,691,148.61,0.00%,2.56016,503.14,0.99,201243
+/imgs/Nexus_6.jpg-140,10,322,143,468,112.7,0.00%,2.55232,578.5,0.98,232097
+/about_demo_hls_600k00000.ts-137,10,787,273,1510,374.83,0.00%,2.58331,1370.23,1.04,543144.8
+/imgs/HTC_M9.jpg-144,10,296,105,400,107.15,0.00%,3.32336,315.57,1.28,97234.4
+/update/3/GMP/110.0.1/20230227191043/WINNT_x86_64-msvc-x64/en-US/release/Windows_NT%2010.0.0.0.19044.2604%20(x64)/default/default/update.xml-146,10,172,106,245,45.96,0.00%,3.66435,4.26,1.79,1189.6
+/imgs/xperia_z5.jpg-143,10,389,79,1064,329.54,0.00%,2.81532,395.88,1.09,143989.6
+/chains/aus.content-signature.mozilla.org-2023-04-09-20-28-28.chain-148,10,170,71,308,82.53,0.00%,3.05344,17.39,1.2,5832
+/v1/buckets/monitor/collections/changes/changeset-147,10,175,97,307,73.18,0.00%,3.22581,71.17,1.31,22591
+/v1/buckets/blocklists/collections/gfx/changeset-151,10,34,17,82,19.27,0.00%,3.53982,33.28,1.67,9628
+/mapi/emsmdb/?MailboxId=3343dc99-08c8-45d6-a31f-a33e6b4038ba@deloitte.com-150,10,168,143,196,20.3,0.00%,3.35796,5.53,13.66,1686
+/EWS/Exchange.asmx-152,10,182,150,244,30.29,0.00%,3.25521,7.52,15.18,2365
+/imgs/sony_vaio_5.jpg-145,10,304,72,389,116.53,0.00%,3.0525,270.58,1.19,90771
+/v1/buckets/blocklists/collections/addons-bloomfilters/changeset-153,10,76,25,140,42.71,0.00%,3.03582,19.87,1.48,6703.8
+/v1/buckets/main/collections/search-telemetry-v2-154,10,60,18,140,44.63,0.00%,2.93772,11.21,1.31,3906
+/v1/buckets/main/collections/devtools-compatibility-browsers-155,10,46,17,133,39.61,0.00%,2.85714,5.29,1.3,1896.4
+/openh264-win64-2e1774ab6dc6c43debb0b5b628bdf122a391d521.zip-149,10,797,203,999,239.27,0.00%,2.26655,1003.63,0.68,453428
+/v1/buckets/main/collections/search-config-156,10,61,28,141,37.71,0.00%,2.75103,29.82,1.21,11101
+/v1/buckets/main/collections/cookie-banner-rules-list-157,10,110,16,659,187.82,0.00%,2.71223,12.03,1.22,4543.2
+/v1/buckets/main/collections/sites-classification-158,10,38,17,104,28.55,0.00%,2.67023,3.29,1.19,1260
+/v1/buckets/main/collections/anti-tracking-url-decoration-159,10,49,18,123,40.79,0.00%,2.60146,3.29,1.18,1294
+/v1/buckets/main/collections/public-suffix-list/changeset-160,10,60,15,149,42.93,0.00%,2.51572,3.16,1.14,1285.8
+/v1/buckets/main/collections/search-default-override-allowlist-161,10,94,19,331,87.76,0.00%,2.45399,3.27,1.12,1366.2
+/v1/buckets/main/collections/hijack-blocklists-162,10,148,22,343,130.66,0.00%,2.46002,3.07,1.09,1278
+/v1/buckets/main/collections/url-classifier-skip-urls-164,10,142,20,340,130.28,0.00%,2.44738,3.11,1.1,1300.6
+/v1/buckets/main/collections/pioneer-study-addons-v1/changeset-165,10,84,21,333,93.34,0.00%,2.55885,27.77,1.17,11114
+/edgedl/widevine-cdm/4.10.2557.0-win-x64.zip-163,10,22465,5110,36119,9267.49,0.00%,0.27686,2281.43,0.41,8438079.8
+/v1/buckets/main/collections/top-sites-166,10,69,30,135,31.71,0.00%,0.36028,1.52,0.16,4326
+/v1/buckets/main/collections/doh-providers/changeset-167,10,48,16,82,26.29,0.00%,0.36013,1.3,0.17,3700.8
+/v1/buckets/main/collections/addons-manager-settings/changeset-168,10,57,15,101,26.98,0.00%,0.3598,0.93,0.16,2652
+/v1/buckets/main/collections/password-rules-169,10,52,16,107,24.95,0.00%,0.35989,0.44,0.16,1253.2
+/v1/buckets/main/collections/websites-with-shared-credential-backends-170,10,62,25,189,46.63,0.00%,0.35978,0.45,0.17,1278.2
+/v1/buckets/main/collections/language-dictionaries-171,10,55,15,203,54.45,0.00%,0.36007,0.59,0.16,1690.2
+/v1/buckets/main/collections/password-recipes-172,10,76,23,225,60.28,0.00%,0.35988,0.71,0.16,2017.8
+/edgedl/widevine-cdm/4.10.2557.0-win-x64.zip-174,10,17751,5286,23443,4605.25,0.00%,0.22311,1838.31,0.25,8437045
+/v1/buckets/main/collections/fxmonitor-breaches/changeset-173,10,179,120,261,49.6,0.00%,0.25134,43.9,0.11,178870
+/v1/buckets/main/collections/doh-config/changeset-175,10,50,18,97,20.18,0.00%,0.25181,1.17,0.12,4766.4
+/EWS/Exchange.asmx-178,10,237,153,679,149.99,0.00%,0.24792,0.57,1.16,2364.4
+/v1/buckets/main/collections/devtools-devices-177,10,55,17,112,31.12,0.00%,0.24828,0.54,0.11,2217
+/v1/tiles-179,10,401,263,646,116.61,0.00%,0.24647,0.34,0.08,1402.4
+/obgoOYObjIFea_bXuT6L4LbBJ8j425AD87S1HMD3BWg.9991.jpg-181,10,107,39,251,74.83,0.00%,0.24707,2.58,0.1,10705.4
+/Eqfx-dXqpGIFV5Tmm1gv8XVA8ATij7ohWbjS9ic6ZsA.15089.jpg-182,10,61,24,106,26.02,0.00%,0.24679,3.81,0.1,15796
+/v1/buckets/security-state/collections/cert-revocations/changeset-180,10,72,29,110,22.33,0.00%,0.24654,12.83,0.11,53272
+/chains/onecrl.content-signature.mozilla.org-2023-04-09-20-28-24.chain-183,10,86,43,287,68.24,0.00%,0.24631,1.41,0.1,5846.5
+/v1/buckets/security-state/collections/intermediates/changeset-184,10,60,20,157,36.85,0.00%,0.24629,0.91,0.12,3780
+/v1/buckets/security-state/collections/onecrl-185,10,51,20,109,24.69,0.00%,0.24628,0.59,0.11,2459.9
+/mapi/emsmdb/?MailboxId=3343dc99-08c8-45d6-a31f-a33e6b4038ba@deloitte.com-187,10,246,134,728,169.39,0.00%,0.2453,0.4,0.99,1686
+/security-state-staging/intermediates/b5d214b9-02bf-46d5-8c86-4000177b8e47.pem-189,10,173,62,220,43.53,0.00%,0.24491,0.51,0.1,2148
+/security-state-staging/intermediates/06ff1559-82b4-4470-acef-546ca0d2d7e8.pem-190,10,53,26,90,22.98,0.00%,0.24546,0.62,0.1,2587
+/security-state-staging/intermediates/34ab8f6d-6a63-4e28-b53b-850c3ac5899d.pem-191,10,57,20,83,21.07,0.00%,0.24528,0.61,0.1,2534.4
+/security-state-staging/intermediates/6d2392d9-2ccd-4f86-9ddc-749b84bd77de.pem-188,10,68,15,99,21.59,0.00%,0.24509,1.04,0.1,4325
+/security-state-staging/intermediates/87b90dc7-c168-45d1-86f9-3a1dab597af5.pem-193,10,69,16,104,25.14,0.00%,0.2452,0.41,0.1,1701
+/security-state-staging/intermediates/e4fe0ba5-5fe0-4525-8aab-278ea8641c93.pem-192,10,79,16,183,42.95,0.00%,0.24551,0.63,0.1,2619
+/mapi/emsmdb/?MailboxId=3343dc99-08c8-45d6-a31f-a33e6b4038ba@deloitte.com-113,10,254,142,946,232.47,0.00%,0.24535,0.38,0.99,1570
+/edgedl/widevine-cdm/4.10.2557.0-win-x64.zip-176,10,12464,8029,17003,2554.36,0.00%,0.19703,1623.25,0.12,8436390
+/mapi/emsmdb/?MailboxId=3343dc99-08c8-45d6-a31f-a33e6b4038ba@deloitte.com-186,10,438,138,689,209.63,0.00%,0.26078,0.4,1.05,1570
+Launch,10,71162,40950,82292,11106.3,100.00%,0.11993,3357.26,9.34,28666352.6
+/direct-194,10,312,147,442,107.12,0.00%,0.26162,14.97,0.13,58603
+/direct-196,10,93,30,249,58.53,0.00%,0.26245,6.07,0.13,23679
+/direct-197,10,163,36,696,199.62,0.00%,0.26262,6.58,0.13,25666
+/direct-198,10,104,21,365,90.71,0.00%,0.26282,5.56,0.13,21646
+/security-state-staging/intermediates/0903cfac-baf5-4e5a-a04c-3d446acaee56.pem-201,10,64,24,128,35.6,0.00%,0.26317,0.7,0.11,2740.3
+/security-state-staging/intermediates/632f91d1-09ef-498e-b828-94c76c27331d.pem-202,10,54,17,120,27.5,0.00%,0.26356,0.54,0.11,2083
+/security-state-staging/intermediates/91491062-2721-4f38-8d4c-cd231a5e16f3.pem-200,10,42,22,84,18.58,0.00%,0.26374,0.45,0.11,1731.9
+/security-state-staging/intermediates/e8f32acc-3396-4ecf-80ac-5467edd7dc61.pem-199,10,109,17,729,207.51,0.00%,0.26365,0.67,0.11,2587
+/security-state-staging/intermediates/bd4b3ad6-5fca-4573-9e99-2959c279c1ac.pem-206,10,66,26,221,55.87,0.00%,0.26372,0.75,0.11,2894.6
+/submit/firefox-desktop/newtab/1/68982194-7ab1-4cb8-a831-9de06eedd2ca-195,10,494,289,679,108.11,0.00%,0.26117,0.2,0.52,792.5
+/direct-207,10,52,28,82,18.09,0.00%,0.26285,3.05,0.13,11900
+/direct-203,10,87,50,211,46.43,0.00%,0.26285,7.76,0.13,30231.7
+/direct-204,10,81,24,137,28.94,0.00%,0.26328,6.52,0.13,25374.3
+/direct-205,10,69,30,114,27.3,0.00%,0.26344,9.32,0.13,36243
+/security-state-staging/intermediates/27528fc3-b963-415a-a99a-4f327d7d7c83.pem-208,10,44,16,86,22.14,0.00%,0.26334,0.81,0.11,3155
+/security-state-staging/intermediates/f2bbec94-183e-4537-bc0a-f49e5e7afbb1.pem-209,10,40,17,91,23.02,0.00%,0.26333,0.73,0.11,2847
+/security-state-staging/intermediates/abdca6cb-ec0b-43a3-9f0e-60a958965850.pem-210,10,45,15,102,23.79,0.00%,0.26336,0.77,0.11,2976.6
+/security-state-staging/intermediates/5c8056e2-7f02-452a-a514-695f16f72486.pem-211,10,61,14,211,56.67,0.00%,0.26352,0.69,0.11,2682.4
+/security-state-staging/intermediates/88d20507-b598-4ce5-9ba2-761d21a4e419.pem-212,10,56,24,164,45.05,0.00%,0.26341,0.56,0.11,2193
+/security-state-staging/intermediates/b498521b-e32b-43cc-aca3-07c4179af1b4.pem-213,10,57,16,222,56.8,0.00%,0.26347,0.74,0.11,2891
+/security-state-staging/intermediates/2e1a3cd7-0c11-46b6-ac97-522525cb0897.pem-215,9,98,20,619,184.15,0.00%,0.24623,0.52,0.1,2146.4
+/security-state-staging/intermediates/f4cf151f-36c5-40ff-ab06-aa85908a4c91.pem-214,9,45,18,146,36.42,0.00%,0.24619,0.41,0.1,1688.9
+/security-state-staging/intermediates/d89aea89-0644-488a-87ec-6fe32a4c8f6b.pem-216,9,44,19,91,23.96,0.00%,0.24607,0.51,0.1,2140
+/security-state-staging/intermediates/6916706c-a910-4b05-9dc3-be264f846783.pem-217,9,43,20,112,26.94,0.00%,0.24621,0.68,0.1,2836.4
+/security-state-staging/intermediates/fdd44b41-87a8-41b1-b24d-bc629efb1193.pem-219,9,36,16,118,29.49,0.00%,0.24633,0.59,0.1,2458.1
+/security-state-staging/intermediates/3560b6a7-ac40-4c0b-ab01-ba7caf4f697e.pem-218,9,29,16,47,10.13,0.00%,0.24643,0.54,0.1,2262.7
+/security-state-staging/intermediates/3d3331b5-9658-4b69-ad99-28073ad83c6c.pem-220,9,112,15,728,219.52,0.00%,0.24656,0.64,0.1,2653.3
+/security-state-staging/intermediates/8eec4898-0567-46bf-aa86-2f2e3a4151f4.pem-221,9,68,16,221,78.07,0.00%,0.24666,0.7,0.1,2904.3
+/security-state-staging/intermediates/84a1e40e-aa66-419a-a6e0-b29ad9504f47.pem-222,9,46,15,80,25.83,0.00%,0.24668,0.55,0.1,2282
+/security-state-staging/intermediates/907a7262-b883-4896-bb78-a84247ab3ab1.pem-223,9,49,19,117,31.72,0.00%,0.24708,0.5,0.1,2071
+/security-state-staging/intermediates/f292bc25-f1b7-45ff-9df5-d56c9893901c.pem-224,9,71,16,203,53.78,0.00%,0.2475,0.5,0.1,2084.3
+/security-state-staging/intermediates/16773900-8e85-42bf-896c-e0656df0b64d.pem-225,9,45,15,69,18.28,0.00%,0.24776,0.55,0.1,2266
+/security-state-staging/intermediates/c87c6dee-16e3-4bb0-8541-6cf2e215df90.pem-227,9,48,16,77,21.65,0.00%,0.24811,0.69,0.1,2839
+/security-state-staging/intermediates/c310d05d-c0b0-4149-9d40-04e0f46a1fab.pem-228,9,44,14,77,21.09,0.00%,0.2485,0.59,0.1,2430.7
+/security-state-staging/intermediates/ea4ea5bd-3a75-4cd2-a235-c3e8ef18c8c6.pem-226,9,48,27,80,19.86,0.00%,0.24867,0.68,0.1,2786
+/security-state-staging/intermediates/574d0f4a-0f9f-4ac1-bbbd-b912aa74f87c.pem-229,9,54,19,90,25.05,0.00%,0.249,0.43,0.1,1779.3
+/security-state-staging/intermediates/32b8a883-88dd-41a6-8a17-97687478fad0.pem-230,9,59,24,113,26.49,0.00%,0.24944,0.73,0.1,2980.2
+/security-state-staging/intermediates/dbe4ae7c-598c-423b-a4f2-aa6674a8ec18.pem-231,9,54,24,107,24.54,0.00%,0.24962,0.54,0.1,2201
+/security-state-staging/intermediates/f23ff21b-8762-4cf2-9fc1-76e7a2b242a8.pem-233,9,54,15,98,29.85,0.00%,0.24995,0.61,0.1,2509
+/security-state-staging/intermediates/b2a82526-2d56-4d6f-82ed-ec715bf0fbe2.pem-234,9,62,30,112,27.85,0.00%,0.2502,0.56,0.1,2282
+/security-state-staging/intermediates/21d55dea-31a3-4e8f-8e16-5c79c28af097.pem-235,9,67,17,211,55.85,0.00%,0.25055,0.47,0.1,1916
+/security-state-staging/intermediates/a3476927-7931-4452-8215-9be907c01a5d.pem-237,9,40,26,75,13.87,0.00%,0.25068,0.41,0.1,1693
+/security-state-staging/intermediates/bcc8709c-0a8e-402e-9add-fd2ed5432aed.pem-236,9,48,21,81,19.91,0.00%,0.25049,0.74,0.1,3009
+/security-state-staging/intermediates/ed4bff44-19e6-498e-9259-91ec361a7b9e.pem-238,9,34,17,61,13.03,0.00%,0.25089,0.54,0.1,2189
+/security-state-staging/intermediates/ef0a807b-5d79-4801-8b20-fe50e59b66c4.pem-239,9,37,17,143,37.73,0.00%,0.25116,0.53,0.1,2148
+/security-state-staging/intermediates/d1b811ac-67f8-47ab-9f95-4ed057e9dc7d.pem-240,9,58,16,273,77.41,0.00%,0.25204,0.72,0.1,2940
+/security-state-staging/intermediates/b46b3137-3b00-4aea-beb6-c0aae11f0db2.pem-241,9,37,17,82,19.84,0.00%,0.25227,0.43,0.1,1734
+/security-state-staging/intermediates/2ce65543-848c-483b-b95e-f06e56737bb4.pem-242,9,53,20,158,42.02,0.00%,0.25259,0.44,0.1,1782
+/security-state-staging/intermediates/b5439e20-bf07-4d4a-8a0e-1427b2b6b0f1.pem-243,9,40,19,103,24.41,0.00%,0.25267,0.48,0.1,1937
+/security-state-staging/intermediates/92de2a7d-3a4e-4193-9a4b-62f0f3fbb871.pem-244,9,33,15,72,18.51,0.00%,0.25277,0.48,0.1,1941
+/security-state-staging/intermediates/25c1e6b8-ac9d-4a5d-a746-5a91a4226446.pem-245,9,40,15,79,27.35,0.00%,0.25276,0.43,0.1,1740.7
+/security-state-staging/intermediates/45a314a9-8e95-47be-ac09-68cc6935adcc.pem-232,9,48,16,115,37.76,0.00%,0.25275,0.59,0.1,2408
+/security-state-staging/intermediates/32052bb6-9019-4826-b1ec-d7f1b6c94e9d.pem-246,9,48,16,91,26.79,0.00%,0.25305,0.61,0.1,2463.7
+/security-state-staging/intermediates/8d6429a5-772d-4666-be02-ba8282f7be70.pem-247,9,54,20,102,29.1,0.00%,0.25312,0.56,0.1,2262
+/security-state-staging/intermediates/9181fd99-fc3d-43be-ad3e-d1efb285d5ae.pem-248,9,46,16,77,19.11,0.00%,0.2532,0.51,0.1,2067
+/security-state-staging/intermediates/f7a184d3-d555-4bc5-bf51-b6cf5fd02d86.pem-249,9,44,15,119,33.11,0.00%,0.25341,0.62,0.1,2497
+/security-state-staging/intermediates/af663840-08e3-4664-9c06-3bb17602a0e3.pem-250,9,49,15,134,39.94,0.00%,0.25414,0.67,0.1,2718.3
+/security-state-staging/intermediates/a586bb32-1766-40e6-bdd8-ba5e8bf95066.pem-251,9,37,16,62,16.16,0.00%,0.25496,0.65,0.11,2619
+/security-state-staging/intermediates/f162042c-ed41-47ea-b249-c88c10579579.pem-252,9,52,18,115,31.99,0.00%,0.25523,0.5,0.11,1993.9
+/security-state-staging/intermediates/a0d5da82-e91c-4971-9281-c3cef675f183.pem-253,9,45,15,86,24.88,0.00%,0.25579,0.44,0.11,1754
+/security-state-staging/intermediates/30df4c61-9f07-4a43-9956-25742af9cddb.pem-254,9,43,15,95,28.17,0.00%,0.25623,0.55,0.11,2204.1
+/security-state-staging/intermediates/8f304617-9f6c-410b-a3b5-d424f6063e72.pem-255,9,47,15,190,52.34,0.00%,0.25678,0.43,0.11,1710.3
+/security-state-staging/intermediates/add22cce-aabf-4167-9d28-fb12c5e95054.pem-256,9,52,15,117,36.11,0.00%,0.25796,0.59,0.11,2335
+/security-state-staging/intermediates/b16e7431-1a00-4dad-9c47-46be383bcfe4.pem-257,9,44,20,88,21.62,0.00%,0.25782,0.55,0.11,2190.1
+/security-state-staging/intermediates/e513b328-655a-441e-86ca-5d563a8439fd.pem-258,9,66,15,272,76.12,0.00%,0.25836,0.56,0.11,2213
+/security-state-staging/intermediates/c4f9e2c4-78ee-4792-87ad-84da6465225b.pem-259,9,54,14,90,28.56,0.00%,0.26036,0.58,0.11,2283.3
+/security-state-staging/intermediates/c7b62543-c78a-44ee-9efc-f216e5bfd056.pem-260,9,50,17,87,26.78,0.00%,0.26082,0.74,0.11,2920
+/security-state-staging/intermediates/5719a806-1c18-46c8-9229-0f467fd98968.pem-261,9,47,17,85,25.78,0.00%,0.26121,0.74,0.11,2904
+/security-state-staging/intermediates/d4ca2b02-1cae-4163-8ebd-abb85f3e6a98.pem-262,9,77,29,152,42.88,0.00%,0.26154,0.52,0.11,2050
+/security-state-staging/intermediates/6380c544-10af-435b-ae2d-adad842694a3.pem-263,9,137,15,363,139.02,0.00%,0.26257,0.69,0.11,2688
+/security-state-staging/intermediates/6af4e353-16ba-477f-8e14-bcd1749fbc26.pem-265,10,122,15,356,129.38,0.00%,0.28379,0.46,0.12,1652
+/security-state-staging/intermediates/e0735db7-bb34-4323-9b8f-081433bd0fd3.pem-264,10,52,15,154,39.28,0.00%,0.28549,0.77,0.12,2761
+/security-state-staging/intermediates/6c0364a6-c99d-4709-837b-affccae1d280.pem-266,10,54,14,134,43.71,0.00%,0.28664,0.78,0.12,2774
+/security-state-staging/intermediates/168326d2-eb32-4449-8388-890b59e9496f.pem-267,10,57,15,201,52.4,0.00%,0.28761,0.87,0.12,3086
+/security-state-staging/intermediates/7b653369-09f2-4882-9c83-209a35b305e5.pem-268,10,41,15,101,27.86,0.00%,0.28915,0.69,0.12,2426.4
+/security-state-staging/intermediates/d68a9395-6cfa-4112-b32d-bf294911ad57.pem-269,9,41,15,92,23.64,0.00%,0.26017,0.45,0.11,1754
+/security-state-staging/intermediates/72c3d6bb-f1e7-4495-af68-0ba087eda278.pem-271,9,38,14,96,24.28,0.00%,0.26073,0.39,0.11,1514
+/security-state-staging/intermediates/7e772905-a27d-4e17-b2d5-1efe1b1f1638.pem-270,9,38,17,81,19.35,0.00%,0.26125,0.71,0.11,2765
+/security-state-staging/intermediates/56d8fb27-0de0-4b61-ab41-299e1d0c14c9.pem-272,9,32,17,56,11.13,0.00%,0.26173,0.77,0.11,3021
+/security-state-staging/intermediates/aa0b4687-ec1c-483c-878f-31363ebb0565.pem-273,9,45,14,112,36.57,0.00%,0.26191,0.57,0.11,2233
+/security-state-staging/intermediates/8258df94-c3d1-471b-9fb1-34f2157ac923.pem-274,9,35,16,84,22.97,0.00%,0.26254,0.73,0.11,2844.7
+/security-state-staging/intermediates/8d2e464a-9995-4b44-ac8b-55f3656ad646.pem-277,8,36,14,82,21.24,0.00%,0.23384,0.63,0.1,2745
+/security-state-staging/intermediates/5a2ec80d-2b8e-4dcd-8682-f7f9d642c490.pem-276,8,36,20,89,21.47,0.00%,0.23376,0.75,0.1,3306
+/security-state-staging/intermediates/d9eaba09-d66e-487d-9974-8980bc0a838e.pem-278,8,44,17,117,31.36,0.00%,0.23395,0.51,0.1,2237
+/security-state-staging/intermediates/974ee8b6-e05b-45c0-b50d-b37049e98644.pem-279,8,38,16,98,26.01,0.00%,0.23392,0.48,0.1,2107
+/security-state-staging/intermediates/d4bebbe8-5c5d-4a42-9a8c-6b64a9a76314.pem-280,8,77,17,363,109.47,0.00%,0.23392,0.57,0.1,2507.2
+/security-state-staging/intermediates/f6df929b-2bdd-462f-a3b4-18df32996b70.pem-281,8,71,17,353,108.05,0.00%,0.23397,0.57,0.1,2496.2
+/security-state-staging/intermediates/e40e2f56-df5c-40a6-85f6-694d1d00f167.pem-282,8,36,15,69,20.13,0.00%,0.234,0.69,0.1,3034
+/security-state-staging/intermediates/877fe714-023f-4bf5-af37-35516011ddb3.pem-283,8,40,15,104,33.56,0.00%,0.23421,0.41,0.1,1790
+/security-state-staging/intermediates/61082769-e7e7-4c7a-a611-2dfbde36eeae.pem-284,8,82,16,363,106.9,0.00%,0.23427,0.62,0.1,2728
+/security-state-staging/intermediates/f804d5ba-d989-47f7-8217-4f41b5fb5978.pem-285,8,74,15,346,103.91,0.00%,0.2346,0.51,0.1,2221
+/security-state-staging/intermediates/d3cdd04e-0ece-4631-bf2e-a72a9a235e6c.pem-287,8,49,17,76,22.31,0.00%,0.23484,0.67,0.1,2924
+/security-state-staging/intermediates/90ad777b-e189-4b7d-88e7-5865bcdd50f9.pem-286,8,42,15,79,19.81,0.00%,0.23523,0.6,0.1,2619
+/security-state-staging/intermediates/f538856a-1986-4ea8-9af5-e9a9636d887e.pem-288,8,45,18,60,12.74,0.00%,0.23548,0.61,0.1,2668
+/security-state-staging/intermediates/68708c8c-138c-4ee0-a5c4-66532b7b641e.pem-289,8,47,15,84,26.74,0.00%,0.23532,0.52,0.1,2282
+/security-state-staging/intermediates/d68b50e2-f640-4c14-8f8d-3d06895fa5dd.pem-290,8,28,16,38,6.94,0.00%,0.23563,0.5,0.1,2193
+/security-state-staging/intermediates/bceea9fa-e4b3-4241-b6a6-400d7eff3735.pem-275,8,40,18,73,17.18,0.00%,0.23578,0.57,0.1,2489
+/security-state-staging/intermediates/69c28a8d-33ee-4e47-bb72-44abfc083dca.pem-291,8,40,14,64,16.94,0.00%,0.23611,0.52,0.1,2258
+/security-state-staging/intermediates/9fcf94ff-9fb8-4a24-a227-cc9c133af787.pem-292,8,39,14,69,19.93,0.00%,0.23625,0.72,0.1,3103
+/security-state-staging/intermediates/5e91cd24-d2d6-4885-96ae-f41fd7f2fa91.pem-293,8,24,14,36,7.63,0.00%,0.23652,0.58,0.1,2514
+/security-state-staging/intermediates/3db62490-3f0e-45c1-b32e-72a8327a43d8.pem-298,8,25,15,42,10.17,0.00%,0.23664,0.57,0.1,2469
+/security-state-staging/intermediates/df08562c-f117-43d1-a40a-3997497594ad.pem-296,8,34,19,47,8.14,0.00%,0.23648,0.6,0.1,2602
+/security-state-staging/intermediates/33210e93-8625-445b-8a01-f0880f97112a.pem-297,8,42,15,117,30.67,0.00%,0.2359,0.43,0.1,1888
+/security-state-staging/intermediates/a2a04dfe-6201-4d0a-b8cf-80d2975bfb51.pem-299,8,23,14,30,5.97,0.00%,0.2358,0.51,0.1,2233
+/security-state-staging/intermediates/6bb7cf22-95ce-47fd-a9cb-82d4ddb64e6b.pem-295,7,32,16,95,26.08,0.00%,0.2064,0.7,0.09,3460.6
+/security-state-staging/intermediates/e04bb898-e61a-4362-98f8-e5c0e0559cd6.pem-294,7,49,16,112,34.06,0.00%,0.20633,0.58,0.09,2867.6
+/security-state-staging/intermediates/b0359886-f578-4ff8-b6f6-68c9c49ac966.pem-300,7,45,14,112,30.3,0.00%,0.20668,0.45,0.09,2221
+/security-state-staging/intermediates/045aac79-cc35-49db-8b4d-0666190c0af9.pem-302,7,32,19,65,14.53,0.00%,0.20676,0.53,0.09,2619
+/security-state-staging/intermediates/b1facc0e-29f8-46fb-aa78-793969728b53.pem-301,7,127,15,729,245.87,0.00%,0.20689,0.31,0.09,1539
+/security-state-staging/intermediates/e42e0283-11fb-4d68-9fdc-e27de55696c0.pem-303,6,91,13,222,93.1,0.00%,0.17721,0.31,0.07,1807
+/security-state-staging/intermediates/f2a467cf-852a-4877-8297-d067155b948c.pem-304,6,145,20,619,213.1,0.00%,0.17719,0.34,0.07,1941.3
+/security-state-staging/intermediates/2377fa54-4f75-4365-adcf-533a61b44d4d.pem-305,6,56,15,145,44.34,0.00%,0.17728,0.39,0.07,2262
+/security-state-staging/intermediates/16c579d8-6440-475f-8026-f61d70b2e561.pem-307,6,56,16,120,34.88,0.00%,0.17733,0.5,0.07,2908
+/security-state-staging/intermediates/0486c6f8-9242-436a-ac4b-f79e0190ac35.pem-306,6,43,15,62,17.27,0.00%,0.17722,0.39,0.07,2234
+/security-state-staging/intermediates/a2c07257-f449-4845-8a46-396088d1f54d.pem-308,6,55,19,120,33.63,0.00%,0.1772,0.5,0.07,2904
+/security-state-staging/intermediates/a15cc313-776e-4ddc-8dee-23a7bc052cd2.pem-309,6,42,19,85,21.68,0.00%,0.17723,0.43,0.07,2493
+/security-state-staging/intermediates/b2f31954-4fc2-49aa-b47a-a4f8bc93b301.pem-310,6,32,14,57,14.1,0.00%,0.1773,0.32,0.07,1827
+/security-state-staging/intermediates/b5ade449-4506-4a44-87eb-1f9505aa417a.pem-311,6,37,15,65,18.01,0.00%,0.17733,0.39,0.07,2258
+/security-state-staging/intermediates/ff509022-df05-462c-8f12-7d582a910132.pem-312,6,50,35,80,16.12,0.00%,0.17724,0.38,0.07,2168
+/security-state-staging/intermediates/729b520d-7781-44fd-a627-50fb1479e236.pem-313,6,39,15,61,17.18,0.00%,0.17736,0.39,0.07,2229
+/security-state-staging/intermediates/1d17c147-7074-4238-a5f3-2afbfe4c0bd9.pem-314,6,53,14,77,23.7,0.00%,0.17754,0.42,0.07,2412
+/security-state-staging/intermediates/4707fc72-bf42-4ca1-b92f-0e6c478b196a.pem-315,6,51,14,74,22.28,0.00%,0.17806,0.31,0.07,1762
+/security-state-staging/intermediates/289d0bfa-f60b-4593-a2a6-fc2e5548b6cb.pem-316,6,56,14,101,27.96,0.00%,0.17836,0.31,0.07,1782
+/security-state-staging/intermediates/ad60497c-1544-4bff-98ec-e53c67af444a.pem-317,7,49,19,76,18.94,0.00%,0.20826,0.45,0.09,2190.3
+/security-state-staging/intermediates/233bd648-66bc-440b-8b31-293196be1b49.pem-318,7,81,14,389,126.4,0.00%,0.20864,0.36,0.09,1790.4
+/security-state-staging/intermediates/e653ac73-2a44-4cf2-a0dd-085d990af883.pem-319,7,114,15,563,184.68,0.00%,0.20869,0.51,0.09,2505.6
+/security-state-staging/intermediates/e8727b1e-db90-43a1-896d-acfa3849475f.pem-320,7,44,14,78,24.6,0.00%,0.20885,0.37,0.09,1831
+/security-state-staging/intermediates/c7908f51-74f4-4f42-83ae-1aea4789362b.pem-321,7,73,14,212,63.63,0.00%,0.20894,0.54,0.09,2627
+/security-state-staging/intermediates/96b5681d-2aaa-4dac-9827-d0a896818604.pem-322,7,48,13,120,34.69,0.00%,0.20912,0.44,0.09,2147.3
+/security-state-staging/intermediates/b10cbda6-5d12-47d2-b428-377602c98dfd.pem-323,7,57,15,194,57.55,0.00%,0.20924,0.39,0.09,1912
+/security-state-staging/intermediates/78768961-a784-4914-826d-12a0730f7d2f.pem-324,7,127,17,548,178.33,0.00%,0.20921,0.36,0.09,1786
+/security-state-staging/intermediates/a350f8ab-6eeb-43db-a3d4-37d09ca42bc3.pem-325,8,65,18,220,63.79,0.00%,0.23917,0.68,0.1,2908
+/security-state-staging/intermediates/da84341e-9c4a-411d-81b2-cba5084edf77.pem-326,8,39,17,80,25.13,0.00%,0.2397,0.6,0.1,2583
+/security-state-staging/intermediates/c89b46ba-6440-4252-8a78-01ab1f7fa2b5.pem-327,8,34,14,73,21.85,0.00%,0.23973,0.43,0.1,1819
+/security-state-staging/intermediates/1d1ab64c-f64a-4919-aace-65e8529d7d55.pem-328,8,45,14,120,30.39,0.00%,0.23959,0.51,0.1,2193
+/security-state-staging/intermediates/ce362e8f-6a48-4236-a1d6-2a63778041fc.pem-329,8,34,14,60,16.91,0.00%,0.23923,0.66,0.1,2839
+/security-state-staging/intermediates/921ccf85-810d-4dac-aa21-7f10573415c2.pem-330,8,47,15,96,24.94,0.00%,0.23866,0.69,0.1,2948
+/security-state-staging/intermediates/2b6e11e8-fc81-45eb-9865-4123414df1e4.pem-331,8,29,15,73,17.59,0.00%,0.23855,0.68,0.1,2903.4
+/security-state-staging/intermediates/e4bdfc10-cf3c-4f1d-8566-19d3353552f5.pem-332,8,41,15,81,24.25,0.00%,0.23842,0.42,0.1,1819
+/security-state-staging/intermediates/42580e0c-abd4-4f8d-a88f-f7cbd167e898.pem-333,8,184,13,1278,413.46,0.00%,0.23849,0.64,0.1,2767.4
+/security-state-staging/intermediates/fbb7342f-2e0d-4f3b-8dc3-9f69e60e0638.pem-334,8,30,16,56,15.72,0.00%,0.24782,0.53,0.1,2192.5
+/security-state-staging/intermediates/f238a915-dd39-437d-96c4-daca3c66e661.pem-335,8,22,14,38,7.42,0.00%,0.24849,0.54,0.1,2241
+/security-state-staging/intermediates/d9278d38-64f1-4628-b185-a021cc542517.pem-336,8,27,12,59,17.03,0.00%,0.24853,0.39,0.1,1624
+/security-state-staging/intermediates/1a77e1c3-b927-44ab-96bf-2e72de1a7f04.pem-337,8,53,13,211,62.05,0.00%,0.24855,0.52,0.1,2148
+/security-state-staging/intermediates/069b42b2-4592-4d14-8a72-aec786fb8af9.pem-338,8,32,15,76,23.55,0.00%,0.24869,0.63,0.1,2599
+/security-state-staging/intermediates/ce167ca1-2411-4863-820e-956dec419f09.pem-339,8,33,16,72,20.15,0.00%,0.2487,0.65,0.1,2688.5
+/security-state-staging/intermediates/eaf84a71-fc34-486e-afdf-26e1ecaca22a.pem-341,8,29,14,47,12.98,0.00%,0.24873,0.55,0.1,2258.5
+/security-state-staging/intermediates/b6d9843d-8dea-45b8-acba-752b6481c4e7.pem-342,8,175,14,1211,391.39,0.00%,0.24874,0.55,0.1,2273.9
+/security-state-staging/intermediates/b1dae52e-fa30-4d0b-bfd3-410952ab066e.pem-345,8,29,20,61,12.24,0.00%,0.25825,0.56,0.11,2212.5
+/security-state-staging/intermediates/b22276db-4c8e-4141-a014-1fe8448280d6.pem-340,8,24,16,39,9,0.00%,0.25862,0.45,0.11,1789.5
+/security-state-staging/intermediates/d6a8096b-9b05-41b8-984a-b244edc193b6.pem-346,8,47,14,188,55.02,0.00%,0.25884,0.68,0.11,2675.4
+/security-state-staging/intermediates/66fe1f2b-f2db-4f71-b2a3-71ed411360c0.pem-344,8,35,15,75,19.31,0.00%,0.25925,0.7,0.11,2778
+/security-state-staging/intermediates/08ed8214-4b33-43b4-8ba3-b97456144534.pem-347,8,36,16,71,21.21,0.00%,0.2595,0.58,0.11,2304.9
+/security-state-staging/intermediates/104f20f8-b19b-47ab-900b-8d1023c6ef8e.pem-343,8,55,14,230,67.59,0.00%,0.25953,0.44,0.11,1754
+/security-state-staging/intermediates/d5d6b138-b20a-438c-bed9-6af0e662b862.pem-349,8,41,14,101,34.05,0.00%,0.26136,0.64,0.11,2501
+/security-state-staging/intermediates/fc98d0bf-3fd0-4144-8840-b8ab888570c1.pem-350,9,34,19,82,18.13,0.00%,0.2948,0.85,0.12,2937
+/security-state-staging/intermediates/22ac570b-4cc3-4c17-9e18-d971ddf56a48.pem-351,9,31,16,88,21.4,0.00%,0.29536,0.63,0.12,2180
+/security-state-staging/intermediates/73b48642-48c6-4e2b-8618-80c484befb9e.pem-352,9,59,14,360,106.22,0.00%,0.29596,0.51,0.12,1771.3
+/security-state-staging/intermediates/4d9a3627-f2bf-46be-8d65-0d6e16607a5c.pem-353,9,33,15,121,32.37,0.00%,0.29967,0.76,0.12,2599
+/security-state-staging/intermediates/ad34e608-081b-4ce8-83f8-80bf15e28c0e.pem-354,10,35,17,104,24.36,0.00%,0.33412,0.68,0.14,2081
+/security-state-staging/intermediates/23e4caa9-34aa-417e-96d6-0cbe09fe2c1b.pem-355,10,26,15,49,11.93,0.00%,0.33512,0.78,0.14,2379
+/security-state-staging/intermediates/7a4e3658-6b03-4543-9e0b-5aba562bebeb.pem-356,10,23,14,50,9.83,0.00%,0.33553,0.79,0.14,2412
+/security-state-staging/intermediates/403eee64-4e15-4445-9125-880c50700edc.pem-357,10,27,16,47,9.36,0.00%,0.33556,0.86,0.14,2639.4
+/security-state-staging/intermediates/5bd158ec-9b1a-4f28-a72f-d1df9f315007.pem-359,10,22,16,47,9.09,0.00%,0.33578,0.58,0.14,1770
+/security-state-staging/intermediates/fe06a439-e718-4f32-9f86-6496f932e53b.pem-358,10,30,13,118,30.41,0.00%,0.33586,0.76,0.14,2310
+/security-state-staging/intermediates/eec72944-f23d-4fd7-af54-2e8bef884ac3.pem-360,10,22,15,38,8.2,0.00%,0.33598,0.91,0.14,2769.3
+/security-state-staging/intermediates/2cc945f7-048e-49d1-9db7-21562f2a4653.pem-361,10,22,16,35,7.14,0.00%,0.33598,0.93,0.14,2829.7
+/-348,10,316,176,390,77.24,0.00%,0.33386,1.66,0.15,5096
+/security-state-staging/intermediates/18e448e1-105d-4af6-aed2-c3b148c16b31.pem-362,10,37,14,127,36.12,0.00%,0.33629,0.63,0.14,1915.6
+/security-state-staging/intermediates/1a96dd1e-3da0-45c3-af06-b3f0b4132469.pem-363,10,33,15,111,29.14,0.00%,0.33695,0.72,0.14,2188.4
+/security-state-staging/intermediates/19849d6e-4747-43ee-8681-ec845c5cc334.pem-364,10,30,13,70,17.85,0.00%,0.33758,0.73,0.14,2213
+/security-state-staging/intermediates/05064024-e55d-4a24-8af1-a623cb42e66d.pem-365,10,23,13,68,15.48,0.00%,0.33823,0.77,0.14,2335
+/security-state-staging/intermediates/b4662a9d-42c8-4b80-a96b-dfc5d52e4bf7.pem-366,10,23,14,97,24.4,0.00%,0.3388,0.71,0.14,2148
+/security-state-staging/intermediates/34069b00-c339-4852-bd44-2c39ed72658f.pem-367,10,35,15,162,42.48,0.00%,0.33959,0.88,0.14,2660
+/security-state-staging/intermediates/03bffa5d-f6c2-4e19-9cc3-8703ad8b63a7.pem-368,10,44,14,176,44.8,0.00%,0.34111,0.93,0.14,2777.4
+/security-state-staging/intermediates/bb452f94-c0b6-479f-b577-d019a89c31d7.pem-375,10,29,14,115,29.21,0.00%,0.34296,0.79,0.14,2367
+/security-state-staging/intermediates/1e2884de-0e02-466d-87d3-08333e45105e.pem-376,9,28,14,87,21.88,0.00%,0.30964,0.69,0.13,2280.4
+/security-state-staging/intermediates/46790f31-f30a-4ebc-a8bd-affde0c28bbf.pem-377,9,23,13,83,21.29,0.00%,0.3104,0.8,0.13,2635
+/security-state-staging/intermediates/173a1a2d-4f59-4194-99eb-916147b82f27.pem-378,9,29,14,85,21.38,0.00%,0.31114,0.88,0.13,2891
+/security-state-staging/intermediates/b367aa12-6056-49e2-b8bc-e3e1a2120b35.pem-379,9,30,13,94,24.49,0.00%,0.3118,0.69,0.13,2258
+/security-state-staging/intermediates/0ff9bf8a-8c2d-458a-843f-714bb4ae0838.pem-380,9,24,13,60,15.95,0.00%,0.31268,0.64,0.13,2091.4
+/security-state-staging/intermediates/9cd7eebb-6d48-4abe-94a1-d32e3376bc95.pem-381,8,33,14,83,21.97,0.00%,0.27835,0.53,0.11,1957
+/security-state-staging/intermediates/bfd5cec4-42a7-4b3b-b908-8fee3edce79d.pem-382,8,33,13,86,30.08,0.00%,0.27903,0.75,0.12,2765
+/security-state-staging/intermediates/2185c65c-d2c0-4ba3-8bf8-6da756924b30.pem-383,8,33,13,68,18.59,0.00%,0.27931,0.73,0.12,2684
+/security-state-staging/intermediates/b355804b-4052-46bc-8216-e19067687e45.pem-384,8,41,15,96,25.52,0.00%,0.27938,0.42,0.12,1550
+/security-state-staging/intermediates/be5afe2d-0613-41bb-a455-fa59165d360a.pem-385,8,35,15,97,25.84,0.00%,0.27905,0.79,0.12,2899
+/node_modules/jquery/dist/jquery.min.js-373,7,232,87,335,111.9,0.00%,0.24384,8.56,0.09,35936.4
+/security-state-staging/intermediates/dbb82e4f-7aec-48a0-ac02-21ed8c89e97c.pem-386,7,25,14,48,12.57,0.00%,0.24659,0.51,0.1,2136
+/css/latostyle.css-371,6,277,48,391,107.29,0.00%,0.20939,0.21,0.08,1006.8
+/node_modules/video.js/dist/video-js.min.css-370,7,262,117,397,84.41,0.00%,0.24553,2.98,0.1,12435.3
+/security-state-staging/intermediates/39747309-5dcc-499d-b5fe-d02d1627de6a.pem-387,7,45,13,206,65.78,0.00%,0.249,0.43,0.1,1758
+/css/latofonts.css-372,8,294,261,355,27.31,0.00%,0.28402,0.36,0.11,1300.1
+/security-state-staging/intermediates/cad5f6b5-2734-4acd-93bf-834cf09b57f9.pem-388,8,33,14,62,18.47,0.00%,0.28631,0.72,0.12,2579
+/security-state-staging/intermediates/462c6883-febc-43cb-a54c-b1a9342fa047.pem-389,9,32,14,67,18.43,0.00%,0.3225,0.7,0.13,2237
+/security-state-staging/intermediates/80e952ea-02dd-40b2-9b1d-7cc71c4315a3.pem-390,9,23,13,66,15.72,0.00%,0.32272,0.63,0.13,2006
+/node_modules/bootstrap/dist/css/bootstrap.min.css-369,10,274,57,331,75.11,0.00%,0.35869,9.95,0.15,28414
+/node_modules/video.js/dist/video.min.js-374,10,341,132,514,106.74,0.00%,0.35881,56.41,0.14,160980.2
+/security-state-staging/intermediates/f2d71897-6ff6-41e1-b3e6-65dc5b946850.pem-392,10,34,15,61,14.58,0.00%,0.36306,0.99,0.15,2782
+/security-state-staging/intermediates/038b81ab-4eff-4d41-90a4-8f4f86b72f6b.pem-395,10,23,14,56,12,0.00%,0.36361,0.74,0.15,2083
+/security-state-staging/intermediates/5194afcf-779a-4b67-8a2c-d2d678abc8e2.pem-394,10,26,14,92,22.27,0.00%,0.36475,0.59,0.15,1660.4
+/security-state-staging/intermediates/b3ac4b57-3de7-499a-b496-5f0d967cd4fd.pem-398,10,30,14,124,32.24,0.00%,0.36578,1.04,0.15,2899
+/security-state-staging/intermediates/c1d38581-09c8-4632-b7fd-8fef7af079de.pem-400,10,26,15,49,11.26,0.00%,0.36618,0.94,0.15,2639
+/security-state-staging/intermediates/2b8e2bc0-c68e-4dce-9e23-322c77fed80d.pem-405,10,24,14,43,10.26,0.00%,0.36649,0.99,0.15,2757
+/security-state-staging/intermediates/0e5c6bab-00ba-4b47-8e40-654d140bf187.pem-404,10,28,14,86,22.34,0.00%,0.36629,0.95,0.15,2664
+/security-state-staging/intermediates/e953b38b-8f78-45ce-a629-abedac23b9e6.pem-401,10,27,14,70,16.75,0.00%,0.36678,0.78,0.15,2180
+/security-state-staging/intermediates/f2773561-f2a2-40fa-ad5d-27944e0e90af.pem-403,10,34,14,92,27.75,0.00%,0.3672,0.99,0.15,2761.4
+/security-state-staging/intermediates/86a79f6f-14ab-4ade-a0ec-33f05a4994dd.pem-406,10,27,14,51,13.78,0.00%,0.36761,0.59,0.15,1640
+/security-state-staging/intermediates/412937b3-4c01-460f-919e-91f7868ee734.pem-407,10,31,17,69,18.22,0.00%,0.36793,0.99,0.15,2765
+/node_modules/tether/dist/js/tether.min.js-393,10,241,48,299,88.52,0.00%,0.36834,3.32,0.14,9232.3
+/imgs/front.jpg-399,10,176,54,301,106.9,0.00%,0.36876,8.98,0.14,24949
+/js/index.js-396,10,231,53,372,106.06,0.00%,0.36631,1.05,0.13,2931.5
+/node_modules/bootstrap/dist/js/bootstrap.min.js-397,10,270,173,343,38.68,0.00%,0.36759,5.56,0.15,15499.4
+/security-state-staging/intermediates/fefa5d10-d98f-4287-9506-4f85b5b19311.pem-408,10,39,15,212,57.88,0.00%,0.37205,1,0.15,2743
+/security-state-staging/intermediates/3e50c772-6e6b-44a6-a9ca-2b159d8e0abb.pem-410,10,25,15,55,11.32,0.00%,0.37474,0.96,0.15,2623.4
+/security-state-staging/intermediates/3f1383e4-4860-4b8b-bf8b-eac0b66ceb61.pem-409,10,21,14,41,9.95,0.00%,0.37487,0.75,0.15,2059
+/security-state-staging/intermediates/6cc7acac-4c52-41c2-aa25-5c066d9c2b1d.pem-411,10,28,13,59,15.02,0.00%,0.37518,0.83,0.15,2274
+/security-state-staging/intermediates/0abef2b9-f3eb-4326-b533-c2518a91342f.pem-412,10,25,14,46,9.94,0.00%,0.3756,1.05,0.16,2875
+/security-state-staging/intermediates/569425e5-70f5-4d17-9375-130302d7faca.pem-413,10,28,14,60,16.78,0.00%,0.37504,0.93,0.15,2533.6
+/node_modules/videojs-contrib-hls/dist/videojs-contrib-hls.min.js-391,10,307,103,461,86.7,0.00%,0.37121,26.45,0.15,72968.5
+/bm.png-402,10,311,47,537,126.5,0.00%,0.37117,1.55,0.14,4263
+/security-state-staging/intermediates/3b6fca76-7f63-404d-9abf-7ab592b983fd.pem-417,10,52,13,127,44.96,0.00%,0.37693,0.69,0.16,1876
+/security-state-staging/intermediates/ead2cc1f-3b5a-4901-9bef-7454e11f15e1.pem-419,10,31,15,88,21.57,0.00%,0.37655,1.02,0.16,2778
+/security-state-staging/intermediates/b20d43ab-f8ba-4334-9fe7-9761a8c8df5b.pem-420,10,21,14,54,11.32,0.00%,0.37706,1.03,0.16,2796.4
+/security-state-staging/intermediates/30fc0da8-fbce-4173-8b65-04302c315cb1.pem-421,10,23,13,86,21.28,0.00%,0.37743,1.02,0.16,2757
+/security-state-staging/intermediates/ab68565f-3826-44b7-a2c2-b26eacf94668.pem-423,10,27,15,56,14.16,0.00%,0.3779,1.05,0.16,2847
+/security-state-staging/intermediates/1cd64f4c-6774-4383-aea2-1be395858f0e.pem-422,10,25,14,74,16.64,0.00%,0.37877,0.86,0.16,2331
+/security-state-staging/intermediates/cc8a3501-4e66-4b5b-9d98-d401566c67e8.pem-426,10,20,14,33,6.83,0.00%,0.37959,0.67,0.16,1794.4
+/security-state-staging/intermediates/fd03be7e-e416-420c-a8c0-2b829c362d52.pem-425,10,30,15,97,23.88,0.00%,0.37984,0.82,0.16,2213
+/security-state-staging/intermediates/72a185d7-4eb2-47d8-b2a4-e045b0a06de6.pem-427,10,22,15,34,6.43,0.00%,0.37991,1.17,0.16,3159
+/security-state-staging/intermediates/c13e4075-4455-4d13-b078-eb10f272dd6f.pem-428,10,25,16,57,11.72,0.00%,0.38011,1.09,0.16,2948.9
+/nexus1.jpg-416,10,299,63,479,102.94,0.00%,0.37411,12.47,0.14,34140
+/security-state-staging/intermediates/6f24bdbe-5332-48da-8591-994a182c5271.pem-429,10,33,13,112,31.93,0.00%,0.37982,0.57,0.16,1534.4
+/security-state-staging/intermediates/a7a30d9c-6953-4f41-8b0e-5c00269c7884.pem-430,10,26,14,82,19.04,0.00%,0.38062,0.76,0.16,2053.6
+/security-state-staging/intermediates/9feab4a5-669f-46c9-9f31-2d561a1fc8de.pem-431,10,29,13,64,15.74,0.00%,0.38149,0.96,0.16,2577.6
+/security-state-staging/intermediates/8e947df6-4c32-4098-ade0-96dc5f789020.pem-432,10,45,15,120,39.36,0.00%,0.38213,0.74,0.16,1989
+/Samsung1.jpg-415,10,220,58,387,129.51,0.00%,0.38288,10.35,0.15,27679.8
+/css/fonts/Lato-Regular.woff2-414,10,307,98,514,118.37,0.00%,0.38317,68.48,0.17,183009
+/security-state-staging/intermediates/dee40a5f-efa0-4a09-8a63-181ab2062fb5.pem-433,10,40,13,114,35.25,0.00%,0.39062,0.81,0.16,2119
+/security-state-staging/intermediates/58e032c9-3739-4306-b3be-d1a171c32836.pem-434,10,32,14,93,23.67,0.00%,0.39211,0.99,0.16,2591
+/config.json-424,10,246,51,576,148.99,0.00%,0.39274,0.19,0.17,506.5
+/security-state-staging/intermediates/9c145580-394f-4fa2-a6f7-4b69b25217ba.pem-435,10,27,14,70,16.44,0.00%,0.40145,0.69,0.17,1758
+/iphone1.jpg-418,10,271,66,418,95.04,0.00%,0.40153,13.68,0.15,34899.8
+/security-state-staging/intermediates/de9b3e8a-9359-4fdf-803d-cc3302061a0d.pem-438,10,50,13,143,48.97,0.00%,0.40489,1.04,0.17,2635
+/security-state-staging/intermediates/b9c0be27-667a-4073-b981-b75d445af54d.pem-436,10,41,14,122,34.82,0.00%,0.40357,0.92,0.17,2331
+/security-state-staging/intermediates/856df076-8668-4af6-a815-a46aefc6687e.pem-437,10,36,14,104,29.01,0.00%,0.40463,1.08,0.17,2729
+/security-state-staging/intermediates/97909fb6-ddc3-470e-be2b-383bf9c3f177.pem-439,10,36,14,125,30.95,0.00%,0.40527,0.92,0.17,2322.3
+/security-state-staging/intermediates/1c8b5b0a-6ce6-460c-b68c-5b9e6dcd4acd.pem-440,10,32,14,87,22.54,0.00%,0.40578,0.81,0.17,2046
+/security-state-staging/intermediates/45cec3c7-5837-4564-ae9a-ca159c42fdae.pem-441,10,19,14,40,7.31,0.00%,0.40657,0.87,0.17,2193
+/security-state-staging/intermediates/453adbd2-22ff-42b4-92ed-171fb792efa3.pem-442,10,22,14,57,12.95,0.00%,0.407,1,0.17,2522
+/security-state-staging/intermediates/2a9db6d2-ba72-49aa-a083-f23d88661c4b.pem-444,10,24,14,61,15.84,0.00%,0.40773,0.66,0.17,1648
+/security-state-staging/intermediates/9e9ff0f0-f45d-41dc-8a17-414e7c15f484.pem-443,10,23,14,69,15.81,0.00%,0.4085,0.91,0.17,2274
+/security-state-staging/intermediates/06349813-d93c-441c-a351-17e576175b0e.pem-446,10,26,14,52,10.46,0.00%,0.4088,0.72,0.17,1811
+/security-state-staging/intermediates/a9cbcbd0-800f-442e-8f52-903325a5ee23.pem-447,10,29,14,79,24.08,0.00%,0.40791,1.03,0.17,2591
+/about_demo_hls_600k.m3u8-448,10,142,87,260,57.39,0.00%,0.4052,2.48,0.16,6257.4
+/security-state-staging/intermediates/de87ee5e-fc90-47ae-a551-27f45867b68c.pem-449,10,53,14,138,42.1,0.00%,0.40561,0.82,0.17,2059
+/security-state-staging/intermediates/4ebda4af-1b27-4b52-bf3e-baac3a47d395.pem-450,10,21,13,50,10.51,0.00%,0.40665,0.89,0.17,2241.4
+/security-state-staging/intermediates/0abdba7c-086e-4aef-bf18-86e3082d8261.pem-452,10,39,14,83,30.15,0.00%,0.40722,1.1,0.17,2769
+/security-state-staging/intermediates/a9cbd897-053a-41e4-8393-6d04c9bc1206.pem-451,10,34,14,136,39.35,0.00%,0.4088,0.87,0.17,2175.6
+/security-state-staging/intermediates/c4ef2e24-67be-4d3f-9009-505483ee22cc.pem-453,10,38,13,153,43.03,0.00%,0.40995,0.74,0.17,1847
+/security-state-staging/intermediates/072d3e2f-c6d6-4fad-b857-dd2ce6d10d88.pem-454,10,22,13,38,7.76,0.00%,0.41117,0.76,0.17,1888
+/security-state-staging/intermediates/34d6fd53-d5dd-4289-aa37-161e72f0a7e9.pem-455,10,25,15,58,16.02,0.00%,0.41086,0.93,0.17,2309.3
+/security-state-staging/intermediates/5ce080da-dabc-4e36-8b5a-0e36fecb1504.pem-456,10,23,15,69,15.63,0.00%,0.41154,0.74,0.17,1847
+/security-state-staging/intermediates/27c32677-48fe-4613-8b2f-ca869cef0d85.pem-457,10,21,15,49,9.9,0.00%,0.41246,1.05,0.17,2595
+/security-state-staging/intermediates/7152e9d3-3a75-4a64-a243-62e63233c96e.pem-459,10,21,13,56,12.12,0.00%,0.413,0.92,0.17,2286.4
+/entries-445,10,505,372,849,136.46,0.00%,0.3999,0.64,0.15,1626.9
+/security-state-staging/intermediates/1dc83dc9-3eb5-4f1a-b57c-b793fc38ab0c.pem-458,10,28,17,72,15.19,0.00%,0.40573,0.97,0.17,2457
+/security-state-staging/intermediates/1e7b3b95-827d-4d57-82a5-e199120f0c80.pem-460,10,47,15,125,34.62,0.00%,0.4056,0.84,0.17,2132
+/security-state-staging/intermediates/5df58a07-e383-4a1a-8af4-9471aa61c013.pem-461,10,46,15,129,37.06,0.00%,0.40538,1.09,0.17,2763.1
+/security-state-staging/intermediates/8b16acf6-9f74-495d-a9f0-b039aa0c54b5.pem-462,10,26,16,66,15.45,0.00%,0.40612,1.03,0.17,2594.3
+/security-state-staging/intermediates/79818100-f277-4947-a852-dfbece0f18ac.pem-463,10,17,13,29,4.47,0.00%,0.40637,0.82,0.17,2066.9
+/security-state-staging/intermediates/a8e67472-ca0f-418d-8e14-eded55f5c9b6.pem-464,10,22,14,58,12.55,0.00%,0.4057,1.1,0.17,2781.3
+/security-state-staging/intermediates/73b1704d-b140-489e-a73d-4b23fc14264f.pem-465,10,16,14,24,2.91,0.00%,0.40586,0.72,0.17,1815
+/security-state-staging/intermediates/02ea376f-2b25-48af-aa1a-bbc3ae4d927a.pem-466,10,21,13,43,10.24,0.00%,0.40604,0.76,0.17,1908
+/security-state-staging/intermediates/98a3c55c-3f5d-4937-9389-3ca882ba85cf.pem-469,10,29,13,51,14.14,0.00%,0.40607,0.9,0.17,2264.6
+/security-state-staging/intermediates/2f74d7af-2322-481e-bf37-db31a0ed200e.pem-474,10,45,14,160,43.23,0.00%,0.40543,0.67,0.17,1704.3
+/security-state-staging/intermediates/3b3e6534-12f9-4116-b098-a1615312a950.pem-475,10,35,14,167,44.59,0.00%,0.40603,0.86,0.17,2160
+/security-state-staging/intermediates/cb70ae36-1854-4bda-922f-ee1120bc9050.pem-476,10,20,15,31,4.97,0.00%,0.40601,1.16,0.17,2921.4
+/security-state-staging/intermediates/7d5c253a-8a9d-47b0-b14d-a935652bb1c7.pem-478,10,20,14,36,7.81,0.00%,0.40596,0.87,0.17,2205
+/security-state-staging/intermediates/fdc0d0de-779e-4ed4-b480-e0927eac2eeb.pem-477,10,25,13,58,13.03,0.00%,0.40561,1.09,0.17,2757
+/imgs/Lumia_1520.jpg-467,10,406,289,487,53.88,0.00%,0.40006,56.85,0.16,145514
+/security-state-staging/intermediates/5fa45934-3564-40de-9333-8d0a2ddc99c4.pem-479,10,34,15,98,26.99,0.00%,0.40607,0.79,0.17,2002.4
+/security-state-staging/intermediates/24bcf52a-aa3c-4d05-8236-9a1e72833516.pem-480,10,27,14,57,16.74,0.00%,0.40659,0.71,0.17,1799
+/security-state-staging/intermediates/8a739887-2661-4e6d-8937-838e82255c56.pem-481,10,34,14,65,20.35,0.00%,0.40715,0.9,0.17,2261.6
+/imgs/Nexus_6.jpg-468,10,358,98,531,173.89,0.00%,0.40598,92.02,0.16,232097
+/security-state-staging/intermediates/b922bf76-82c6-4d56-9df0-a9ce0bbc8904.pem-483,10,59,14,158,39.32,0.00%,0.41444,0.71,0.17,1750
+/security-state-staging/intermediates/f6452090-5838-4301-88db-8a0e4b236b13.pem-482,10,37,17,128,35.39,0.00%,0.41539,0.95,0.17,2351
+/imgs/galaxy_s6.jpg-470,10,315,101,403,90.9,0.00%,0.41506,43.67,0.16,107733
+/security-state-staging/intermediates/7dfff9a0-2288-42d4-a9d9-ab2bbc41f4b7.pem-486,10,53,15,126,37.05,0.00%,0.41876,0.91,0.17,2217
+/imgs/xperia_z5.jpg-473,10,310,81,449,116.75,0.00%,0.41762,58.72,0.16,143968
+/imgs/HTC_M9.jpg-472,9,308,85,361,80.62,0.00%,0.39059,37.09,0.15,97234
+/security-state-staging/intermediates/379744b3-624d-49d1-b082-83d5b607dc72.pem-484,9,33,17,43,6.75,0.00%,0.39519,0.86,0.16,2229
+/security-state-staging/intermediates/4357dc68-fa1b-4e2f-83fd-69a438b26167.pem-487,9,39,15,78,22.34,0.00%,0.39538,0.95,0.16,2473
+/security-state-staging/intermediates/81d5dbda-8b8c-4210-bd29-d0afb44912b8.pem-488,9,51,15,120,37.02,0.00%,0.3959,0.86,0.16,2225
+/security-state-staging/intermediates/741b70e1-9a0c-4119-8c26-f064675f513a.pem-489,9,49,15,114,40.19,0.00%,0.39606,0.86,0.16,2224.8
+/security-state-staging/intermediates/952bd502-791e-4261-b4e5-03edaa55f023.pem-490,9,54,16,102,24.88,0.00%,0.39614,1.02,0.16,2641
+/security-state-staging/intermediates/607ed211-fb20-4f94-983e-4f28c788decb.pem-491,9,43,16,114,32.17,0.00%,0.39644,0.87,0.16,2249
+/imgs/iphone_6.jpg-471,9,364,95,509,155.92,0.00%,0.39199,77.04,0.15,201243
+/security-state-staging/intermediates/5c3885bb-cc4d-4eb7-8b65-2d767339453e.pem-492,9,82,20,196,49.59,0.00%,0.4005,0.81,0.17,2082.8
+/security-state-staging/intermediates/581ad6f1-197b-4266-8998-31bfac7b024e.pem-493,9,33,14,85,24.11,0.00%,0.40123,0.76,0.17,1949
+/security-state-staging/intermediates/f3b55e61-3d7d-4b0b-ac5f-0577a6dc5b2d.pem-494,9,30,15,88,23.29,0.00%,0.40102,0.93,0.17,2367
+/security-state-staging/intermediates/edf7a0ab-f105-4045-ad80-91b14cc59cd4.pem-495,9,24,15,70,17.96,0.00%,0.40136,1,0.17,2550
+/security-state-staging/intermediates/22134104-5ce1-42ac-854b-0e9140df8eb5.pem-496,9,37,15,56,15.98,0.00%,0.40205,1.05,0.17,2668
+/security-state-staging/intermediates/eafb024c-95d9-45ad-af85-982024cc73e9.pem-497,9,36,17,63,13.82,0.00%,0.40232,1.19,0.17,3017
+/security-state-staging/intermediates/7c03ad6f-9302-4ef0-8cfa-c63b88ca2eb0.pem-498,9,20,13,32,6.27,0.00%,0.40319,0.86,0.17,2172
+/security-state-staging/intermediates/397c16a4-6646-447e-b182-2d66d18a585d.pem-500,9,23,13,44,10.07,0.00%,0.40348,0.78,0.17,1985
+/security-state-staging/intermediates/65f80d0b-45ab-4ac9-b896-274c7239ff7f.pem-499,9,31,13,102,28.71,0.00%,0.40399,0.7,0.17,1764.4
+/security-state-staging/intermediates/e7f0cdf9-77c2-4123-9a86-5c429ea6c98a.pem-501,9,41,13,160,46.97,0.00%,0.40446,1.02,0.17,2591
+/security-state-staging/intermediates/8f9b6c52-ea5d-416d-9057-9f2c263838fa.pem-502,9,20,14,59,13.61,0.00%,0.40709,1.06,0.17,2676
+/imgs/sony_vaio_5.jpg-485,6,362,305,413,36.8,0.00%,0.27607,24.47,0.11,90771
+/security-state-staging/intermediates/9ed8c27e-49e6-46f7-af3c-ffa5f93479b6.pem-503,6,55,17,112,34.25,0.00%,0.27973,0.68,0.12,2473
+/security-state-staging/intermediates/aa57d145-8dd6-481f-a46e-41cbfe6621a5.pem-504,6,26,15,73,21.03,0.00%,0.28026,0.48,0.12,1770
+/security-state-staging/intermediates/7af79d1f-d621-4f9d-96ca-a78801ed430e.pem-505,6,35,14,77,24.7,0.00%,0.28087,0.96,0.12,3517
+/security-state-staging/intermediates/4c09e834-209d-44b3-9ae2-1d9033f6247f.pem-508,6,45,15,69,21.57,0.00%,0.28121,0.69,0.12,2509
+/security-state-staging/intermediates/e7001a08-57a5-4a1e-90f1-5c7b5aa6524c.pem-506,6,26,14,74,21.53,0.00%,0.28143,0.61,0.12,2202.2
+/security-state-staging/intermediates/cabd0fdf-67d0-4416-877c-56013ac22d05.pem-509,6,26,14,61,16.18,0.00%,0.28203,0.47,0.12,1721
+/security-state-staging/intermediates/1dd32622-340e-4668-88c0-f66a190b9524.pem-510,6,34,18,75,23.05,0.00%,0.28261,0.47,0.12,1707
+/security-state-staging/intermediates/7cf5568f-520a-4c42-a67a-874421ee65db.pem-511,6,54,18,86,19.9,0.00%,0.28337,0.64,0.12,2300
+/security-state-staging/intermediates/8771cde1-4865-436b-bb56-6604a726f4bc.pem-512,6,43,15,95,26.24,0.00%,0.28432,0.84,0.12,3027
+/security-state-staging/intermediates/873835df-c179-4e1d-b67d-65d580190ce4.pem-513,6,29,14,52,14.5,0.00%,0.28542,0.48,0.12,1705
+/security-state-staging/intermediates/9da5ee83-928e-402e-bb45-daec09143011.pem-514,6,41,15,58,17.06,0.00%,0.28626,0.49,0.12,1753.7
+/security-state-staging/intermediates/9cc4ce11-6d6f-43c7-bb98-74044eaff317.pem-516,6,45,30,67,12.92,0.00%,0.28644,0.53,0.12,1899.2
+/security-state-staging/intermediates/2339cef0-106c-4e85-bdf5-1ea426315d30.pem-515,6,36,15,56,14.76,0.00%,0.28715,0.65,0.12,2331
+/security-state-staging/intermediates/69bc118e-ba59-4734-a5c1-546158301582.pem-517,6,32,16,54,13.35,0.00%,0.28748,0.78,0.12,2784
+/security-state-staging/intermediates/0ed5c801-2c4d-48d9-94a2-8d9ee4fac113.pem-518,6,28,14,42,11.07,0.00%,0.28766,0.63,0.12,2233
+/security-state-staging/intermediates/21e6a7af-a62b-4d7d-bc91-ac39edf72464.pem-520,6,42,20,101,27.4,0.00%,0.28792,0.53,0.12,1876
+/security-state-staging/intermediates/c2e0bcef-51d3-4306-93e1-9a40a8e77b7e.pem-519,6,85,21,183,52.6,0.00%,0.28823,0.76,0.12,2684
+/security-state-staging/intermediates/c1c68b60-29de-4cdf-8ba2-7adf17023d5a.pem-521,5,71,31,109,34.06,0.00%,0.25005,0.73,0.1,2973.6
+/security-state-staging/intermediates/a6e61ee2-41d7-44e4-8e27-9adb2e4d4b97.pem-522,5,39,17,84,24.73,0.00%,0.25167,0.54,0.1,2189.6
+/security-state-staging/intermediates/99cb19eb-1375-4867-90aa-b0b2d298c16c.pem-523,5,29,15,76,23.58,0.00%,0.25211,0.64,0.1,2583.6
+/security-state-staging/intermediates/1c2ec99e-c535-4068-889b-88c1a83bded4.pem-524,5,35,14,115,39.65,0.00%,0.25291,0.53,0.1,2148
+/security-state-staging/intermediates/190982c6-808b-490a-bac0-48048e0d26a0.pem-526,5,31,15,84,26.6,0.00%,0.25417,0.56,0.1,2258
+/security-state-staging/intermediates/c23c6bd1-fe2e-41d5-bee8-ef23bd048702.pem-525,5,49,15,102,32.45,0.00%,0.2545,0.67,0.11,2688
+/security-state-staging/intermediates/3f43d607-34b9-4a08-a601-014da9b7f84d.pem-527,5,23,15,48,12.4,0.00%,0.25558,0.73,0.11,2918.4
+/EWS/Exchange.asmx-507,5,308,147,732,213.99,0.00%,0.25369,0.59,1.18,2366.8
+/security-state-staging/intermediates/5fe7d18d-a5f7-47cc-b17d-78176befba8d.pem-528,5,48,17,111,35.3,0.00%,0.26324,0.57,0.11,2201
+/security-state-staging/intermediates/d47f17a5-7858-4e12-ac5e-0454f2a87e62.pem-529,5,61,17,188,64.6,0.00%,0.26375,0.6,0.11,2330.2
+/security-state-staging/intermediates/7ac964c9-10e6-4b7e-80d8-1c63c5cbea2c.pem-530,5,87,15,293,106.81,0.00%,0.26573,0.46,0.11,1790
+/security-state-staging/intermediates/461fedad-31f0-49a0-8419-88fcb971810f.pem-531,5,76,15,319,121.2,0.00%,0.2697,0.55,0.11,2107
+/security-state-staging/intermediates/64f6535c-a700-4c21-b5cc-0cbc50967ee8.pem-532,5,30,16,56,13.53,0.00%,0.27397,0.48,0.11,1787.6
+/security-state-staging/intermediates/00d9d020-a4fb-4c1f-92f7-986a11343266.pem-533,5,35,15,84,24.8,0.00%,0.27448,0.78,0.11,2912
+/security-state-staging/intermediates/696927f8-d451-461d-9f12-0b837513fe0b.pem-535,5,22,14,44,10.91,0.00%,0.2755,0.7,0.11,2588.6
+/security-state-staging/intermediates/5968045a-5794-4b92-9623-94947253e464.pem-534,5,25,14,55,15.65,0.00%,0.27594,0.44,0.11,1648
+/security-state-staging/intermediates/8505036d-a5d1-4d73-b372-2f916ee138e2.pem-536,5,21,16,38,8.47,0.00%,0.27653,0.76,0.11,2802
+/security-state-staging/intermediates/874fedb4-3946-494c-8f65-a56d07cb81a3.pem-538,5,26,14,38,9.55,0.00%,0.27656,0.69,0.11,2571.6
+/security-state-staging/intermediates/1120dfd8-15c7-44a1-86a4-3c4e97f1ab63.pem-537,5,23,15,54,15.24,0.00%,0.27666,0.76,0.11,2810
+/security-state-staging/intermediates/f2ef287e-d43a-4588-b648-7a0fedb4cb47.pem-539,5,21,15,34,7.36,0.00%,0.27725,0.75,0.11,2766.6
+/security-state-staging/intermediates/752e1c11-d50e-4b64-89d3-6b3476155ceb.pem-540,5,17,13,29,5.78,0.00%,0.27807,0.47,0.11,1714.6
+/security-state-staging/intermediates/2314351a-e3d4-490a-9af7-00dedbc5441d.pem-541,5,21,13,28,5.16,0.00%,0.27824,0.7,0.11,2570
+/security-state-staging/intermediates/0b4e57ec-48c8-45a6-99df-37694b240e4b.pem-542,2,22,21,23,1,0.00%,0.11132,0.28,0.05,2591
+/security-state-staging/intermediates/4e7685be-f9c0-4d17-b8f3-865d25b5d33f.pem-543,1,42,42,42,0,0.00%,23.80952,50.6,9.84,2176
+/security-state-staging/intermediates/50534563-bc40-4117-a35e-c5f2825173e5.pem-544,1,25,25,25,0,0.00%,40,83.75,16.52,2144
+/security-state-staging/intermediates/59c8e768-6036-4d32-bb6e-41bc3035aacb.pem-545,1,15,15,15,0,0.00%,66.66667,125.85,27.54,1933
+/security-state-staging/intermediates/6c26b65e-0f80-4751-914d-277116a56bcb.pem-546,1,21,21,21,0,0.00%,47.61905,90.26,19.67,1941
+/security-state-staging/intermediates/482b11d7-dab4-4f06-8578-b1e78997ed3a.pem-547,1,19,19,19,0,0.00%,52.63158,107.47,21.74,2091
+/security-state-staging/intermediates/c4c67ff5-aef5-4b0a-8eff-7dd84e9fd7c6.pem-548,1,30,30,30,0,0.00%,33.33333,74.67,13.77,2294
+/security-state-staging/intermediates/082754db-89db-4a21-b19c-beb0cea8ad0e.pem-549,1,18,18,18,0,0.00%,55.55556,142.96,22.95,2635
+/security-state-staging/intermediates/bdcf129f-b3fa-4ce1-8a67-6da86c05d54f.pem-550,1,21,21,21,0,0.00%,47.61905,132.39,19.67,2847
+/security-state-staging/intermediates/c70a5a54-9017-4d7c-814c-c431416e70eb.pem-551,1,17,17,17,0,0.00%,58.82353,123.39,24.3,2148
+/security-state-staging/intermediates/fcb09875-0066-42a8-a350-465e8ae1585a.pem-552,1,42,42,42,0,0.00%,23.80952,63.55,9.84,2733
+/security-state-staging/intermediates/fc77bcfe-20ac-48c8-8c85-07a5b0227c7e.pem-553,1,53,53,53,0,0.00%,18.86792,35.76,7.79,1941
+/security-state-staging/intermediates/8cf1b54e-cf3b-494c-b0a2-0ed470316bd4.pem-554,1,63,63,63,0,0.00%,15.87302,34.55,6.56,2229
+/security-state-staging/intermediates/ab17d88b-ef26-4d65-8355-434a27c5f68a.pem-555,1,30,30,30,0,0.00%,33.33333,72.3,13.77,2221
+/security-state-staging/intermediates/d6f8520c-1d5c-4cd2-b48c-302f3520b3de.pem-556,1,57,57,57,0,0.00%,17.54386,44.19,7.25,2579
+/security-state-staging/intermediates/d4cb7ca6-62ba-4418-809b-88501dfd11b9.pem-557,1,77,77,77,0,0.00%,12.98701,24.52,5.36,1933
+/security-state-staging/intermediates/087a89be-4ff7-4814-95dd-5a32c4964f37.pem-558,1,30,30,30,0,0.00%,33.33333,57.1,13.77,1754
+/security-state-staging/intermediates/f5707965-6d23-47cc-97b4-8eb1d7e1beb8.pem-559,1,28,28,28,0,0.00%,35.71429,96.71,14.75,2773
+/security-state-staging/intermediates/56f71156-d839-4560-9fe4-299ea364f331.pem-560,1,71,71,71,0,0.00%,14.08451,38.54,5.82,2802
+/security-state-staging/intermediates/8e5f1509-8eb4-4ed2-929f-2dc94aa4ce1a.pem-561,1,72,72,72,0,0.00%,13.88889,34.75,5.74,2562
+/security-state-staging/intermediates/db9c0ed6-0b9d-4944-98d1-863d8b5ce519.pem-562,1,37,37,37,0,0.00%,27.02703,58.73,11.16,2225
+/security-state-staging/intermediates/8cd6df9d-888e-4ce3-b6c5-a73d66888bb7.pem-563,1,19,19,19,0,0.00%,52.63158,87.02,21.74,1693
+/security-state-staging/intermediates/078b10f3-5ab5-4378-ada1-201c314e5dc2.pem-564,1,77,77,77,0,0.00%,12.98701,27.91,5.36,2201
+/security-state-staging/intermediates/345d4a3f-ed22-4e47-af57-c4da221aa0cd.pem-565,1,23,23,23,0,0.00%,43.47826,88.27,17.96,2079
+/security-state-staging/intermediates/5160802f-75c0-47eb-af34-5ef35d988822.pem-566,1,40,40,40,0,0.00%,25,58.98,10.33,2416
+/security-state-staging/intermediates/2100d177-5e5a-4f0c-b89b-ad0b707cc55b.pem-567,1,40,40,40,0,0.00%,25,71.19,10.33,2916
+/security-state-staging/intermediates/8ae25e5b-e31b-4d80-be59-24ed2ecd5386.pem-568,1,26,26,26,0,0.00%,38.46154,80.68,15.89,2148
+/security-state-staging/intermediates/7d79ac16-e5de-4231-a19b-6dff6536caf7.pem-569,1,91,91,91,0,0.00%,10.98901,18.91,4.54,1762
+/security-state-staging/intermediates/928f16ab-8166-47c9-bba1-4e9b404461a8.pem-570,1,102,102,102,0,0.00%,9.80392,16.95,4.05,1770
+/security-state-staging/intermediates/b08f7a1d-1d7f-4bb2-943d-d367a79b03d1.pem-571,1,46,46,46,0,0.00%,21.73913,50.78,8.98,2392
+/security-state-staging/intermediates/9deab71e-8ac6-41a9-8260-c8b869eac32a.pem-572,1,23,23,23,0,0.00%,43.47826,146.4,17.96,3448
+/security-state-staging/intermediates/383258ec-eed4-4c4d-917a-e2b89cd2cb4b.pem-573,1,194,194,194,0,0.00%,5.15464,8.99,2.13,1786
+/security-state-staging/intermediates/eff5f2ec-6664-4877-97b7-8aaa6ba36e8b.pem-574,1,548,548,548,0,0.00%,1.82482,5.33,0.75,2992
+/security-state-staging/intermediates/d7247e2c-5eea-4769-b7ec-02c236f55d77.pem-575,1,219,219,219,0,0.00%,4.56621,11.93,1.89,2676
+/security-state-staging/intermediates/da439913-8a40-4db9-b9b5-d510a42754d9.pem-576,1,70,70,70,0,0.00%,14.28571,30.65,5.9,2197
+/security-state-staging/intermediates/cd9c43c7-945a-402c-a5f2-06b30de10929.pem-577,1,78,78,78,0,0.00%,12.82051,35.28,5.3,2818
+/security-state-staging/intermediates/4aa0f861-18da-4875-b438-9abb6a514d4e.pem-578,1,121,121,121,0,0.00%,8.26446,21.34,3.41,2644
+/security-state-staging/intermediates/07129048-5262-4517-b851-5a0b027347d2.pem-579,1,54,54,54,0,0.00%,18.51852,50.37,7.65,2785
+/security-state-staging/intermediates/8314b196-222a-4ea4-b73e-05d946a6b0f3.pem-580,1,38,38,38,0,0.00%,26.31579,67.72,10.87,2635
+/security-state-staging/intermediates/1020a8f8-4a5a-47ee-9eb9-9d138fbefe60.pem-581,1,50,50,50,0,0.00%,20,34.57,8.26,1770
+/security-state-staging/intermediates/cf430545-b753-4480-94fd-67f3f032f9af.pem-582,1,47,47,47,0,0.00%,21.2766,47.66,8.79,2294
+/security-state-staging/intermediates/eb7ea53e-f578-4b8a-913a-dd87bcd7ab01.pem-584,1,25,25,25,0,0.00%,40,84.38,16.52,2160
+/security-state-staging/intermediates/08f26c7b-1519-439b-8f7e-8fa5232bf630.pem-583,1,74,74,74,0,0.00%,13.51351,39.23,5.58,2973
+/security-state-staging/intermediates/7e97c268-63b0-4c44-9d28-da62cd929110.pem-585,1,52,52,52,0,0.00%,19.23077,60.1,7.94,3200
+/security-state-staging/intermediates/4c2e1ba8-26f1-438a-8923-5ffddfe213db.pem-586,1,73,73,73,0,0.00%,13.69863,28.35,5.66,2119
+/security-state-staging/intermediates/3085f02a-64cc-4c75-9005-38f7daa19fab.pem-587,1,69,69,69,0,0.00%,14.49275,35.64,5.99,2518
+/security-state-staging/intermediates/ad1cf639-62d7-4f1c-ae01-76b1bce15693.pem-588,1,72,72,72,0,0.00%,13.88889,34.98,5.74,2579
+/security-state-staging/intermediates/c3ae4321-0501-4974-bae5-2038e257036c.pem-589,1,49,49,49,0,0.00%,20.40816,45.4,8.43,2278
+/security-state-staging/intermediates/c94ad927-be0f-411c-a32c-6954659c0d48.pem-591,1,40,40,40,0,0.00%,25,74.46,10.33,3050
+/security-state-staging/intermediates/8de6e42d-be0e-493e-aa2b-55eca748c560.pem-590,1,21,21,21,0,0.00%,47.61905,130.12,19.67,2798
+/security-state-staging/intermediates/14f1f288-759d-4d00-9fae-c994e6f0a083.pem-592,1,16,16,16,0,0.00%,62.5,141.24,25.82,2314
+/security-state-staging/intermediates/b062306c-bad7-433f-bcc1-81512b1194eb.pem-594,1,274,274,274,0,0.00%,3.64964,9.35,1.51,2623
+/security-state-staging/intermediates/74cadf61-0c36-4e4e-94b0-05d97c29ab2e.pem-593,1,82,82,82,0,0.00%,12.19512,33.6,5.04,2821
+/security-state-staging/intermediates/78620e34-e02c-45a6-829f-9e58d846ec6a.pem-595,1,42,42,42,0,0.00%,23.80952,51.36,9.84,2209
+/security-state-staging/intermediates/ce376919-b9f5-4dd5-96e0-282cf246eb19.pem-596,1,43,43,43,0,0.00%,23.25581,48.78,9.61,2148
+/security-state-staging/intermediates/22d80059-836c-4a22-9631-c2432c02e90c.pem-597,1,22,22,22,0,0.00%,45.45455,127.22,18.78,2866
+/security-state-staging/intermediates/5dfb5405-6034-4d22-92b5-12881aad8440.pem-598,1,26,26,26,0,0.00%,38.46154,65.73,15.89,1750
+/security-state-staging/intermediates/ae31b0a6-8423-4c86-a060-ba964c79794d.pem-599,1,25,25,25,0,0.00%,40,83.59,16.52,2140
+/security-state-staging/intermediates/934c88bb-99cf-4fc7-8742-47d2064a1e39.pem-600,1,46,46,46,0,0.00%,21.73913,39.21,8.98,1847
+/security-state-staging/intermediates/6870e61d-2832-4276-9084-e2e18fc27bb4.pem-602,1,34,34,34,0,0.00%,29.41176,50.61,12.15,1762
+/security-state-staging/intermediates/9d68a7bf-267d-4ad1-a0e1-76c7bfd5f003.pem-603,1,40,40,40,0,0.00%,25,53.83,10.33,2205
+/security-state-staging/intermediates/c0f1518f-d641-458f-8832-3dbac6f1eee7.pem-601,1,18,18,18,0,0.00%,55.55556,153.54,22.95,2830
+/security-state-staging/intermediates/43a81eb6-3a17-4fa9-8541-c938b45c9e82.pem-604,1,24,24,24,0,0.00%,41.66667,109.66,17.21,2695
+/security-state-staging/intermediates/bea7e911-09b3-4259-995d-27e5b79f0dda.pem-606,1,32,32,32,0,0.00%,31.25,65.55,12.91,2148
+/security-state-staging/intermediates/e30e8909-3c75-4e15-8f38-692e15929faf.pem-605,1,17,17,17,0,0.00%,58.82353,173.08,24.3,3013
+/security-state-staging/intermediates/bc139525-fefe-47c7-b8ea-766642f7cc43.pem-607,1,15,15,15,0,0.00%,66.66667,180.6,27.54,2774
+/security-state-staging/intermediates/8b2e52bc-c88a-4492-bf43-71e770c9410f.pem-608,1,16,16,16,0,0.00%,62.5,149.48,25.82,2449
+/security-state-staging/intermediates/2ce09943-1a2f-4726-b421-a52c2d8f6a91.pem-609,1,35,35,35,0,0.00%,28.57143,71.96,11.8,2579
+/security-state-staging/intermediates/4b66b8d3-aa86-427c-add7-a2a478b8df44.pem-610,1,16,16,16,0,0.00%,62.5,109.74,25.82,1798
+/security-state-staging/intermediates/fbd31d9d-d3c2-4949-83c0-0356f6cf38df.pem-611,1,16,16,16,0,0.00%,62.5,176.21,25.82,2887
+/security-state-staging/intermediates/14b69ed3-e7ed-4c49-bac3-fac74b07509f.pem-612,1,17,17,17,0,0.00%,58.82353,133.21,24.3,2319
+/security-state-staging/intermediates/6c42ca37-a352-4db9-b44d-e1a577fb1168.pem-613,1,19,19,19,0,0.00%,52.63158,87.43,21.74,1701
+/security-state-staging/intermediates/7ce8dabe-ff60-4885-9695-36590e3979d5.pem-614,1,22,22,22,0,0.00%,45.45455,115.9,18.78,2611
+/security-state-staging/intermediates/56bf7371-6dd1-4cf7-a321-74547c1d3616.pem-615,1,26,26,26,0,0.00%,38.46154,104.19,15.89,2774
+/security-state-staging/intermediates/36357784-4f17-43f9-9fb3-fa12572e824d.pem-616,1,24,24,24,0,0.00%,41.66667,101.11,17.21,2485
+/security-state-staging/intermediates/74e3a779-4648-4fc7-8e96-17622071ed2f.pem-617,1,27,27,27,0,0.00%,37.03704,92.81,15.3,2566
+/security-state-staging/intermediates/5a268c9f-0c99-4ae8-8988-0610fa6a632a.pem-618,1,42,42,42,0,0.00%,23.80952,53.15,9.84,2286
+/security-state-staging/intermediates/d3d8d455-9864-48ea-8742-d535b58189aa.pem-620,1,21,21,21,0,0.00%,47.61905,100.59,19.67,2163
+/security-state-staging/intermediates/18fe6fa8-0078-4269-8b40-c399a6523419.pem-619,1,30,30,30,0,0.00%,33.33333,67.15,13.77,2063
+/security-state-staging/intermediates/e7286378-ad7a-4f09-a6e1-2e9dd4726345.pem-621,1,17,17,17,0,0.00%,58.82353,171.93,24.3,2993
+/security-state-staging/intermediates/aabdf20d-d35a-4828-9c8e-d44fe1098547.pem-622,1,27,27,27,0,0.00%,37.03704,84.17,15.3,2327
+/security-state-staging/intermediates/924b0427-8b37-4c8d-b740-85dc711cd404.pem-623,1,23,23,23,0,0.00%,43.47826,94.81,17.96,2233
+/security-state-staging/intermediates/3a640792-8333-4d08-aac9-9484e165ae78.pem-624,1,22,22,22,0,0.00%,45.45455,77.68,18.78,1750
+/security-state-staging/intermediates/2d51da9f-ff3c-4174-9e79-a98e40e238f5.pem-625,1,15,15,15,0,0.00%,66.66667,170.77,27.54,2623
+/security-state-staging/intermediates/d90f7551-8721-4067-8ccc-bc20473b7ed2.pem-626,1,15,15,15,0,0.00%,66.66667,200.13,27.54,3074
+/security-state-staging/intermediates/3e70cfa5-5d61-458a-9eae-f6f1185e50b4.pem-627,1,16,16,16,0,0.00%,62.5,131.1,25.82,2148
+/security-state-staging/intermediates/dbf450a1-135d-4dc7-8677-00049ab4ecf1.pem-628,1,25,25,25,0,0.00%,40,82.3,16.52,2107
+/security-state-staging/intermediates/a42b26ca-6177-4156-b30c-df67c447df2e.pem-629,1,21,21,21,0,0.00%,47.61905,96.87,19.67,2083
+/security-state-staging/intermediates/8b7d4055-606f-43ea-83f8-a86a2a904797.pem-630,1,19,19,19,0,0.00%,52.63158,138.16,21.74,2688
+/security-state-staging/intermediates/a9a16ec4-e9a6-4fc5-8368-10f052892a0b.pem-631,1,17,17,17,0,0.00%,58.82353,157.23,24.3,2737
+/security-state-staging/intermediates/5f0a95c5-9d8e-4c78-9d1f-196ef8cc6902.pem-632,1,17,17,17,0,0.00%,58.82353,157.23,24.3,2737
+/security-state-staging/intermediates/d596ae35-7fd8-42ba-be66-58552ee1a68c.pem-633,1,15,15,15,0,0.00%,66.66667,108.66,27.54,1669
+/security-state-staging/intermediates/9b7489bf-1a17-48c2-916f-f9034694b3d8.pem-634,1,14,14,14,0,0.00%,71.42857,186.1,29.51,2668
+/security-state-staging/intermediates/5519208e-d7cc-40b7-9360-9aaec642f07a.pem-635,1,14,14,14,0,0.00%,71.42857,161.13,29.51,2310
+/security-state-staging/intermediates/2fecec14-4555-43bd-ab49-8160916e38ec.pem-636,1,19,19,19,0,0.00%,52.63158,136.51,21.74,2656
+/security-state-staging/intermediates/4aa70727-c6f8-46b4-9a57-73a0a9d47ebd.pem-638,1,42,42,42,0,0.00%,23.80952,57.13,9.84,2457
+/security-state-staging/intermediates/a04c15b5-f9b9-47f9-91bc-106fd7754d29.pem-637,1,14,14,14,0,0.00%,71.42857,178.71,29.51,2562
+/security-state-staging/intermediates/b8cc1db1-43ff-4891-acec-2345fd8dfd6e.pem-639,1,19,19,19,0,0.00%,52.63158,133.17,21.74,2591
+/security-state-staging/intermediates/1700e695-ab2e-4343-b33f-89b8ee9187a7.pem-640,1,15,15,15,0,0.00%,66.66667,134.31,27.54,2063
+/security-state-staging/intermediates/801fd9f6-afcf-4260-913d-7cedfb8d1f69.pem-641,1,32,32,32,0,0.00%,31.25,76.45,12.91,2505
+/security-state-staging/intermediates/1dd04da2-87fd-4a93-b982-c48b5e43dd25.pem-642,1,37,37,37,0,0.00%,27.02703,77.49,11.16,2936
+/security-state-staging/intermediates/25accb9b-4ced-4acd-8210-5ae8893aa712.pem-643,1,14,14,14,0,0.00%,71.42857,126.53,29.51,1814
+/security-state-staging/intermediates/779275d4-b98f-4e5c-9606-7d98a85e2d32.pem-644,1,15,15,15,0,0.00%,66.66667,139.84,27.54,2148
+/security-state-staging/intermediates/e9d8a1ba-614f-45db-990f-7a8f75f34a1a.pem-645,1,17,17,17,0,0.00%,58.82353,145.57,24.3,2534
+/security-state-staging/intermediates/8d8a1a2b-4e4e-42cf-86ad-f0bddf6dd18b.pem-646,1,30,30,30,0,0.00%,33.33333,67.68,13.77,2079
+/security-state-staging/intermediates/6ad56217-78b8-49fc-ace3-753e8928dbd9.pem-647,1,14,14,14,0,0.00%,71.42857,121.79,29.51,1746
+/security-state-staging/intermediates/77e0aaee-29fa-489c-be2e-6dfde8a27857.pem-648,1,45,45,45,0,0.00%,22.22222,58.68,9.18,2704
+/security-state-staging/intermediates/eeca1f4a-6a10-4a9d-9ee9-def181a418dc.pem-649,1,20,20,20,0,0.00%,50,102.1,20.65,2091
+/security-state-staging/intermediates/c32e55d9-6b40-4d00-a2c2-e572e3a1cfbf.pem-650,1,15,15,15,0,0.00%,66.66667,141.41,27.54,2172
+/security-state-staging/intermediates/dd8c26df-1f99-4f77-a0b8-28a35d06adc1.pem-651,1,21,21,21,0,0.00%,47.61905,99.52,19.67,2140
+/security-state-staging/intermediates/e598453a-286a-4210-bd2d-a634aa6389bd.pem-652,1,43,43,43,0,0.00%,23.25581,49.51,9.61,2180
+/security-state-staging/intermediates/a295584b-223a-4e07-a0cb-3953ab3f2e46.pem-654,1,15,15,15,0,0.00%,66.66667,139.32,27.54,2140
+/security-state-staging/intermediates/2eb2a167-41f4-4bde-bdaa-fdcf93c34129.pem-653,1,15,15,15,0,0.00%,66.66667,170.77,27.54,2623
+/security-state-staging/intermediates/b3871bec-dadc-4e7b-ae68-b7bc225b69f0.pem-655,1,13,13,13,0,0.00%,76.92308,199.82,31.78,2660
+/security-state-staging/intermediates/d9318494-fb6c-4bb5-b608-ffc24fc3cf5c.pem-656,1,15,15,15,0,0.00%,66.66667,184.24,27.54,2830
+/security-state-staging/intermediates/c6cea523-b17e-4be0-854f-b260946a7e95.pem-657,1,25,25,25,0,0.00%,40,70.43,16.52,1803
+/security-state-staging/intermediates/04429fe5-6aab-403d-a6bd-41e3fe233fe9.pem-658,1,15,15,15,0,0.00%,66.66667,117.38,27.54,1803
+/security-state-staging/intermediates/13abab2d-5558-442e-9c8c-9f54f283182e.pem-659,1,15,15,15,0,0.00%,66.66667,138.28,27.54,2124
+Thread Group:/security-state-staging/intermediates/d68a9395-6cfa-4112-b32d-bf294911ad57.pem-269,1,24,24,24,0,0.00%,41.66667,71.37,17.21,1754
+Thread Group:/security-state-staging/intermediates/1e2884de-0e02-466d-87d3-08333e45105e.pem-376,1,24,24,24,0,0.00%,41.66667,93.71,17.21,2303
+Thread Group:/security-state-staging/intermediates/2e1a3cd7-0c11-46b6-ac97-522525cb0897.pem-215,1,24,24,24,0,0.00%,41.66667,88.26,17.21,2169
+Thread Group:/security-state-staging/intermediates/e42e0283-11fb-4d68-9fdc-e27de55696c0.pem-303,4,17,14,20,2.29,0.00%,4.90196,8.65,2.02,1807
+Thread Group:/security-state-staging/intermediates/9cd7eebb-6d48-4abe-94a1-d32e3376bc95.pem-381,2,16,16,17,0.5,0.00%,19.04762,36.4,7.87,1957
+Thread Group:/security-state-staging/intermediates/89bc78dd-9df5-4eef-8388-f9c0404389b7.pem-660,1,19,19,19,0,0.00%,52.63158,133.99,21.74,2607
+Thread Group:/security-state-staging/intermediates/6bb7cf22-95ce-47fd-a9cb-82d4ddb64e6b.pem-295,3,23,20,30,4.5,0.00%,4.59418,15.52,1.9,3460
+Thread Group:/security-state-staging/intermediates/8d2e464a-9995-4b44-ac8b-55f3656ad646.pem-277,2,17,15,20,2.5,0.00%,16.94915,45.43,7,2745
+Thread Group:/security-state-staging/intermediates/f4cf151f-36c5-40ff-ab06-aa85908a4c91.pem-214,1,14,14,14,0,0.00%,71.42857,116.07,29.51,1664
+Thread Group:/security-state-staging/intermediates/f2a467cf-852a-4877-8297-d067155b948c.pem-304,4,16,14,22,3.11,0.00%,4.92005,9.34,2.03,1944
+Thread Group:/security-state-staging/intermediates/46790f31-f30a-4ebc-a8bd-affde0c28bbf.pem-377,1,15,15,15,0,0.00%,66.66667,171.55,27.54,2635
+Thread Group:/security-state-staging/intermediates/72c3d6bb-f1e7-4495-af68-0ba087eda278.pem-271,1,15,15,15,0,0.00%,66.66667,98.57,27.54,1514
+Thread Group:/security-state-staging/intermediates/bfd5cec4-42a7-4b3b-b908-8fee3edce79d.pem-382,2,16,16,17,0.5,0.00%,19.04762,51.43,7.87,2765
+Thread Group:/security-state-staging/intermediates/203ed815-ab49-4ccd-a130-34fdfb4568d2.pem-661,1,14,14,14,0,0.00%,71.42857,118.93,29.51,1705
+Thread Group:/security-state-staging/intermediates/5a2ec80d-2b8e-4dcd-8682-f7f9d642c490.pem-276,2,17,16,19,1.5,0.00%,17.69912,57.14,7.31,3306
+Thread Group:/security-state-staging/intermediates/e04bb898-e61a-4362-98f8-e5c0e0559cd6.pem-294,3,18,16,20,1.89,0.00%,4.20757,11.78,1.74,2867
+Thread Group:/security-state-staging/intermediates/d89aea89-0644-488a-87ec-6fe32a4c8f6b.pem-216,1,16,16,16,0,0.00%,62.5,130.62,25.82,2140
+Thread Group:/security-state-staging/intermediates/2377fa54-4f75-4365-adcf-533a61b44d4d.pem-305,4,16,15,17,0.71,0.00%,4.92005,10.87,2.03,2262
+Thread Group:/security-state-staging/intermediates/7e772905-a27d-4e17-b2d5-1efe1b1f1638.pem-270,1,20,20,20,0,0.00%,50,135.01,20.65,2765
+Thread Group:/security-state-staging/intermediates/173a1a2d-4f59-4194-99eb-916147b82f27.pem-378,1,20,20,20,0,0.00%,50,141.16,20.65,2891
+Thread Group:/security-state-staging/intermediates/2185c65c-d2c0-4ba3-8bf8-6da756924b30.pem-383,2,15,15,15,0,0.00%,19.41748,50.9,8.02,2684
+Thread Group:/security-state-staging/intermediates/ae043b15-1e73-4ed4-be69-01e93286b1b4.pem-662,1,14,14,14,0,0.00%,71.42857,204.8,29.51,2936
+Thread Group:/security-state-staging/intermediates/d9eaba09-d66e-487d-9974-8980bc0a838e.pem-278,2,14,14,15,0.5,0.00%,18.69159,40.83,7.72,2237
+Thread Group:/security-state-staging/intermediates/16c579d8-6440-475f-8026-f61d70b2e561.pem-307,4,18,17,19,1,0.00%,4.92005,13.97,2.03,2908
+Thread Group:/security-state-staging/intermediates/b0359886-f578-4ff8-b6f6-68c9c49ac966.pem-300,3,23,17,35,8.26,0.00%,4.22535,9.16,1.75,2221
+Thread Group:/security-state-staging/intermediates/6916706c-a910-4b05-9dc3-be264f846783.pem-217,1,19,19,19,0,0.00%,52.63158,146.95,21.74,2859
+Thread Group:/security-state-staging/intermediates/b355804b-4052-46bc-8216-e19067687e45.pem-384,2,14,14,14,0,0.00%,19.60784,29.74,8.1,1553
+Thread Group:/security-state-staging/intermediates/b367aa12-6056-49e2-b8bc-e3e1a2120b35.pem-379,1,26,26,26,0,0.00%,38.46154,84.81,15.89,2258
+Thread Group:/security-state-staging/intermediates/65c259ab-b9fe-47fa-8021-1f7094795218.pem-663,1,24,24,24,0,0.00%,41.66667,88.7,17.21,2180
+Thread Group:/security-state-staging/intermediates/56d8fb27-0de0-4b61-ab41-299e1d0c14c9.pem-272,1,26,26,26,0,0.00%,38.46154,113.47,15.89,3021
+Thread Group:/security-state-staging/intermediates/974ee8b6-e05b-45c0-b50d-b37049e98644.pem-279,2,20,17,24,3.5,0.00%,12.26994,25.25,5.07,2107
+Thread Group:/security-state-staging/intermediates/0486c6f8-9242-436a-ac4b-f79e0190ac35.pem-306,4,24,15,46,12.74,0.00%,4.75059,10.35,1.96,2231.5
+Thread Group:/security-state-staging/intermediates/fdd44b41-87a8-41b1-b24d-bc629efb1193.pem-219,1,21,21,21,0,0.00%,47.61905,113.84,19.67,2448
+Thread Group:/security-state-staging/intermediates/be5afe2d-0613-41bb-a455-fa59165d360a.pem-385,2,20,20,21,0.5,0.00%,12.42236,35.17,5.13,2899
+Thread Group:/security-state-staging/intermediates/045aac79-cc35-49db-8b4d-0666190c0af9.pem-302,3,19,15,22,3.09,0.00%,4.20757,10.76,1.74,2619
+Thread Group:/security-state-staging/intermediates/ccdaebea-c9e8-4b7d-b412-1f34dfc85162.pem-664,1,14,14,14,0,0.00%,71.42857,152.34,29.51,2184
+Thread Group:/security-state-staging/intermediates/aa0b4687-ec1c-483c-878f-31363ebb0565.pem-273,1,14,14,14,0,0.00%,71.42857,155.76,29.51,2233
+Thread Group:/security-state-staging/intermediates/0ff9bf8a-8c2d-458a-843f-714bb4ae0838.pem-380,1,14,14,14,0,0.00%,71.42857,146.97,29.51,2107
+Thread Group:/security-state-staging/intermediates/d4bebbe8-5c5d-4a42-9a8c-6b64a9a76314.pem-280,2,14,14,15,0.5,0.00%,13.0719,32.14,5.4,2517.5
+Thread Group:/security-state-staging/intermediates/3560b6a7-ac40-4c0b-ab01-ba7caf4f697e.pem-218,1,14,14,14,0,0.00%,71.42857,157.99,29.51,2265
+Thread Group:/security-state-staging/intermediates/b1facc0e-29f8-46fb-aa78-793969728b53.pem-301,3,15,14,18,1.89,0.00%,4.23131,6.36,1.75,1539
+Thread Group:/security-state-staging/intermediates/a2c07257-f449-4845-8a46-396088d1f54d.pem-308,4,28,17,52,14.2,0.00%,4.77897,13.55,1.97,2904
+Thread Group:/security-state-staging/intermediates/54742694-a874-4df8-9c81-e88d2f2221f4.pem-665,1,15,15,15,0,0.00%,66.66667,144.6,27.54,2221
+Thread Group:/security-state-staging/intermediates/8258df94-c3d1-471b-9fb1-34f2157ac923.pem-274,1,18,18,18,0,0.00%,55.55556,153.75,22.95,2834
+Thread Group:/security-state-staging/intermediates/3d3331b5-9658-4b69-ad99-28073ad83c6c.pem-220,1,19,19,19,0,0.00%,52.63158,135.9,21.74,2644
+Thread Group:/security-state-staging/intermediates/f6df929b-2bdd-462f-a3b4-18df32996b70.pem-281,2,37,20,54,17,0.00%,10.41667,25.4,4.3,2496.5
+Thread Group:/security-state-staging/intermediates/a15cc313-776e-4ddc-8dee-23a7bc052cd2.pem-309,4,16,15,18,1.12,0.00%,4.77897,11.63,1.97,2493
+Thread Group:/security-state-staging/intermediates/602c1224-b665-4b69-848a-f07cbc00e0be.pem-666,1,17,17,17,0,0.00%,58.82353,156.31,24.3,2721
+Thread Group:/security-state-staging/intermediates/b2f31954-4fc2-49aa-b47a-a4f8bc93b301.pem-310,4,14,14,16,0.83,0.00%,4.78469,8.54,1.98,1827
+Thread Group:/security-state-staging/intermediates/e40e2f56-df5c-40a6-85f6-694d1d00f167.pem-282,2,16,15,17,1,0.00%,10.52632,31.19,4.35,3034
+Thread Group:/security-state-staging/intermediates/8eec4898-0567-46bf-aa86-2f2e3a4151f4.pem-221,1,16,16,16,0,0.00%,62.5,176.7,25.82,2895
+Thread Group:/security-state-staging/intermediates/1e03ffa2-edb9-4ff0-8da4-3b5f2e8d2adb.pem-668,1,13,13,13,0,0.00%,76.92308,169.32,31.78,2254
+Thread Group:/css/latostyle.css-371,4,270,261,275,5.67,0.00%,4.31034,4.01,1.64,953.5
+Thread Group:/security-state-staging/intermediates/84a1e40e-aa66-419a-a6e0-b29ad9504f47.pem-222,1,18,18,18,0,0.00%,55.55556,123.81,22.95,2282
+Thread Group:/security-state-staging/intermediates/cb7629a5-e914-4dfc-8b42-a9f8565378d8.pem-669,1,14,14,14,0,0.00%,71.42857,202.57,29.51,2904
+Thread Group:/security-state-staging/intermediates/877fe714-023f-4bf5-af37-35516011ddb3.pem-283,2,16,16,16,0,0.00%,10.4712,18.3,4.33,1790
+Thread Group:/security-state-staging/intermediates/b5ade449-4506-4a44-87eb-1f9505aa417a.pem-311,4,15,15,17,0.87,0.00%,4.77897,10.53,1.97,2257
+Thread Group:/node_modules/jquery/dist/jquery.min.js-373,3,310,305,313,3.77,0.00%,4.70958,165.83,1.82,36056
+Thread Group:/security-state-staging/intermediates/907a7262-b883-4896-bb78-a84247ab3ab1.pem-223,1,16,16,16,0,0.00%,62.5,126.4,25.82,2071
+Thread Group:/security-state-staging/intermediates/3591a8aa-ef82-448a-9782-b9b4aecbab2c.pem-667,1,16,16,16,0,0.00%,62.5,106.08,25.82,1738
+Thread Group:/security-state-staging/intermediates/ff509022-df05-462c-8f12-7d582a910132.pem-312,4,19,16,29,5.36,0.00%,5.04414,10.68,2.08,2168
+Thread Group:/security-state-staging/intermediates/61082769-e7e7-4c7a-a611-2dfbde36eeae.pem-284,2,16,13,19,3,0.00%,15.15152,40.41,6.26,2731
+Thread Group:/security-state-staging/intermediates/dbb82e4f-7aec-48a0-ac02-21ed8c89e97c.pem-386,3,14,14,14,0,0.00%,8.87574,18.51,3.67,2136
+Thread Group:/security-state-staging/intermediates/acb254e8-2f39-4e7a-9ab6-a573d1334ccd.pem-671,1,14,14,14,0,0.00%,71.42857,124.02,29.51,1778
+Thread Group:/security-state-staging/intermediates/729b520d-7781-44fd-a627-50fb1479e236.pem-313,4,19,14,28,5.67,0.00%,5.05689,11.01,2.09,2229
+Thread Group:/security-state-staging/intermediates/f292bc25-f1b7-45ff-9df5-d56c9893901c.pem-224,1,15,15,15,0,0.00%,66.66667,135.09,27.54,2075
+Thread Group:/security-state-staging/intermediates/f804d5ba-d989-47f7-8217-4f41b5fb5978.pem-285,2,16,15,18,1.5,0.00%,15.26718,33.11,6.31,2221
+Thread Group:/security-state-staging/intermediates/895b5e1e-55e6-41d5-9237-87897bb298da.pem-670,1,22,22,22,0,0.00%,45.45455,96.37,18.78,2171
+Thread Group:/security-state-staging/intermediates/1d17c147-7074-4238-a5f3-2afbfe4c0bd9.pem-314,4,29,17,54,14.45,0.00%,5.00626,11.79,2.07,2412
+Thread Group:/security-state-staging/intermediates/16773900-8e85-42bf-896c-e0656df0b64d.pem-225,1,54,54,54,0,0.00%,18.51852,40.98,7.65,2266
+Thread Group:/security-state-staging/intermediates/d3cdd04e-0ece-4631-bf2e-a72a9a235e6c.pem-287,2,42,32,52,10,0.00%,13.42282,38.33,5.54,2924
+Thread Group:/security-state-staging/intermediates/20d32f63-93e8-4cc0-9495-4924fe795c22.pem-672,1,39,39,39,0,0.00%,25.64103,52.86,10.59,2111
+Thread Group:/security-state-staging/intermediates/4707fc72-bf42-4ca1-b92f-0e6c478b196a.pem-315,4,16,15,17,0.71,0.00%,5.26316,9.06,2.17,1762
+Thread Group:/security-state-staging/intermediates/90ad777b-e189-4b7d-88e7-5865bcdd50f9.pem-286,2,15,15,15,0,0.00%,17.85714,45.67,7.38,2619
+Thread Group:/security-state-staging/intermediates/c87c6dee-16e3-4bb0-8541-6cf2e215df90.pem-227,1,18,18,18,0,0.00%,55.55556,154.03,22.95,2839
+Thread Group:/security-state-staging/intermediates/5381eea4-5663-4fb1-8a43-154a02daae8e.pem-673,1,15,15,15,0,0.00%,66.66667,145.38,27.54,2233
+Thread Group:/security-state-staging/intermediates/f538856a-1986-4ea8-9af5-e9a9636d887e.pem-288,2,15,15,15,0,0.00%,17.85714,46.53,7.38,2668
+Thread Group:/security-state-staging/intermediates/289d0bfa-f60b-4593-a2a6-fc2e5548b6cb.pem-316,4,15,13,19,2.29,0.00%,5.28402,9.2,2.18,1782
+Thread Group:/security-state-staging/intermediates/c310d05d-c0b0-4149-9d40-04e0f46a1fab.pem-228,1,14,14,14,0,0.00%,71.42857,170.2,29.51,2440
+Thread Group:/security-state-staging/intermediates/ba1fb05a-72e7-4589-9d39-525cd7813c6b.pem-674,1,14,14,14,0,0.00%,71.42857,182.69,29.51,2619
+Thread Group:/security-state-staging/intermediates/68708c8c-138c-4ee0-a5c4-66532b7b641e.pem-289,2,15,14,17,1.5,0.00%,17.54386,39.1,7.25,2282
+Thread Group:/security-state-staging/intermediates/ad60497c-1544-4bff-98ec-e53c67af444a.pem-317,3,14,14,16,0.94,0.00%,4.75436,10.16,1.96,2189.3
+Thread Group:/security-state-staging/intermediates/c8065d4f-f7f0-4e26-aa22-7e982bf06bba.pem-676,1,14,14,14,0,0.00%,71.42857,172.78,29.51,2477
+Thread Group:/security-state-staging/intermediates/ea4ea5bd-3a75-4cd2-a235-c3e8ef18c8c6.pem-226,1,19,19,19,0,0.00%,52.63158,143.19,21.74,2786
+Thread Group:/security-state-staging/intermediates/d68b50e2-f640-4c14-8f8d-3d06895fa5dd.pem-290,2,15,14,16,1,0.00%,17.24138,36.92,7.12,2193
+Thread Group:/security-state-staging/intermediates/233bd648-66bc-440b-8b31-293196be1b49.pem-318,3,16,14,19,2.16,0.00%,4.74684,8.3,1.96,1791
+Thread Group:/security-state-staging/intermediates/9e35054b-aef6-4258-8ef5-65899c7b0772.pem-675,1,15,15,15,0,0.00%,66.66667,119.21,27.54,1831
+Thread Group:/security-state-staging/intermediates/574d0f4a-0f9f-4ac1-bbbd-b912aa74f87c.pem-229,1,15,15,15,0,0.00%,66.66667,115.23,27.54,1770
+Thread Group:/security-state-staging/intermediates/bceea9fa-e4b3-4241-b6a6-400d7eff3735.pem-275,2,27,19,35,8,0.00%,14.59854,35.48,6.03,2489
+Thread Group:/security-state-staging/intermediates/e653ac73-2a44-4cf2-a0dd-085d990af883.pem-319,3,27,26,29,1.25,0.00%,4.6729,11.43,1.93,2505
+Thread Group:/security-state-staging/intermediates/5e452e7d-0d62-49a6-ac96-0286762a043b.pem-677,1,27,27,27,0,0.00%,37.03704,120.88,15.3,3342
+Thread Group:/security-state-staging/intermediates/32b8a883-88dd-41a6-8a17-97687478fad0.pem-230,1,31,31,31,0,0.00%,32.25806,93.91,13.33,2981
+Thread Group:/security-state-staging/intermediates/69c28a8d-33ee-4e47-bb72-44abfc083dca.pem-291,2,19,19,20,0.5,0.00%,14.49275,31.96,5.99,2258
+Thread Group:/security-state-staging/intermediates/1e17e390-a9ef-44c1-a97e-33f792ea06ef.pem-678,1,15,15,15,0,0.00%,66.66667,180.6,27.54,2774
+Thread Group:/security-state-staging/intermediates/e8727b1e-db90-43a1-896d-acfa3849475f.pem-320,3,16,14,18,1.63,0.00%,4.77707,8.54,1.97,1831
+Thread Group:/security-state-staging/intermediates/dbe4ae7c-598c-423b-a4f2-aa6674a8ec18.pem-231,1,16,16,16,0,0.00%,62.5,134.34,25.82,2201
+Thread Group:/security-state-staging/intermediates/9fcf94ff-9fb8-4a24-a227-cc9c133af787.pem-292,2,25,20,30,5,0.00%,13.51351,40.95,5.58,3103
+Thread Group:/security-state-staging/intermediates/7c1161bd-10bb-4642-b809-92c87a367bf2.pem-679,1,17,17,17,0,0.00%,58.82353,155.62,24.3,2709
+Thread Group:/security-state-staging/intermediates/c7908f51-74f4-4f42-83ae-1aea4789362b.pem-321,3,17,13,23,4.11,0.00%,4.8,12.31,1.98,2627
+Thread Group:/security-state-staging/intermediates/f23ff21b-8762-4cf2-9fc1-76e7a2b242a8.pem-233,1,15,15,15,0,0.00%,66.66667,163.35,27.54,2509
+Thread Group:/security-state-staging/intermediates/5e91cd24-d2d6-4885-96ae-f41fd7f2fa91.pem-293,2,15,13,17,2,0.00%,13.7931,33.86,5.7,2514
+Thread Group:/security-state-staging/intermediates/96b5681d-2aaa-4dac-9827-d0a896818604.pem-322,3,14,13,18,2.36,0.00%,4.83871,10.15,2,2147.3
+Thread Group:/security-state-staging/intermediates/b2a82526-2d56-4d6f-82ed-ec715bf0fbe2.pem-234,1,17,17,17,0,0.00%,58.82353,131.09,24.3,2282
+Thread Group:/security-state-staging/intermediates/f6986554-454b-40ee-866c-6fb52413316c.pem-680,1,17,17,17,0,0.00%,58.82353,129.19,24.3,2249
+Thread Group:/security-state-staging/intermediates/3db62490-3f0e-45c1-b32e-72a8327a43d8.pem-298,2,24,15,34,9.5,0.00%,12.04819,29.05,4.98,2469
+Thread Group:/security-state-staging/intermediates/b10cbda6-5d12-47d2-b428-377602c98dfd.pem-323,3,15,14,16,0.82,0.00%,4.83871,9.03,2,1912
+Thread Group:/security-state-staging/intermediates/21d55dea-31a3-4e8f-8e16-5c79c28af097.pem-235,1,14,14,14,0,0.00%,71.42857,133.65,29.51,1916
+Thread Group:/security-state-staging/intermediates/a7042ba0-a0c3-40c6-a970-0ee5cdb75e39.pem-681,1,15,15,15,0,0.00%,66.66667,118.68,27.54,1823
+Thread Group:/security-state-staging/intermediates/df08562c-f117-43d1-a40a-3997497594ad.pem-296,2,18,17,19,1,0.00%,11.83432,30.11,4.89,2605
+Thread Group:/security-state-staging/intermediates/78768961-a784-4914-826d-12a0730f7d2f.pem-324,3,18,14,26,5.66,0.00%,4.85437,8.47,2.01,1786
+Thread Group:/security-state-staging/intermediates/7c1161bd-10bb-4642-b809-92c87a367bf2.pem-684,1,35,35,35,0,0.00%,28.57143,75.59,11.8,2709
+Thread Group:/security-state-staging/intermediates/a3476927-7931-4452-8215-9be907c01a5d.pem-237,1,37,37,37,0,0.00%,27.02703,44.68,11.16,1693
+Thread Group:/security-state-staging/intermediates/33210e93-8625-445b-8a01-f0880f97112a.pem-297,2,23,15,31,8,0.00%,12.12121,22.35,5.01,1888
+Thread Group:/node_modules/video.js/dist/video-js.min.css-370,3,282,274,288,5.89,0.00%,3.75,45.01,1.52,12291.3
+Thread Group:/security-state-staging/intermediates/a350f8ab-6eeb-43db-a3d4-37d09ca42bc3.pem-325,2,21,17,26,4.5,0.00%,13.98601,39.72,5.78,2908
+Thread Group:/security-state-staging/intermediates/c8065d4f-f7f0-4e26-aa22-7e982bf06bba.pem-682,1,16,16,16,0,0.00%,62.5,151.18,25.82,2477
+Thread Group:/security-state-staging/intermediates/39747309-5dcc-499d-b5fe-d02d1627de6a.pem-387,3,16,15,17,0.82,0.00%,5.64972,9.7,2.33,1758
+Thread Group:/security-state-staging/intermediates/da84341e-9c4a-411d-81b2-cba5084edf77.pem-326,2,16,15,17,1,0.00%,15.26718,38.51,6.31,2583
+Thread Group:/security-state-staging/intermediates/bcc8709c-0a8e-402e-9add-fd2ed5432aed.pem-236,1,19,19,19,0,0.00%,52.63158,154.66,21.74,3009
+Thread Group:/security-state-staging/intermediates/a2a04dfe-6201-4d0a-b8cf-80d2975bfb51.pem-299,2,17,15,19,2,0.00%,13.51351,29.47,5.58,2233
+Thread Group:/security-state-staging/intermediates/9e35054b-aef6-4258-8ef5-65899c7b0772.pem-683,1,26,26,26,0,0.00%,38.46154,68.77,15.89,1831
+Thread Group:/security-state-staging/intermediates/ed4bff44-19e6-498e-9259-91ec361a7b9e.pem-238,1,23,23,23,0,0.00%,43.47826,92.94,17.96,2189
+Thread Group:/security-state-staging/intermediates/c89b46ba-6440-4252-8a78-01ab1f7fa2b5.pem-327,2,22,14,30,8,0.00%,15.625,27.94,6.45,1831
+Thread Group:/security-state-staging/intermediates/1e17e390-a9ef-44c1-a97e-33f792ea06ef.pem-685,1,15,15,15,0,0.00%,66.66667,180.6,27.54,2774
+Thread Group:/security-state-staging/intermediates/ef0a807b-5d79-4801-8b20-fe50e59b66c4.pem-239,1,16,16,16,0,0.00%,62.5,131.1,25.82,2148
+Thread Group:/security-state-staging/intermediates/1d1ab64c-f64a-4919-aace-65e8529d7d55.pem-328,2,19,16,22,3,0.00%,16.66667,35.69,6.88,2193
+Thread Group:/security-state-staging/intermediates/5e452e7d-0d62-49a6-ac96-0286762a043b.pem-686,1,15,15,15,0,0.00%,66.66667,217.58,27.54,3342
+Thread Group:/security-state-staging/intermediates/d1b811ac-67f8-47ab-9f95-4ed057e9dc7d.pem-240,1,17,17,17,0,0.00%,58.82353,168.89,24.3,2940
+Thread Group:/security-state-staging/intermediates/ce362e8f-6a48-4236-a1d6-2a63778041fc.pem-329,2,27,20,35,7.5,0.00%,10.86957,30.14,4.49,2839
+Thread Group:/security-state-staging/intermediates/f6986554-454b-40ee-866c-6fb52413316c.pem-687,1,28,28,28,0,0.00%,35.71429,78.44,14.75,2249
+Thread Group:/security-state-staging/intermediates/b46b3137-3b00-4aea-beb6-c0aae11f0db2.pem-241,1,25,25,25,0,0.00%,40,67.73,16.52,1734
+Thread Group:/security-state-staging/intermediates/2c443791-49a4-46c3-a27f-7b2599e100bf.pem-690,1,14,14,14,0,0.00%,71.42857,145.86,29.51,2091
+Thread Group:/security-state-staging/intermediates/2ce65543-848c-483b-b95e-f06e56737bb4.pem-242,1,16,16,16,0,0.00%,62.5,108.76,25.82,1782
+Thread Group:/security-state-staging/intermediates/921ccf85-810d-4dac-aa21-7f10573415c2.pem-330,2,17,17,18,0.5,0.00%,11.97605,34.48,4.95,2948
+Thread Group:/security-state-staging/intermediates/95b7263b-b946-4b1b-97fc-588b469275fc.pem-689,1,15,15,15,0,0.00%,66.66667,138.74,27.54,2131
+Thread Group:/security-state-staging/intermediates/b5439e20-bf07-4d4a-8a0e-1427b2b6b0f1.pem-243,1,14,14,14,0,0.00%,71.42857,135.11,29.51,1937
+Thread Group:/security-state-staging/intermediates/2b6e11e8-fc81-45eb-9865-4123414df1e4.pem-331,2,17,15,20,2.5,0.00%,11.69591,33.16,4.83,2903
+Thread Group:/security-state-staging/intermediates/a7042ba0-a0c3-40c6-a970-0ee5cdb75e39.pem-688,1,14,14,14,0,0.00%,71.42857,127.16,29.51,1823
+Thread Group:/security-state-staging/intermediates/92de2a7d-3a4e-4193-9a4b-62f0f3fbb871.pem-244,1,15,15,15,0,0.00%,66.66667,126.37,27.54,1941
+Thread Group:/security-state-staging/intermediates/e4bdfc10-cf3c-4f1d-8566-19d3353552f5.pem-332,2,15,14,17,1.5,0.00%,11.56069,20.54,4.78,1819
+Thread Group:/security-state-staging/intermediates/42580e0c-abd4-4f8d-a88f-f7cbd167e898.pem-333,2,19,17,21,2,0.00%,11.36364,30.73,4.69,2769
+Thread Group:/security-state-staging/intermediates/25c1e6b8-ac9d-4a5d-a746-5a91a4226446.pem-245,1,19,19,19,0,0.00%,52.63158,89.95,21.74,1750
+Thread Group:/security-state-staging/intermediates/22594db7-961b-430b-8c49-c9376e058f31.pem-691,1,22,22,22,0,0.00%,45.45455,110.13,18.78,2481
+Thread Group:/security-state-staging/intermediates/b42b9ff8-8458-4087-95d1-ff8540b63d82.pem-692,1,16,16,16,0,0.00%,62.5,160.28,25.82,2626
+Thread Group:/security-state-staging/intermediates/fbb7342f-2e0d-4f3b-8dc3-9f69e60e0638.pem-334,2,15,14,16,1,0.00%,18.51852,39.79,7.65,2200
+Thread Group:/security-state-staging/intermediates/45a314a9-8e95-47be-ac09-68cc6935adcc.pem-232,1,17,17,17,0,0.00%,58.82353,138.33,24.3,2408
+Thread Group:/security-state-staging/intermediates/80f0e6c5-6f1e-4efc-8339-183aa3b77b6d.pem-693,1,18,18,18,0,0.00%,55.55556,96.25,22.95,1774
+Thread Group:/security-state-staging/intermediates/32052bb6-9019-4826-b1ec-d7f1b6c94e9d.pem-246,1,19,19,19,0,0.00%,52.63158,127.11,21.74,2473
+Thread Group:/security-state-staging/intermediates/f238a915-dd39-437d-96c4-daca3c66e661.pem-335,2,17,15,19,2,0.00%,18.86792,41.51,7.79,2253
+Thread Group:/security-state-staging/intermediates/33ca1d04-2f29-43b2-bcb6-a67279e70854.pem-694,1,14,14,14,0,0.00%,71.42857,149.55,29.51,2144
+Thread Group:/security-state-staging/intermediates/8d6429a5-772d-4666-be02-ba8282f7be70.pem-247,1,14,14,14,0,0.00%,71.42857,157.78,29.51,2262
+Thread Group:/security-state-staging/intermediates/d9278d38-64f1-4628-b185-a021cc542517.pem-336,2,13,13,14,0.5,0.00%,20,31.72,8.26,1624
+Thread Group:/css/latofonts.css-372,2,276,266,287,10.5,0.00%,3.6036,4.57,1.37,1299
+Thread Group:/security-state-staging/intermediates/18eafa54-0261-4c50-a26c-e36ab1883d27.pem-695,1,26,26,26,0,0.00%,38.46154,87.1,15.89,2319
+Thread Group:/security-state-staging/intermediates/9181fd99-fc3d-43be-ad3e-d1efb285d5ae.pem-248,1,26,26,26,0,0.00%,38.46154,77.64,15.89,2067
+Thread Group:/security-state-staging/intermediates/1a77e1c3-b927-44ab-96bf-2e72de1a7f04.pem-337,2,25,24,26,1,0.00%,18.01802,37.8,7.44,2148
+Thread Group:/security-state-staging/intermediates/2ac911c5-7564-4f87-8226-5c4d8e843a63.pem-696,1,14,14,14,0,0.00%,71.42857,152.06,29.51,2180
+Thread Group:/security-state-staging/intermediates/cad5f6b5-2734-4acd-93bf-834cf09b57f9.pem-388,2,14,14,15,0.5,0.00%,7.0922,17.86,2.93,2579
+Thread Group:/security-state-staging/intermediates/069b42b2-4592-4d14-8a72-aec786fb8af9.pem-338,2,22,17,27,5,0.00%,17.85714,45.32,7.38,2599
+Thread Group:/security-state-staging/intermediates/f7a184d3-d555-4bc5-bf51-b6cf5fd02d86.pem-249,1,17,17,17,0,0.00%,58.82353,143.44,24.3,2497
+Thread Group:/security-state-staging/intermediates/b42b9ff8-8458-4087-95d1-ff8540b63d82.pem-697,1,12,12,12,0,0.00%,83.33333,213.7,34.42,2626
+Thread Group:/security-state-staging/intermediates/462c6883-febc-43cb-a54c-b1a9342fa047.pem-389,1,15,15,15,0,0.00%,66.66667,145.38,27.54,2233
+Thread Group:/security-state-staging/intermediates/ce167ca1-2411-4863-820e-956dec419f09.pem-339,2,15,14,17,1.5,0.00%,17.85714,46.81,7.38,2684
+Thread Group:/security-state-staging/intermediates/af663840-08e3-4664-9c06-3bb17602a0e3.pem-250,1,14,14,14,0,0.00%,71.42857,188.96,29.51,2709
+Thread Group:/security-state-staging/intermediates/33ca1d04-2f29-43b2-bcb6-a67279e70854.pem-699,1,13,13,13,0,0.00%,76.92308,161.06,31.78,2144
+Thread Group:/security-state-staging/intermediates/80e952ea-02dd-40b2-9b1d-7cc71c4315a3.pem-390,1,15,15,15,0,0.00%,66.66667,130.6,27.54,2006
+Thread Group:/security-state-staging/intermediates/eaf84a71-fc34-486e-afdf-26e1ecaca22a.pem-341,2,17,16,18,1,0.00%,17.24138,37.95,7.12,2254
+Thread Group:/security-state-staging/intermediates/a586bb32-1766-40e6-bdd8-ba5e8bf95066.pem-251,1,16,16,16,0,0.00%,62.5,159.85,25.82,2619
+Thread Group:/security-state-staging/intermediates/80f0e6c5-6f1e-4efc-8339-183aa3b77b6d.pem-698,1,14,14,14,0,0.00%,71.42857,123.74,29.51,1774
+Thread Group:/security-state-staging/intermediates/b6d9843d-8dea-45b8-acba-752b6481c4e7.pem-342,2,14,13,15,1,0.00%,17.3913,38.62,7.18,2274
+Thread Group:/security-state-staging/intermediates/f162042c-ed41-47ea-b249-c88c10579579.pem-252,1,14,14,14,0,0.00%,71.42857,137.35,29.51,1969
+Thread Group:/security-state-staging/intermediates/18eafa54-0261-4c50-a26c-e36ab1883d27.pem-700,1,13,13,13,0,0.00%,76.92308,174.2,31.78,2319
+Thread Group:/security-state-staging/intermediates/b1dae52e-fa30-4d0b-bfd3-410952ab066e.pem-345,2,19,15,24,4.5,0.00%,17.09402,37.01,7.06,2217
+Thread Group:/security-state-staging/intermediates/a0d5da82-e91c-4971-9281-c3cef675f183.pem-253,1,23,23,23,0,0.00%,43.47826,74.47,17.96,1754
+Thread Group:/security-state-staging/intermediates/30df4c61-9f07-4a43-9956-25742af9cddb.pem-254,1,27,27,27,0,0.00%,37.03704,80.62,15.3,2229
+Thread Group:/security-state-staging/intermediates/b22276db-4c8e-4141-a014-1fe8448280d6.pem-340,2,27,27,28,0.5,0.00%,16.66667,29.2,6.88,1794
+Thread Group:/security-state-staging/intermediates/d6a8096b-9b05-41b8-984a-b244edc193b6.pem-346,2,16,16,17,0.5,0.00%,18.34862,47.93,7.58,2675
+Thread Group:/security-state-staging/intermediates/8f304617-9f6c-410b-a3b5-d424f6063e72.pem-255,1,17,17,17,0,0.00%,58.82353,97.71,24.3,1701
+Thread Group:/security-state-staging/intermediates/2ac911c5-7564-4f87-8226-5c4d8e843a63.pem-701,1,66,66,66,0,0.00%,15.15152,32.26,6.26,2180
+Thread Group:/security-state-staging/intermediates/66fe1f2b-f2db-4f71-b2a3-71ed411360c0.pem-344,2,16,14,18,2,0.00%,18.86792,51.19,7.79,2778
+Thread Group:/security-state-staging/intermediates/add22cce-aabf-4167-9d28-fb12c5e95054.pem-256,1,19,19,19,0,0.00%,52.63158,120.01,21.74,2335
+Thread Group:/security-state-staging/intermediates/404ebdbd-c737-4e93-acfa-762582f112a0.pem-703,1,19,19,19,0,0.00%,52.63158,152.14,21.74,2960
+Thread Group:/security-state-staging/intermediates/08ed8214-4b33-43b4-8ba3-b97456144534.pem-347,2,15,14,16,1,0.00%,19.23077,43.08,7.94,2294
+Thread Group:/security-state-staging/intermediates/b16e7431-1a00-4dad-9c47-46be383bcfe4.pem-257,1,15,15,15,0,0.00%,66.66667,143.29,27.54,2201
+Thread Group:/security-state-staging/intermediates/1c593191-2bde-410c-8ede-a0142de804b0.pem-702,1,13,13,13,0,0.00%,76.92308,199.52,31.78,2656
+Thread Group:/security-state-staging/intermediates/104f20f8-b19b-47ab-900b-8d1023c6ef8e.pem-343,2,13,13,14,0.5,0.00%,19.60784,33.59,8.1,1754
+Thread Group:/security-state-staging/intermediates/e513b328-655a-441e-86ca-5d563a8439fd.pem-258,1,15,15,15,0,0.00%,66.66667,144.08,27.54,2213
+Thread Group:/security-state-staging/intermediates/1001dd20-646a-4264-89d0-3b37a434957d.pem-704,1,13,13,13,0,0.00%,76.92308,118.31,31.78,1575
+Thread Group:/security-state-staging/intermediates/d5d6b138-b20a-438c-bed9-6af0e662b862.pem-349,2,22,16,29,6.5,0.00%,19.23077,46.97,7.94,2501
+Thread Group:/security-state-staging/intermediates/c4f9e2c4-78ee-4792-87ad-84da6465225b.pem-259,1,28,28,28,0,0.00%,35.71429,79.31,14.75,2274
+Thread Group:/security-state-staging/intermediates/7b9e7264-b0e3-4c9e-bda1-908a922c5b3f.pem-705,1,33,33,33,0,0.00%,30.30303,94.46,12.52,3192
+Thread Group:/security-state-staging/intermediates/fc98d0bf-3fd0-4144-8840-b8ab888570c1.pem-350,1,16,16,16,0,0.00%,62.5,179.26,25.82,2937
+Thread Group:/security-state-staging/intermediates/c7b62543-c78a-44ee-9efc-f216e5bfd056.pem-260,1,16,16,16,0,0.00%,62.5,178.22,25.82,2920
+Thread Group:/security-state-staging/intermediates/b8d761f5-e513-43c4-ba77-4138f539938e.pem-706,1,15,15,15,0,0.00%,66.66667,143.03,27.54,2197
+Thread Group:/security-state-staging/intermediates/22ac570b-4cc3-4c17-9e18-d971ddf56a48.pem-351,1,20,20,20,0,0.00%,50,106.45,20.65,2180
+Thread Group:/security-state-staging/intermediates/5719a806-1c18-46c8-9229-0f467fd98968.pem-261,1,21,21,21,0,0.00%,47.61905,135.04,19.67,2904
+Thread Group:/security-state-staging/intermediates/2ff02552-6c42-4558-bb97-ca531ec69f7d.pem-708,1,16,16,16,0,0.00%,62.5,109.01,25.82,1786
+Thread Group:/security-state-staging/intermediates/b6478416-94fe-4096-b983-23b33e8a6d14.pem-707,1,13,13,13,0,0.00%,76.92308,169.62,31.78,2258
+Thread Group:/security-state-staging/intermediates/d4ca2b02-1cae-4163-8ebd-abb85f3e6a98.pem-262,1,15,15,15,0,0.00%,66.66667,133.46,27.54,2050
+Thread Group:/security-state-staging/intermediates/73b48642-48c6-4e2b-8618-80c484befb9e.pem-352,1,15,15,15,0,0.00%,66.66667,116.02,27.54,1782
+Thread Group:/security-state-staging/intermediates/f2374571-0b80-42e0-8883-fda71075451e.pem-709,1,14,14,14,0,0.00%,71.42857,152.9,29.51,2192
+Thread Group:/security-state-staging/intermediates/6380c544-10af-435b-ae2d-adad842694a3.pem-263,1,14,14,14,0,0.00%,71.42857,187.5,29.51,2688
+Thread Group:/security-state-staging/intermediates/4d9a3627-f2bf-46be-8d65-0d6e16607a5c.pem-353,1,16,16,16,0,0.00%,62.5,158.63,25.82,2599
+Thread Group:/security-state-staging/intermediates/1c593191-2bde-410c-8ede-a0142de804b0.pem-710,1,14,14,14,0,0.00%,71.42857,185.27,29.51,2656
+/security-state-staging/intermediates/404ebdbd-c737-4e93-acfa-762582f112a0.pem-711,1,41,41,41,0,0.00%,24.39024,70.5,10.08,2960
+/security-state-staging/intermediates/1001dd20-646a-4264-89d0-3b37a434957d.pem-712,1,15,15,15,0,0.00%,66.66667,102.54,27.54,1575
+/security-state-staging/intermediates/7b9e7264-b0e3-4c9e-bda1-908a922c5b3f.pem-713,1,15,15,15,0,0.00%,66.66667,207.81,27.54,3192
+/security-state-staging/intermediates/b6478416-94fe-4096-b983-23b33e8a6d14.pem-715,1,17,17,17,0,0.00%,58.82353,129.71,24.3,2258
+/security-state-staging/intermediates/b8d761f5-e513-43c4-ba77-4138f539938e.pem-714,1,37,37,37,0,0.00%,27.02703,57.99,11.16,2197
+/security-state-staging/intermediates/2ff02552-6c42-4558-bb97-ca531ec69f7d.pem-716,1,17,17,17,0,0.00%,58.82353,102.6,24.3,1786
+/security-state-staging/intermediates/afbb8634-f114-41c2-98ab-86ef89d3a7f8.pem-717,1,29,29,29,0,0.00%,34.48276,62.03,14.24,1842
+/security-state-staging/intermediates/f2374571-0b80-42e0-8883-fda71075451e.pem-718,1,16,16,16,0,0.00%,62.5,133.79,25.82,2192
+/security-state-staging/intermediates/f8233776-0e86-40da-8d8e-68aa8d6418ab.pem-719,1,15,15,15,0,0.00%,66.66667,142.77,27.54,2193
+/security-state-staging/intermediates/24e6a22e-41b8-4e77-beed-a3b12797d80c.pem-720,1,13,13,13,0,0.00%,76.92308,205.3,31.78,2733
+/security-state-staging/intermediates/97b8b4d9-8b6c-4fe0-b01e-f743bdb8a98b.pem-721,1,14,14,14,0,0.00%,71.42857,201.1,29.51,2883
+/security-state-staging/intermediates/16b864b7-c11a-4f84-9684-2c41b291913a.pem-722,1,15,15,15,0,0.00%,66.66667,173.44,27.54,2664
+/security-state-staging/intermediates/8489058b-a9f7-4278-ad80-159e9e5576de.pem-723,1,28,28,28,0,0.00%,35.71429,62.29,14.75,1786
+/security-state-staging/intermediates/f8233776-0e86-40da-8d8e-68aa8d6418ab.pem-726,1,49,49,49,0,0.00%,20.40816,43.71,8.43,2193
+/security-state-staging/intermediates/3b225b39-85bc-455e-953a-a319eddbd5e8.pem-725,1,31,31,31,0,0.00%,32.25806,91.99,13.33,2920
+/security-state-staging/intermediates/bf9934cb-4818-4294-b61f-54a5e7f73501.pem-724,1,39,39,39,0,0.00%,25.64103,73.02,10.59,2916
+/security-state-staging/intermediates/97b8b4d9-8b6c-4fe0-b01e-f743bdb8a98b.pem-727,1,24,24,24,0,0.00%,41.66667,117.31,17.21,2883
+/security-state-staging/intermediates/24e6a22e-41b8-4e77-beed-a3b12797d80c.pem-728,1,15,15,15,0,0.00%,66.66667,177.93,27.54,2733
+/security-state-staging/intermediates/16b864b7-c11a-4f84-9684-2c41b291913a.pem-729,1,16,16,16,0,0.00%,62.5,162.6,25.82,2664
+/security-state-staging/intermediates/8489058b-a9f7-4278-ad80-159e9e5576de.pem-730,1,28,28,28,0,0.00%,35.71429,62.29,14.75,1786
+/security-state-staging/intermediates/bf9934cb-4818-4294-b61f-54a5e7f73501.pem-731,1,15,15,15,0,0.00%,66.66667,189.84,27.54,2916
+/security-state-staging/intermediates/3b225b39-85bc-455e-953a-a319eddbd5e8.pem-732,1,17,17,17,0,0.00%,58.82353,167.74,24.3,2920
+/security-state-staging/intermediates/4a71f925-90b9-453b-9980-d39183584fa8.pem-733,1,16,16,16,0,0.00%,62.5,163.09,25.82,2672
+/security-state-staging/intermediates/020c27d9-8f2b-4358-90ca-c7e1b7b079bd.pem-735,1,16,16,16,0,0.00%,62.5,99.37,25.82,1628
+/security-state-staging/intermediates/99da112f-62ba-48ac-bab6-84c650a53e74.pem-734,1,34,34,34,0,0.00%,29.41176,65.89,12.15,2294
+/security-state-staging/intermediates/1f78a7ed-7472-4028-9a40-787b5dece0de.pem-736,1,21,21,21,0,0.00%,47.61905,128.39,19.67,2761
+/security-state-staging/intermediates/a98e7dae-1e30-457f-90d6-9f0c1d817640.pem-737,1,17,17,17,0,0.00%,58.82353,132.47,24.3,2306
+/security-state-staging/intermediates/3b00536b-80c7-4c64-bba2-a88d43f70ca9.pem-738,1,27,27,27,0,0.00%,37.03704,95.63,15.3,2644
+/security-state-staging/intermediates/21f99515-dc4d-47ea-9ccb-0492a2058411.pem-739,1,13,13,13,0,0.00%,76.92308,141.23,31.78,1880
+/security-state-staging/intermediates/4a71f925-90b9-453b-9980-d39183584fa8.pem-740,1,14,14,14,0,0.00%,71.42857,186.38,29.51,2672
+/security-state-staging/intermediates/3062e9f5-5339-48f3-9ccc-182e2a04e7f4.pem-741,1,13,13,13,0,0.00%,76.92308,193.36,31.78,2574
+/security-state-staging/intermediates/99da112f-62ba-48ac-bab6-84c650a53e74.pem-742,1,47,47,47,0,0.00%,21.2766,47.66,8.79,2294
+/security-state-staging/intermediates/020c27d9-8f2b-4358-90ca-c7e1b7b079bd.pem-743,1,43,43,43,0,0.00%,23.25581,36.97,9.61,1628
+/security-state-staging/intermediates/a98e7dae-1e30-457f-90d6-9f0c1d817640.pem-744,1,86,86,86,0,0.00%,11.62791,26.19,4.8,2306
+/security-state-staging/intermediates/1f78a7ed-7472-4028-9a40-787b5dece0de.pem-745,1,28,28,28,0,0.00%,35.71429,96.3,14.75,2761
+/security-state-staging/intermediates/3b00536b-80c7-4c64-bba2-a88d43f70ca9.pem-746,1,14,14,14,0,0.00%,71.42857,184.43,29.51,2644
+/security-state-staging/intermediates/3062e9f5-5339-48f3-9ccc-182e2a04e7f4.pem-749,1,14,14,14,0,0.00%,71.42857,179.55,29.51,2574
+/security-state-staging/intermediates/adeeb09d-1c1b-4333-92ef-bcff5522fff3.pem-748,1,26,26,26,0,0.00%,38.46154,82.37,15.89,2193
+/security-state-staging/intermediates/21f99515-dc4d-47ea-9ccb-0492a2058411.pem-747,1,15,15,15,0,0.00%,66.66667,122.4,27.54,1880
+/security-state-staging/intermediates/524fa4a4-38af-437a-a31e-038e5aaf46ef.pem-750,1,28,28,28,0,0.00%,35.71429,81.58,14.75,2339
+/security-state-staging/intermediates/aaccdd99-d4fa-456a-9294-0e979205269a.pem-751,1,14,14,14,0,0.00%,71.42857,154.37,29.51,2213
+/security-state-staging/intermediates/3c3093eb-8681-4091-99c2-cc9d0a9e870f.pem-752,1,16,16,16,0,0.00%,62.5,109.8,25.82,1799
+/security-state-staging/intermediates/cbc009ee-d95a-4c1a-b665-8d351c2f25cd.pem-753,1,17,17,17,0,0.00%,58.82353,149.3,24.3,2599
+/security-state-staging/intermediates/88ba5f96-66e2-4cd3-bc6e-d3081fefa6ae.pem-754,1,15,15,15,0,0.00%,66.66667,108.33,27.54,1664
+/security-state-staging/intermediates/e00fb0a2-59bb-4271-8c25-6dbc972240be.pem-755,1,14,14,14,0,0.00%,71.42857,196.01,29.51,2810
+/security-state-staging/intermediates/f131cbbc-5c8f-418b-a1e0-f488964c17a5.pem-756,1,21,21,21,0,0.00%,47.61905,102.35,19.67,2201
+/security-state-staging/intermediates/524fa4a4-38af-437a-a31e-038e5aaf46ef.pem-757,1,23,23,23,0,0.00%,43.47826,99.31,17.96,2339
+/security-state-staging/intermediates/3c3093eb-8681-4091-99c2-cc9d0a9e870f.pem-759,1,13,13,13,0,0.00%,76.92308,135.14,31.78,1799
+/security-state-staging/intermediates/e00fb0a2-59bb-4271-8c25-6dbc972240be.pem-761,1,16,16,16,0,0.00%,62.5,171.51,25.82,2810
+/security-state-staging/intermediates/88ba5f96-66e2-4cd3-bc6e-d3081fefa6ae.pem-760,1,15,15,15,0,0.00%,66.66667,108.33,27.54,1664
+/security-state-staging/intermediates/cbc009ee-d95a-4c1a-b665-8d351c2f25cd.pem-762,1,14,14,14,0,0.00%,71.42857,181.29,29.51,2599
+/security-state-staging/intermediates/aaccdd99-d4fa-456a-9294-0e979205269a.pem-758,1,40,40,40,0,0.00%,25,54.03,10.33,2213
+/security-state-staging/intermediates/f131cbbc-5c8f-418b-a1e0-f488964c17a5.pem-763,1,15,15,15,0,0.00%,66.66667,143.29,27.54,2201
+/security-state-staging/intermediates/85592446-86f1-44d9-851f-857096e59694.pem-764,1,14,14,14,0,0.00%,71.42857,194.34,29.51,2786
+/security-state-staging/intermediates/8c91bc67-eed9-4106-b8ff-3e5ecf5c9a42.pem-765,1,14,14,14,0,0.00%,71.42857,160.02,29.51,2294
+/security-state-staging/intermediates/82b8a718-1f7d-4d67-8acb-6f56003e84bd.pem-766,1,14,14,14,0,0.00%,71.42857,124.86,29.51,1790
+/security-state-staging/intermediates/a1ed91a3-f011-4b67-80e2-2d9cda92eccc.pem-767,1,19,19,19,0,0.00%,52.63158,92.62,21.74,1802
+/security-state-staging/intermediates/a097c915-3a7b-4933-9e75-314b3d75bbc3.pem-768,1,15,15,15,0,0.00%,66.66667,174.48,27.54,2680
+/security-state-staging/intermediates/56dc27c8-1780-43ce-8db7-d3e3f6a44dc9.pem-769,1,15,15,15,0,0.00%,66.66667,172.33,27.54,2647
+/security-state-staging/intermediates/776486c5-65f5-4d53-a6e6-5d510795f51c.pem-770,1,15,15,15,0,0.00%,66.66667,120.51,27.54,1851
+/security-state-staging/intermediates/1a177cfa-33d9-4c35-9cdd-4a73c7973fc6.pem-771,1,16,16,16,0,0.00%,62.5,112.49,25.82,1843
+/security-state-staging/intermediates/85592446-86f1-44d9-851f-857096e59694.pem-772,1,13,13,13,0,0.00%,76.92308,209.28,31.78,2786
+/security-state-staging/intermediates/8c91bc67-eed9-4106-b8ff-3e5ecf5c9a42.pem-773,1,15,15,15,0,0.00%,66.66667,149.35,27.54,2294
+/security-state-staging/intermediates/a1ed91a3-f011-4b67-80e2-2d9cda92eccc.pem-775,1,37,37,37,0,0.00%,27.02703,47.56,11.16,1802
+/security-state-staging/intermediates/82b8a718-1f7d-4d67-8acb-6f56003e84bd.pem-774,1,15,15,15,0,0.00%,66.66667,116.54,27.54,1790
+/security-state-staging/intermediates/56dc27c8-1780-43ce-8db7-d3e3f6a44dc9.pem-776,1,15,15,15,0,0.00%,66.66667,172.33,27.54,2647
+/security-state-staging/intermediates/a097c915-3a7b-4933-9e75-314b3d75bbc3.pem-777,1,13,13,13,0,0.00%,76.92308,201.32,31.78,2680
+/security-state-staging/intermediates/776486c5-65f5-4d53-a6e6-5d510795f51c.pem-778,1,13,13,13,0,0.00%,76.92308,139.05,31.78,1851
+/security-state-staging/intermediates/410dd037-e90b-43ec-967e-bcf28d2920e0.pem-780,1,46,46,46,0,0.00%,21.73913,65.51,8.98,3086
+/security-state-staging/intermediates/1a177cfa-33d9-4c35-9cdd-4a73c7973fc6.pem-779,1,18,18,18,0,0.00%,55.55556,99.99,22.95,1843
+/security-state-staging/intermediates/bfaf2dab-dfcf-4771-bf64-700aa69c0281.pem-781,1,21,21,21,0,0.00%,47.61905,140.11,19.67,3013
+/security-state-staging/intermediates/13ba631b-2142-426f-81ac-5609bb202501.pem-782,1,77,77,77,0,0.00%,12.98701,33.62,5.36,2651
+/security-state-staging/intermediates/60dd4560-425b-4a39-9729-7bc1fc60adbc.pem-783,1,31,31,31,0,0.00%,32.25806,60.36,13.33,1916
+/security-state-staging/intermediates/8cf1ea32-84c6-417e-ad52-0ab57becaf78.pem-784,1,34,34,34,0,0.00%,29.41176,63.51,12.15,2211
+/security-state-staging/intermediates/c975f27c-fcb2-48ae-96b6-68bc39bb6f6d.pem-785,1,15,15,15,0,0.00%,66.66667,184.83,27.54,2839
+/security-state-staging/intermediates/848eef45-4d07-4d85-b898-032a76b2a75b.pem-787,1,26,26,26,0,0.00%,38.46154,108.59,15.89,2891
+/security-state-staging/intermediates/d725c849-ba09-4744-9b67-2287530c0737.pem-786,1,26,26,26,0,0.00%,38.46154,83.42,15.89,2221
+/security-state-staging/intermediates/bfaf2dab-dfcf-4771-bf64-700aa69c0281.pem-788,1,18,18,18,0,0.00%,55.55556,163.47,22.95,3013
+/security-state-staging/intermediates/60dd4560-425b-4a39-9729-7bc1fc60adbc.pem-790,1,15,15,15,0,0.00%,66.66667,124.74,27.54,1916
+/security-state-staging/intermediates/13ba631b-2142-426f-81ac-5609bb202501.pem-789,1,15,15,15,0,0.00%,66.66667,172.59,27.54,2651
+/security-state-staging/intermediates/8cf1ea32-84c6-417e-ad52-0ab57becaf78.pem-791,1,12,12,12,0,0.00%,83.33333,179.93,34.42,2211
+/security-state-staging/intermediates/d725c849-ba09-4744-9b67-2287530c0737.pem-792,1,15,15,15,0,0.00%,66.66667,144.6,27.54,2221
+/security-state-staging/intermediates/c975f27c-fcb2-48ae-96b6-68bc39bb6f6d.pem-793,1,30,30,30,0,0.00%,33.33333,92.42,13.77,2839
+/security-state-staging/intermediates/848eef45-4d07-4d85-b898-032a76b2a75b.pem-794,1,15,15,15,0,0.00%,66.66667,188.22,27.54,2891
+/security-state-staging/intermediates/43a54629-f407-4965-9395-d247c9d23517.pem-795,1,15,15,15,0,0.00%,66.66667,151.24,27.54,2323
+/security-state-staging/intermediates/d8d37306-7460-4acb-965e-ba66b1ad8f78.pem-796,1,14,14,14,0,0.00%,71.42857,185.27,29.51,2656
+/security-state-staging/intermediates/607f27bf-2819-4878-b856-10593b911305.pem-797,1,21,21,21,0,0.00%,47.61905,76.08,19.67,1636
+/security-state-staging/intermediates/8855bb62-810b-4e29-aa2c-072a825e881a.pem-798,1,24,24,24,0,0.00%,41.66667,107.22,17.21,2635
+/security-state-staging/intermediates/633fabe3-e7ff-425b-9146-a18134188c21.pem-799,1,14,14,14,0,0.00%,71.42857,153.25,29.51,2197
+/security-state-staging/intermediates/3e72d62e-adc7-4224-bd94-39d2b96357d7.pem-800,1,14,14,14,0,0.00%,71.42857,156.25,29.51,2240
+/security-state-staging/intermediates/e49aa502-2469-4f4f-b00b-3d32c9f282e8.pem-801,1,30,30,30,0,0.00%,33.33333,99.93,13.77,3070
+/security-state-staging/intermediates/80b6ec62-bff9-48b4-a3cf-f8e34874b58f.pem-802,1,28,28,28,0,0.00%,35.71429,70.35,14.75,2017
+/security-state-staging/intermediates/8855bb62-810b-4e29-aa2c-072a825e881a.pem-803,1,14,14,14,0,0.00%,71.42857,183.8,29.51,2635
+/security-state-staging/intermediates/607f27bf-2819-4878-b856-10593b911305.pem-805,1,17,17,17,0,0.00%,58.82353,93.98,24.3,1636
+/security-state-staging/intermediates/d8d37306-7460-4acb-965e-ba66b1ad8f78.pem-804,1,14,14,14,0,0.00%,71.42857,185.27,29.51,2656
+/security-state-staging/intermediates/633fabe3-e7ff-425b-9146-a18134188c21.pem-806,1,15,15,15,0,0.00%,66.66667,143.03,27.54,2197
+/security-state-staging/intermediates/e49aa502-2469-4f4f-b00b-3d32c9f282e8.pem-807,1,46,46,46,0,0.00%,21.73913,65.17,8.98,3070
+/security-state-staging/intermediates/a1b2a835-7618-44f6-a32a-dbdc1ae40941.pem-809,1,16,16,16,0,0.00%,62.5,137.27,25.82,2249
+/security-state-staging/intermediates/3e72d62e-adc7-4224-bd94-39d2b96357d7.pem-808,1,13,13,13,0,0.00%,76.92308,168.27,31.78,2240
+/security-state-staging/intermediates/80b6ec62-bff9-48b4-a3cf-f8e34874b58f.pem-810,1,19,19,19,0,0.00%,52.63158,103.67,21.74,2017
+/security-state-staging/intermediates/42ec9fe3-884f-4466-82dc-da23d6c795ca.pem-811,1,34,34,34,0,0.00%,29.41176,52.71,12.15,1835
+/security-state-staging/intermediates/c36facb9-c315-46eb-8ec9-c4daa39b8944.pem-812,1,19,19,19,0,0.00%,52.63158,143.61,21.74,2794
+/security-state-staging/intermediates/d080816c-1351-444e-aade-24ed8f586175.pem-813,1,34,34,34,0,0.00%,29.41176,62.87,12.15,2189
+/security-state-staging/intermediates/fe51dc93-d5c4-458a-8743-22361c5b1b36.pem-816,1,88,88,88,0,0.00%,11.36364,19.64,4.69,1770
+/security-state-staging/intermediates/cba21052-349c-4d03-809c-7c6c8babaf41.pem-814,1,106,106,106,0,0.00%,9.43396,30.46,3.9,3306
+/security-state-staging/intermediates/26ee5bc1-166e-4810-a513-c2d03f359dcd.pem-815,1,127,127,127,0,0.00%,7.87402,21.61,3.25,2810
+/security-state-staging/intermediates/a4aadf00-b0fb-47a3-af3b-fee538364ce3.pem-817,1,21,21,21,0,0.00%,47.61905,121.05,19.67,2603
+/security-state-staging/intermediates/42ec9fe3-884f-4466-82dc-da23d6c795ca.pem-818,1,18,18,18,0,0.00%,55.55556,99.56,22.95,1835
+/security-state-staging/intermediates/c36facb9-c315-46eb-8ec9-c4daa39b8944.pem-819,1,14,14,14,0,0.00%,71.42857,194.89,29.51,2794
+/security-state-staging/intermediates/cba21052-349c-4d03-809c-7c6c8babaf41.pem-821,1,15,15,15,0,0.00%,66.66667,215.23,27.54,3306
+/security-state-staging/intermediates/d080816c-1351-444e-aade-24ed8f586175.pem-820,1,23,23,23,0,0.00%,43.47826,92.94,17.96,2189
+/security-state-staging/intermediates/26ee5bc1-166e-4810-a513-c2d03f359dcd.pem-822,1,18,18,18,0,0.00%,55.55556,152.45,22.95,2810
+/security-state-staging/intermediates/fe51dc93-d5c4-458a-8743-22361c5b1b36.pem-823,1,30,30,30,0,0.00%,33.33333,57.62,13.77,1770
+/security-state-staging/intermediates/35070f8c-d9da-4f65-9382-bf8ea4bb7376.pem-826,1,18,18,18,0,0.00%,55.55556,120.28,22.95,2217
+/security-state-staging/intermediates/fc79241e-cca4-4146-ba3c-7d9f2433463e.pem-827,1,23,23,23,0,0.00%,43.47826,122.07,17.96,2875
+/security-state-staging/intermediates/a695e1f3-fc54-4683-90b1-34d148981ce3.pem-825,1,14,14,14,0,0.00%,71.42857,126.05,29.51,1807
+/security-state-staging/intermediates/a4aadf00-b0fb-47a3-af3b-fee538364ce3.pem-824,1,14,14,14,0,0.00%,71.42857,181.57,29.51,2603
+/security-state-staging/intermediates/e9bb7fb9-e949-41be-9fe6-49ec9fd2d755.pem-828,1,46,46,46,0,0.00%,21.73913,47.15,8.98,2221
+/security-state-staging/intermediates/6f75438b-fb40-46b7-8abc-a713c6d8dfeb.pem-829,1,18,18,18,0,0.00%,55.55556,160.37,22.95,2956
+/security-state-staging/intermediates/33a780ba-7504-4df4-a3f5-ab6f273a6059.pem-830,1,15,15,15,0,0.00%,66.66667,144.6,27.54,2221
+/security-state-staging/intermediates/eab4cf67-c490-49d7-9a15-8b9697dd8773.pem-831,1,26,26,26,0,0.00%,38.46154,92.44,15.89,2461
+/security-state-staging/intermediates/35070f8c-d9da-4f65-9382-bf8ea4bb7376.pem-832,1,97,97,97,0,0.00%,10.30928,22.32,4.26,2217
+/security-state-staging/intermediates/dbe5c0d2-63bb-4af1-9c90-4d6c60a970c8.pem-833,1,16,16,16,0,0.00%,62.5,137.82,25.82,2258
+/security-state-staging/intermediates/fc79241e-cca4-4146-ba3c-7d9f2433463e.pem-834,1,14,14,14,0,0.00%,71.42857,200.54,29.51,2875
+/security-state-staging/intermediates/e9bb7fb9-e949-41be-9fe6-49ec9fd2d755.pem-835,1,23,23,23,0,0.00%,43.47826,94.3,17.96,2221
+/security-state-staging/intermediates/6f75438b-fb40-46b7-8abc-a713c6d8dfeb.pem-836,1,32,32,32,0,0.00%,31.25,90.21,12.91,2956
+/security-state-staging/intermediates/eab4cf67-c490-49d7-9a15-8b9697dd8773.pem-837,1,19,19,19,0,0.00%,52.63158,126.49,21.74,2461
+/security-state-staging/intermediates/dbe5c0d2-63bb-4af1-9c90-4d6c60a970c8.pem-839,1,24,24,24,0,0.00%,41.66667,91.88,17.21,2258
+/security-state-staging/intermediates/33a780ba-7504-4df4-a3f5-ab6f273a6059.pem-838,1,13,13,13,0,0.00%,76.92308,166.84,31.78,2221
+/security-state-staging/intermediates/39b3dcba-a7a7-4969-9493-b50803c7a8a2.pem-840,1,14,14,14,0,0.00%,71.42857,176.2,29.51,2526
+/security-state-staging/intermediates/a24d726b-c5e0-44b0-ad89-2a3a333460f3.pem-841,1,39,39,39,0,0.00%,25.64103,55.41,10.59,2213
+/security-state-staging/intermediates/b73656ba-3c09-4803-b936-51dbf559fed3.pem-842,1,127,127,127,0,0.00%,7.87402,13.58,3.25,1766
+/security-state-staging/intermediates/89edccce-e255-48f4-a1b1-9b9cc8a60b8c.pem-844,1,24,24,24,0,0.00%,41.66667,71.04,17.21,1746
+/security-state-staging/intermediates/28ee494b-9984-49e9-a489-b7c163d4b1aa.pem-843,1,30,30,30,0,0.00%,33.33333,86.07,13.77,2644
+/security-state-staging/intermediates/7dfd8c65-c838-4d5b-9e31-7514f9077c07.pem-845,1,23,23,23,0,0.00%,43.47826,117.74,17.96,2773
+/security-state-staging/intermediates/02b4e2ed-9cfb-4ea2-a949-4141bf1155e9.pem-846,1,17,17,17,0,0.00%,58.82353,170.55,24.3,2969
+/security-state-staging/intermediates/a07e9f96-26e6-4b28-9b49-09c8ca08a912.pem-847,1,120,120,120,0,0.00%,8.33333,23.33,3.44,2867
+/security-state-staging/intermediates/39b3dcba-a7a7-4969-9493-b50803c7a8a2.pem-848,1,18,18,18,0,0.00%,55.55556,137.04,22.95,2526
+/security-state-staging/intermediates/a24d726b-c5e0-44b0-ad89-2a3a333460f3.pem-849,1,60,60,60,0,0.00%,16.66667,36.02,6.88,2213
+/security-state-staging/intermediates/7dfd8c65-c838-4d5b-9e31-7514f9077c07.pem-852,1,13,13,13,0,0.00%,76.92308,208.31,31.78,2773
+/security-state-staging/intermediates/b73656ba-3c09-4803-b936-51dbf559fed3.pem-850,1,20,20,20,0,0.00%,50,86.23,20.65,1766
+/security-state-staging/intermediates/28ee494b-9984-49e9-a489-b7c163d4b1aa.pem-851,1,39,39,39,0,0.00%,25.64103,66.21,10.59,2644
+/security-state-staging/intermediates/89edccce-e255-48f4-a1b1-9b9cc8a60b8c.pem-853,1,46,46,46,0,0.00%,21.73913,37.07,8.98,1746
+/security-state-staging/intermediates/02b4e2ed-9cfb-4ea2-a949-4141bf1155e9.pem-854,1,60,60,60,0,0.00%,16.66667,48.32,6.88,2969
+/security-state-staging/intermediates/a07e9f96-26e6-4b28-9b49-09c8ca08a912.pem-855,1,15,15,15,0,0.00%,66.66667,186.65,27.54,2867
+/security-state-staging/intermediates/81ce4311-98c7-4368-b741-d59fdfeee0b5.pem-856,1,58,58,58,0,0.00%,17.24138,53.88,7.12,3200
+/security-state-staging/intermediates/a9a2423c-0475-4e83-bee7-963fd4d5b6a1.pem-857,1,26,26,26,0,0.00%,38.46154,98.82,15.89,2631
+/security-state-staging/intermediates/90570e44-8c03-4ff7-b6f5-e06e50cee699.pem-858,1,25,25,25,0,0.00%,40,113.59,16.52,2908
+/security-state-staging/intermediates/ccf776b5-dad9-4394-b424-8c2cacda75f9.pem-859,1,21,21,21,0,0.00%,47.61905,124.63,19.67,2680
+/security-state-staging/intermediates/ffb8cd8a-c812-462f-bb35-59e57477ae98.pem-860,1,18,18,18,0,0.00%,55.55556,116.48,22.95,2147
+/security-state-staging/intermediates/3383c131-2b81-4c4f-a58b-e6ef7e58221b.pem-861,1,16,16,16,0,0.00%,62.5,132.57,25.82,2172
+/security-state-staging/intermediates/d39a90f2-a2c1-4b96-bbc3-7aa70afff93b.pem-862,1,13,13,13,0,0.00%,76.92308,172.93,31.78,2302
+/security-state-staging/intermediates/d63c7368-5bb3-4fa5-a650-01451d8a5990.pem-863,1,23,23,23,0,0.00%,43.47826,77.4,17.96,1823
+/security-state-staging/intermediates/a9a2423c-0475-4e83-bee7-963fd4d5b6a1.pem-864,1,20,20,20,0,0.00%,50,128.47,20.65,2631
+/security-state-staging/intermediates/81ce4311-98c7-4368-b741-d59fdfeee0b5.pem-865,1,14,14,14,0,0.00%,71.42857,223.21,29.51,3200
+/security-state-staging/intermediates/90570e44-8c03-4ff7-b6f5-e06e50cee699.pem-866,1,19,19,19,0,0.00%,52.63158,149.47,21.74,2908
+/security-state-staging/intermediates/ccf776b5-dad9-4394-b424-8c2cacda75f9.pem-867,1,16,16,16,0,0.00%,62.5,163.57,25.82,2680
+/security-state-staging/intermediates/ffb8cd8a-c812-462f-bb35-59e57477ae98.pem-868,1,15,15,15,0,0.00%,66.66667,139.78,27.54,2147
+/security-state-staging/intermediates/3383c131-2b81-4c4f-a58b-e6ef7e58221b.pem-869,1,15,15,15,0,0.00%,66.66667,141.41,27.54,2172
+/security-state-staging/intermediates/d39a90f2-a2c1-4b96-bbc3-7aa70afff93b.pem-870,1,12,12,12,0,0.00%,83.33333,187.34,34.42,2302
+/security-state-staging/intermediates/d63c7368-5bb3-4fa5-a650-01451d8a5990.pem-871,1,13,13,13,0,0.00%,76.92308,136.94,31.78,1823
+/security-state-staging/intermediates/b0087125-69f0-40e4-bcb8-f571b5a20b41.pem-873,1,25,25,25,0,0.00%,40,95.78,16.52,2452
+/security-state-staging/intermediates/e37b4d53-3826-40dc-9611-c8111a6869fe.pem-872,1,14,14,14,0,0.00%,71.42857,207.38,29.51,2973
+/security-state-staging/intermediates/32aafacb-ac6b-4e0a-b1e4-74b264fd4d66.pem-875,1,14,14,14,0,0.00%,71.42857,151.51,29.51,2172
+/security-state-staging/intermediates/bdeda58e-1628-4e55-87fb-0b68db6affa9.pem-874,1,13,13,13,0,0.00%,76.92308,195.54,31.78,2603
+/security-state-staging/intermediates/abf229aa-a29d-4d56-a0e0-00892adb194c.pem-876,1,24,24,24,0,0.00%,41.66667,108.24,17.21,2660
+/security-state-staging/intermediates/042a667f-3d52-4905-b7ce-be55d86fec6e.pem-877,1,15,15,15,0,0.00%,66.66667,114.19,27.54,1754
+/security-state-staging/intermediates/0cd057e5-8ae6-471f-b361-2f360736ea13.pem-878,1,14,14,14,0,0.00%,71.42857,180.73,29.51,2591
+/security-state-staging/intermediates/177a6f68-3005-4b93-8a1d-b32344504ae0.pem-879,1,16,16,16,0,0.00%,62.5,138.06,25.82,2262
+/security-state-staging/intermediates/e37b4d53-3826-40dc-9611-c8111a6869fe.pem-880,1,14,14,14,0,0.00%,71.42857,207.38,29.51,2973
+/security-state-staging/intermediates/b0087125-69f0-40e4-bcb8-f571b5a20b41.pem-881,1,18,18,18,0,0.00%,55.55556,133.03,22.95,2452
+/security-state-staging/intermediates/bdeda58e-1628-4e55-87fb-0b68db6affa9.pem-882,1,27,27,27,0,0.00%,37.03704,94.15,15.3,2603
+/security-state-staging/intermediates/32aafacb-ac6b-4e0a-b1e4-74b264fd4d66.pem-883,1,17,17,17,0,0.00%,58.82353,124.77,24.3,2172
+/security-state-staging/intermediates/abf229aa-a29d-4d56-a0e0-00892adb194c.pem-884,1,13,13,13,0,0.00%,76.92308,199.82,31.78,2660
+/security-state-staging/intermediates/042a667f-3d52-4905-b7ce-be55d86fec6e.pem-885,1,14,14,14,0,0.00%,71.42857,122.35,29.51,1754
+/security-state-staging/intermediates/0cd057e5-8ae6-471f-b361-2f360736ea13.pem-886,1,25,25,25,0,0.00%,40,101.21,16.52,2591
+/security-state-staging/intermediates/6071fae3-719d-47d3-affc-1e568f9365b0.pem-887,1,14,14,14,0,0.00%,71.42857,124.3,29.51,1782
+/security-state-staging/intermediates/177a6f68-3005-4b93-8a1d-b32344504ae0.pem-888,1,14,14,14,0,0.00%,71.42857,157.78,29.51,2262
+/security-state-staging/intermediates/7ab12434-0d0c-4347-822a-1a018c7369ba.pem-889,1,17,17,17,0,0.00%,58.82353,128.04,24.3,2229
+/security-state-staging/intermediates/2b7ba355-fdd1-40c5-931a-ab2ab80990db.pem-891,1,13,13,13,0,0.00%,76.92308,160.68,31.78,2139
+/security-state-staging/intermediates/9852f8f4-698c-4682-be77-b302a242b445.pem-892,1,14,14,14,0,0.00%,71.42857,146.14,29.51,2095
+/security-state-staging/intermediates/b3076cf4-85f5-4d34-9510-ccbf6447dd9b.pem-895,1,29,29,29,0,0.00%,34.48276,56.03,14.24,1664
+/security-state-staging/intermediates/85aef9ad-5fb3-41c1-8be0-97335974816d.pem-893,1,21,21,21,0,0.00%,47.61905,84.77,19.67,1823
+/security-state-staging/intermediates/30b37c7c-3a4d-4dfb-b2c4-e2d5477cf21a.pem-894,1,16,16,16,0,0.00%,62.5,130.62,25.82,2140
+/security-state-staging/intermediates/7ab12434-0d0c-4347-822a-1a018c7369ba.pem-896,1,16,16,16,0,0.00%,62.5,136.05,25.82,2229
+/security-state-staging/intermediates/e375bc4e-f009-4334-9651-d8fd2934b83f.pem-897,1,14,14,14,0,0.00%,71.42857,149.83,29.51,2148
+/security-state-staging/intermediates/9852f8f4-698c-4682-be77-b302a242b445.pem-898,1,16,16,16,0,0.00%,62.5,127.87,25.82,2095
+/security-state-staging/intermediates/2b7ba355-fdd1-40c5-931a-ab2ab80990db.pem-899,1,24,24,24,0,0.00%,41.66667,87.04,17.21,2139
+/security-state-staging/intermediates/85aef9ad-5fb3-41c1-8be0-97335974816d.pem-900,1,16,16,16,0,0.00%,62.5,111.27,25.82,1823
+/security-state-staging/intermediates/30b37c7c-3a4d-4dfb-b2c4-e2d5477cf21a.pem-901,1,20,20,20,0,0.00%,50,104.49,20.65,2140
+/security-state-staging/intermediates/b3076cf4-85f5-4d34-9510-ccbf6447dd9b.pem-902,1,13,13,13,0,0.00%,76.92308,125,31.78,1664
+/security-state-staging/intermediates/e375bc4e-f009-4334-9651-d8fd2934b83f.pem-890,1,18,18,18,0,0.00%,55.55556,116.54,22.95,2148
+/security-state-staging/intermediates/c0fc7db3-2be8-492d-a2dc-cca6f8a62b09.pem-903,1,24,24,24,0,0.00%,41.66667,108.07,17.21,2656
+/security-state-staging/intermediates/21a3c5f8-a0ec-4b86-96dc-fbde23e160d7.pem-906,1,16,16,16,0,0.00%,62.5,108.76,25.82,1782
+/security-state-staging/intermediates/9808e62b-cdbd-44b3-941f-6f29f249116a.pem-905,1,15,15,15,0,0.00%,66.66667,181.64,27.54,2790
+/security-state-staging/intermediates/4acf221b-66fc-4211-9056-7e3919e9081e.pem-904,1,22,22,22,0,0.00%,45.45455,131.92,18.78,2972
+/security-state-staging/intermediates/92c082b5-f8f5-4f02-a1a2-d0a7112d4a35.pem-907,1,14,14,14,0,0.00%,71.42857,144.18,29.51,2067
+/security-state-staging/intermediates/6652ce0d-3c54-446e-ace4-ab3bf3abd2a6.pem-908,1,13,13,13,0,0.00%,76.92308,142.73,31.78,1900
+/security-state-staging/intermediates/4b699f50-0bbe-4fae-b162-c628ceafd5f0.pem-909,1,14,14,14,0,0.00%,71.42857,193.15,29.51,2769
+/security-state-staging/intermediates/3a2aa500-087d-4576-a6e9-da5e391c759b.pem-910,1,13,13,13,0,0.00%,76.92308,131.46,31.78,1750
+/security-state-staging/intermediates/4acf221b-66fc-4211-9056-7e3919e9081e.pem-912,1,19,19,19,0,0.00%,52.63158,152.75,21.74,2972
+/security-state-staging/intermediates/c0fc7db3-2be8-492d-a2dc-cca6f8a62b09.pem-911,1,15,15,15,0,0.00%,66.66667,172.92,27.54,2656
+/security-state-staging/intermediates/21a3c5f8-a0ec-4b86-96dc-fbde23e160d7.pem-913,1,19,19,19,0,0.00%,52.63158,91.59,21.74,1782
+/security-state-staging/intermediates/9808e62b-cdbd-44b3-941f-6f29f249116a.pem-914,1,14,14,14,0,0.00%,71.42857,194.61,29.51,2790
+/security-state-staging/intermediates/6652ce0d-3c54-446e-ace4-ab3bf3abd2a6.pem-916,1,13,13,13,0,0.00%,76.92308,142.73,31.78,1900
+/security-state-staging/intermediates/4b699f50-0bbe-4fae-b162-c628ceafd5f0.pem-917,1,15,15,15,0,0.00%,66.66667,180.27,27.54,2769
+/security-state-staging/intermediates/3a2aa500-087d-4576-a6e9-da5e391c759b.pem-918,1,16,16,16,0,0.00%,62.5,106.81,25.82,1750
+/security-state-staging/intermediates/de481d0f-d78a-4134-95c5-8978b12cffcd.pem-921,1,16,16,16,0,0.00%,62.5,135.07,25.82,2213
+/security-state-staging/intermediates/c67085e3-7aaf-4619-8123-8ca3775d7894.pem-919,1,28,28,28,0,0.00%,35.71429,74.92,14.75,2148
+/security-state-staging/intermediates/18c23f9b-4d32-4990-ac2a-32121abff8ab.pem-920,1,13,13,13,0,0.00%,76.92308,138.15,31.78,1839
+/security-state-staging/intermediates/bcac0eea-3b40-4ea0-82cb-0593ef39e464.pem-922,1,15,15,15,0,0.00%,66.66667,185.61,27.54,2851
+/security-state-staging/intermediates/1d482bb3-92dc-4ec1-82a7-486a44d193d0.pem-923,1,13,13,13,0,0.00%,76.92308,168.04,31.78,2237
+/security-state-staging/intermediates/d3c84332-b918-41de-8190-89370390db4d.pem-924,1,29,29,29,0,0.00%,34.48276,74.52,14.24,2213
+/security-state-staging/intermediates/8b822dd3-618e-4f61-9cfd-061d4c50723d.pem-926,1,51,51,51,0,0.00%,19.60784,72.4,8.1,3781
+/security-state-staging/intermediates/d895d3d2-5442-4881-a48c-ae38a7c0d9be.pem-925,1,16,16,16,0,0.00%,62.5,102.36,25.82,1677
+/security-state-staging/intermediates/92c082b5-f8f5-4f02-a1a2-d0a7112d4a35.pem-915,1,16,16,16,0,0.00%,62.5,126.16,25.82,2067
+/security-state-staging/intermediates/36c3a520-0118-469c-a721-cfd21fcfa174.pem-927,1,17,17,17,0,0.00%,58.82353,125.46,24.3,2184
+/security-state-staging/intermediates/4d6d5cfd-e2e1-4865-85bb-e0b9cfdaec63.pem-929,1,20,20,20,0,0.00%,50,86.82,20.65,1778
+/security-state-staging/intermediates/4567866f-5a00-4281-8d39-96cd49487394.pem-930,1,17,17,17,0,0.00%,58.82353,109.15,24.3,1900
+/security-state-staging/intermediates/16cc4ad6-fd0a-4bd1-b425-0ed7e348bd1f.pem-928,1,13,13,13,0,0.00%,76.92308,200.72,31.78,2672
+/security-state-staging/intermediates/29f7887f-da2a-41cc-bbe0-b585b5ec8399.pem-931,1,19,19,19,0,0.00%,52.63158,143.55,21.74,2793
+/security-state-staging/intermediates/921112a4-f1b9-4d7d-ab3a-4e36fab6dc15.pem-932,1,14,14,14,0,0.00%,71.42857,158.9,29.51,2278
+/security-state-staging/intermediates/3d680c67-8d68-4ed6-9b45-81cb9cf46c24.pem-933,1,16,16,16,0,0.00%,62.5,186.89,25.82,3062
+/security-state-staging/intermediates/36c3a520-0118-469c-a721-cfd21fcfa174.pem-935,1,17,17,17,0,0.00%,58.82353,125.46,24.3,2184
+/security-state-staging/intermediates/16cc4ad6-fd0a-4bd1-b425-0ed7e348bd1f.pem-934,1,17,17,17,0,0.00%,58.82353,153.49,24.3,2672
+/security-state-staging/intermediates/7252f984-96a1-455c-925d-2a27de9058ba.pem-936,1,17,17,17,0,0.00%,58.82353,103.75,24.3,1806
+/security-state-staging/intermediates/4567866f-5a00-4281-8d39-96cd49487394.pem-937,1,32,32,32,0,0.00%,31.25,57.98,12.91,1900
+/security-state-staging/intermediates/4d6d5cfd-e2e1-4865-85bb-e0b9cfdaec63.pem-938,1,28,28,28,0,0.00%,35.71429,62.01,14.75,1778
+/security-state-staging/intermediates/29f7887f-da2a-41cc-bbe0-b585b5ec8399.pem-939,1,18,18,18,0,0.00%,55.55556,151.53,22.95,2793
+/security-state-staging/intermediates/921112a4-f1b9-4d7d-ab3a-4e36fab6dc15.pem-940,1,14,14,14,0,0.00%,71.42857,158.9,29.51,2278
+/security-state-staging/intermediates/7252f984-96a1-455c-925d-2a27de9058ba.pem-941,1,18,18,18,0,0.00%,55.55556,97.98,22.95,1806
+/security-state-staging/intermediates/3d680c67-8d68-4ed6-9b45-81cb9cf46c24.pem-942,1,16,16,16,0,0.00%,62.5,186.89,25.82,3062
+/security-state-staging/intermediates/2e408e2e-ba52-4bfd-8fce-a7fcfe0075be.pem-943,1,116,116,116,0,0.00%,8.62069,24.52,3.56,2912
+/security-state-staging/intermediates/d38f4ed5-7362-454c-9ad2-0f8d47c58d11.pem-944,1,16,16,16,0,0.00%,62.5,142.03,25.82,2327
+/security-state-staging/intermediates/67867c84-32d8-4600-aa2f-a51493938ab0.pem-945,1,16,16,16,0,0.00%,62.5,130.62,25.82,2140
+/security-state-staging/intermediates/6e65d316-4fd9-4970-84b7-ab5cf7e4c2c9.pem-946,1,16,16,16,0,0.00%,62.5,135.07,25.82,2213
+/security-state-staging/intermediates/cd783c76-a2d3-49bb-8aaf-dd09ffcf625c.pem-948,1,34,34,34,0,0.00%,29.41176,69.16,12.15,2408
+/security-state-staging/intermediates/48155cfa-c1a6-4ecd-9104-ade6ca2ca21b.pem-947,1,19,19,19,0,0.00%,52.63158,94.11,21.74,1831
+/security-state-staging/intermediates/a34d09dc-c1e9-4b35-bb0f-0c7ee3e64ad8.pem-949,1,41,41,41,0,0.00%,24.39024,64.12,10.08,2692
+/security-state-staging/intermediates/87b2c54d-9bb3-4349-af42-cefe085827c4.pem-950,1,16,16,16,0,0.00%,62.5,98.14,25.82,1608
+/security-state-staging/intermediates/2e408e2e-ba52-4bfd-8fce-a7fcfe0075be.pem-951,1,20,20,20,0,0.00%,50,142.19,20.65,2912
+/security-state-staging/intermediates/d38f4ed5-7362-454c-9ad2-0f8d47c58d11.pem-952,1,53,53,53,0,0.00%,18.86792,42.88,7.79,2327
+/security-state-staging/intermediates/6e65d316-4fd9-4970-84b7-ab5cf7e4c2c9.pem-954,1,112,112,112,0,0.00%,8.92857,19.3,3.69,2213
+/security-state-staging/intermediates/67867c84-32d8-4600-aa2f-a51493938ab0.pem-953,1,149,149,149,0,0.00%,6.71141,14.03,2.77,2140
+/security-state-staging/intermediates/48155cfa-c1a6-4ecd-9104-ade6ca2ca21b.pem-955,1,33,33,33,0,0.00%,30.30303,54.18,12.52,1831
+/security-state-staging/intermediates/a34d09dc-c1e9-4b35-bb0f-0c7ee3e64ad8.pem-957,1,15,15,15,0,0.00%,66.66667,175.26,27.54,2692
+/security-state-staging/intermediates/cd783c76-a2d3-49bb-8aaf-dd09ffcf625c.pem-956,1,29,29,29,0,0.00%,34.48276,81.09,14.24,2408
+/security-state-staging/intermediates/53ecee3d-ffe9-40eb-9a7c-8d3951ba457c.pem-959,1,46,46,46,0,0.00%,21.73913,39.91,8.98,1880
+/security-state-staging/intermediates/884d150d-14aa-4b66-86e5-b81eab371750.pem-960,1,21,21,21,0,0.00%,47.61905,99.89,19.67,2148
+/security-state-staging/intermediates/87b2c54d-9bb3-4349-af42-cefe085827c4.pem-958,1,18,18,18,0,0.00%,55.55556,87.24,22.95,1608
+/security-state-staging/intermediates/56484c21-741c-45b4-b5f5-fb671af7ce51.pem-961,1,17,17,17,0,0.00%,58.82353,98.4,24.3,1713
+/security-state-staging/intermediates/f5f73cb5-53fb-4dc9-8de0-799355a73b83.pem-962,1,34,34,34,0,0.00%,29.41176,64.14,12.15,2233
+/security-state-staging/intermediates/126f18a6-e0be-40bf-b1d6-ecffdbb2fc45.pem-964,1,16,16,16,0,0.00%,62.5,119.2,25.82,1953
+/security-state-staging/intermediates/1c87ed53-84ff-4135-832c-1fed54ca9089.pem-963,1,27,27,27,0,0.00%,37.03704,99.57,15.3,2753
+/security-state-staging/intermediates/83b2df18-a42c-41f9-91a8-4f6c0f342616.pem-965,1,16,16,16,0,0.00%,62.5,162.6,25.82,2664
+/security-state-staging/intermediates/96d8b2a4-5c83-408a-aba1-f8c0818c74a1.pem-966,1,18,18,18,0,0.00%,55.55556,122.94,22.95,2266
+/security-state-staging/intermediates/56484c21-741c-45b4-b5f5-fb671af7ce51.pem-967,1,14,14,14,0,0.00%,71.42857,119.49,29.51,1713
+/security-state-staging/intermediates/f5f73cb5-53fb-4dc9-8de0-799355a73b83.pem-968,1,17,17,17,0,0.00%,58.82353,128.27,24.3,2233
+/security-state-staging/intermediates/1c87ed53-84ff-4135-832c-1fed54ca9089.pem-969,1,77,77,77,0,0.00%,12.98701,34.92,5.36,2753
+/security-state-staging/intermediates/96d8b2a4-5c83-408a-aba1-f8c0818c74a1.pem-970,1,129,129,129,0,0.00%,7.75194,17.15,3.2,2266
+/security-state-staging/intermediates/83b2df18-a42c-41f9-91a8-4f6c0f342616.pem-971,1,115,115,115,0,0.00%,8.69565,22.62,3.59,2664
+/security-state-staging/intermediates/126f18a6-e0be-40bf-b1d6-ecffdbb2fc45.pem-972,1,54,54,54,0,0.00%,18.51852,35.32,7.65,1953
+/security-state-staging/intermediates/aa3b1898-e758-4640-86d7-e62b0f9a21b7.pem-973,1,16,16,16,0,0.00%,62.5,133.85,25.82,2193
+/security-state-staging/intermediates/5168333b-0a9d-45be-9011-6097eff0da60.pem-974,1,20,20,20,0,0.00%,50,137.79,20.65,2822
+/security-state-staging/intermediates/a921b010-005c-4251-bc4a-86f9b4aa8531.pem-975,1,20,20,20,0,0.00%,50,91.21,20.65,1868
+/security-state-staging/intermediates/633972ce-a88d-43f3-b835-8d832f1bde0c.pem-976,1,23,23,23,0,0.00%,43.47826,81.01,17.96,1908
+/security-state-staging/intermediates/072b1ac9-aea6-4d72-a3dc-c492cc9b613e.pem-977,1,20,20,20,0,0.00%,50,133.84,20.65,2741
+/security-state-staging/intermediates/2bf859ab-2a88-4ff7-af17-307ea95d877a.pem-978,1,15,15,15,0,0.00%,66.66667,152.8,27.54,2347
+/security-state-staging/intermediates/e8b0b0a2-f7f0-4893-b9ef-32f493e8a146.pem-979,1,15,15,15,0,0.00%,66.66667,186.65,27.54,2867
+/security-state-staging/intermediates/26632b9e-c780-4fe0-9693-f12acf56514b.pem-980,1,16,16,16,0,0.00%,62.5,118.96,25.82,1949
+/security-state-staging/intermediates/aa3b1898-e758-4640-86d7-e62b0f9a21b7.pem-981,1,28,28,28,0,0.00%,35.71429,76.49,14.75,2193
+/security-state-staging/intermediates/a921b010-005c-4251-bc4a-86f9b4aa8531.pem-983,1,14,14,14,0,0.00%,71.42857,130.3,29.51,1868
+/security-state-staging/intermediates/5168333b-0a9d-45be-9011-6097eff0da60.pem-982,1,15,15,15,0,0.00%,66.66667,183.72,27.54,2822
+/security-state-staging/intermediates/633972ce-a88d-43f3-b835-8d832f1bde0c.pem-984,1,15,15,15,0,0.00%,66.66667,124.22,27.54,1908
+/security-state-staging/intermediates/072b1ac9-aea6-4d72-a3dc-c492cc9b613e.pem-985,1,17,17,17,0,0.00%,58.82353,157.46,24.3,2741
+/security-state-staging/intermediates/e8b0b0a2-f7f0-4893-b9ef-32f493e8a146.pem-987,1,15,15,15,0,0.00%,66.66667,186.65,27.54,2867
+/security-state-staging/intermediates/26632b9e-c780-4fe0-9693-f12acf56514b.pem-988,1,27,27,27,0,0.00%,37.03704,70.49,15.3,1949
+/security-state-staging/intermediates/36301512-ecda-409a-9af9-1adcd3291550.pem-989,1,137,137,137,0,0.00%,7.29927,16.44,3.02,2306
+/security-state-staging/intermediates/8de4ccb4-4260-4e43-8cbf-5a833dadfdd3.pem-993,1,25,25,25,0,0.00%,40,98.98,16.52,2534
+/security-state-staging/intermediates/2bf859ab-2a88-4ff7-af17-307ea95d877a.pem-986,1,72,72,72,0,0.00%,13.88889,31.83,5.74,2347
+/security-state-staging/intermediates/e6f8b0f0-9bb3-4ffd-b7bc-95b78916692e.pem-992,1,18,18,18,0,0.00%,55.55556,123.81,22.95,2282
+/security-state-staging/intermediates/a1eb829c-52de-4c21-b46f-8d4dfe82073e.pem-991,1,25,25,25,0,0.00%,40,108.16,16.52,2769
+/security-state-staging/intermediates/38a31f82-83ee-41b4-80ac-dd89b54a7ece.pem-994,1,16,16,16,0,0.00%,62.5,136.29,25.82,2233
+/security-state-staging/intermediates/c4810cbd-83da-4542-9488-e64d95fd1ac4.pem-995,1,14,14,14,0,0.00%,71.42857,186.66,29.51,2676
+/security-state-staging/intermediates/d15529f9-49a2-467b-aaff-3eba01eb9996.pem-996,1,13,13,13,0,0.00%,76.92308,193.36,31.78,2574
+/security-state-staging/intermediates/eec3a261-928a-474b-a9db-297e4d855111.pem-997,1,14,14,14,0,0.00%,71.42857,174.46,29.51,2501
+/security-state-staging/intermediates/38a31f82-83ee-41b4-80ac-dd89b54a7ece.pem-998,1,18,18,18,0,0.00%,55.55556,121.15,22.95,2233
+/security-state-staging/intermediates/c4810cbd-83da-4542-9488-e64d95fd1ac4.pem-999,1,18,18,18,0,0.00%,55.55556,145.18,22.95,2676
+/security-state-staging/intermediates/eec3a261-928a-474b-a9db-297e4d855111.pem-990,1,84,84,84,0,0.00%,11.90476,29.08,4.92,2501
+"/security-state-staging/intermediates/d15529f9-49a2-467b-aaff-3eba01eb9996.pem-1,000",1,160,160,160,0,0.00%,6.25,15.71,2.58,2574
+"/security-state-staging/intermediates/7afbedd2-ae48-4bc8-8d48-dc64ace9dc35.pem-1,001",1,17,17,17,0,0.00%,58.82353,197.38,24.3,3436
+"/security-state-staging/intermediates/ba87cd52-2a75-4061-97d5-1f128a3e849d.pem-1,002",1,22,22,22,0,0.00%,45.45455,117.14,18.78,2639
+"/security-state-staging/intermediates/0efba185-f867-4720-aca4-8e7d3667ab7c.pem-1,003",1,19,19,19,0,0.00%,52.63158,118.11,21.74,2298
+"/security-state-staging/intermediates/ce03c78f-04a2-472a-974c-e431282ab41c.pem-1,004",1,15,15,15,0,0.00%,66.66667,145.38,27.54,2233
+"/security-state-staging/intermediates/6b64ec36-5d65-40d2-a2ce-778dd4f8ebe8.pem-1,005",1,14,14,14,0,0.00%,71.42857,181.01,29.51,2595
+"/security-state-staging/intermediates/a3194256-9f03-4a3b-ac55-7b3c3225d1a6.pem-1,006",1,13,13,13,0,0.00%,76.92308,148.81,31.78,1981
+"/security-state-staging/intermediates/9bf8c741-9386-401d-8c59-f5410390ae2f.pem-1,007",1,16,16,16,0,0.00%,62.5,147.71,25.82,2420
+"/security-state-staging/intermediates/7afbedd2-ae48-4bc8-8d48-dc64ace9dc35.pem-1,009",1,14,14,14,0,0.00%,71.42857,239.68,29.51,3436
+"/security-state-staging/intermediates/fe167bbc-49ae-4867-b511-147e23b615bb.pem-1,008",1,46,46,46,0,0.00%,21.73913,55.18,8.98,2599
+"/security-state-staging/intermediates/ba87cd52-2a75-4061-97d5-1f128a3e849d.pem-1,010",1,28,28,28,0,0.00%,35.71429,92.04,14.75,2639
+"/security-state-staging/intermediates/0efba185-f867-4720-aca4-8e7d3667ab7c.pem-1,011",1,73,73,73,0,0.00%,13.69863,30.74,5.66,2298
+"/security-state-staging/intermediates/a3194256-9f03-4a3b-ac55-7b3c3225d1a6.pem-1,012",1,33,33,33,0,0.00%,30.30303,58.62,12.52,1981
+"/security-state-staging/intermediates/6b64ec36-5d65-40d2-a2ce-778dd4f8ebe8.pem-1,013",1,15,15,15,0,0.00%,66.66667,168.95,27.54,2595
+"/security-state-staging/intermediates/ce03c78f-04a2-472a-974c-e431282ab41c.pem-1,014",1,53,53,53,0,0.00%,18.86792,41.14,7.79,2233
+"/security-state-staging/intermediates/9bf8c741-9386-401d-8c59-f5410390ae2f.pem-1,015",1,103,103,103,0,0.00%,9.70874,22.94,4.01,2420
+"/security-state-staging/intermediates/e7df3325-60f1-4ee6-9ef7-fad0411247c9.pem-1,016",1,67,67,67,0,0.00%,14.92537,23.38,6.17,1604
+"/security-state-staging/intermediates/3031c2b4-bd88-4967-947d-8a1bb6169260.pem-1,017",1,17,17,17,0,0.00%,58.82353,101.68,24.3,1770
+"/security-state-staging/intermediates/fe167bbc-49ae-4867-b511-147e23b615bb.pem-1,018",1,14,14,14,0,0.00%,71.42857,181.29,29.51,2599
+"/security-state-staging/intermediates/78f08ad0-c036-4664-9057-71c308c46fa1.pem-1,020",1,15,15,15,0,0.00%,66.66667,189.32,27.54,2908
+"/security-state-staging/intermediates/c23322e4-6c40-459f-aa50-1c2e9702b06b.pem-1,019",1,13,13,13,0,0.00%,76.92308,126.58,31.78,1685
+"/security-state-staging/intermediates/3a6083c3-d893-43ac-bd9f-fe6697293aa1.pem-1,021",1,32,32,32,0,0.00%,31.25,59.33,12.91,1944
+"/security-state-staging/intermediates/5f6a6527-07c8-4227-92d9-929add05a883.pem-1,022",1,34,34,34,0,0.00%,29.41176,58.88,12.15,2050
+"/security-state-staging/intermediates/4f7b8895-448f-453d-87a8-6de9c43888ae.pem-1,023",1,14,14,14,0,0.00%,71.42857,124.58,29.51,1786
+"/security-state-staging/intermediates/487d47de-37f9-4a4c-85e2-57e7ac6ee20a.pem-1,024",1,14,14,14,0,0.00%,71.42857,187.78,29.51,2692
+"/security-state-staging/intermediates/c23322e4-6c40-459f-aa50-1c2e9702b06b.pem-1,026",1,17,17,17,0,0.00%,58.82353,96.79,24.3,1685
+"/security-state-staging/intermediates/78f08ad0-c036-4664-9057-71c308c46fa1.pem-1,025",1,23,23,23,0,0.00%,43.47826,123.47,17.96,2908
+"/security-state-staging/intermediates/3a6083c3-d893-43ac-bd9f-fe6697293aa1.pem-1,027",1,16,16,16,0,0.00%,62.5,118.65,25.82,1944
+"/security-state-staging/intermediates/5f6a6527-07c8-4227-92d9-929add05a883.pem-1,028",1,34,34,34,0,0.00%,29.41176,58.88,12.15,2050
+"/security-state-staging/intermediates/487d47de-37f9-4a4c-85e2-57e7ac6ee20a.pem-1,029",1,58,58,58,0,0.00%,17.24138,45.33,7.12,2692
+"/security-state-staging/intermediates/4f7b8895-448f-453d-87a8-6de9c43888ae.pem-1,030",1,198,198,198,0,0.00%,5.05051,8.81,2.09,1786
+"/security-state-staging/intermediates/beb9c58d-fd8a-41b9-bb23-1a8e57cdf630.pem-1,032",1,95,95,95,0,0.00%,10.52632,18.07,4.35,1758
+"/security-state-staging/intermediates/0101c000-f69c-425a-97e2-af8490d77aba.pem-1,033",1,14,14,14,0,0.00%,71.42857,204.24,29.51,2928
+"/security-state-staging/intermediates/40ac2caf-9799-41cc-9949-62fe94bd7c8f.pem-1,031",1,20,20,20,0,0.00%,50,123.54,20.65,2530
+"/security-state-staging/intermediates/70f38582-98bc-4752-8269-190f59635d8e.pem-1,035",1,14,14,14,0,0.00%,71.42857,153.81,29.51,2205
+"/security-state-staging/intermediates/02495c18-91a4-42fb-956a-4fe8ed43bfee.pem-1,037",1,48,48,48,0,0.00%,20.83333,41.22,8.61,2026
+"/security-state-staging/intermediates/645b58d9-0779-4656-9fe8-ac5478c57d4f.pem-1,036",1,38,38,38,0,0.00%,26.31579,65.94,10.87,2566
+"/security-state-staging/intermediates/ba8ae507-f7c6-48ab-b7e8-5724a312717a.pem-1,040",1,19,19,19,0,0.00%,52.63158,135.9,21.74,2644
+"/security-state-staging/intermediates/86390395-14c7-4e6b-8840-51150f08950a.pem-1,038",1,17,17,17,0,0.00%,58.82353,145.51,24.3,2533
+"/security-state-staging/intermediates/beb9c58d-fd8a-41b9-bb23-1a8e57cdf630.pem-1,039",1,22,22,22,0,0.00%,45.45455,78.04,18.78,1758
+"/security-state-staging/intermediates/40ac2caf-9799-41cc-9949-62fe94bd7c8f.pem-1,041",1,16,16,16,0,0.00%,62.5,154.42,25.82,2530
+"/security-state-staging/intermediates/70f38582-98bc-4752-8269-190f59635d8e.pem-1,043",1,12,12,12,0,0.00%,83.33333,179.44,34.42,2205
+"/security-state-staging/intermediates/0101c000-f69c-425a-97e2-af8490d77aba.pem-1,042",1,16,16,16,0,0.00%,62.5,178.71,25.82,2928
+"/security-state-staging/intermediates/645b58d9-0779-4656-9fe8-ac5478c57d4f.pem-1,044",1,13,13,13,0,0.00%,76.92308,192.76,31.78,2566
+"/security-state-staging/intermediates/86390395-14c7-4e6b-8840-51150f08950a.pem-1,046",1,13,13,13,0,0.00%,76.92308,190.28,31.78,2533
+"/security-state-staging/intermediates/02495c18-91a4-42fb-956a-4fe8ed43bfee.pem-1,045",1,20,20,20,0,0.00%,50,98.93,20.65,2026
+"/security-state-staging/intermediates/ba8ae507-f7c6-48ab-b7e8-5724a312717a.pem-1,047",1,18,18,18,0,0.00%,55.55556,143.45,22.95,2644
+"/security-state-staging/intermediates/e4fb4ed4-bee3-40bb-9993-79934cb2d8f8.pem-1,048",1,55,55,55,0,0.00%,18.18182,38.64,7.51,2176
+"/security-state-staging/intermediates/5cd6b31f-ffd5-4d52-a9e8-fa36ce7bbed8.pem-1,049",1,15,15,15,0,0.00%,66.66667,200.65,27.54,3082
+"/security-state-staging/intermediates/848f5df7-2bdf-4d2d-991e-4c4ee088b379.pem-1,051",1,62,62,62,0,0.00%,16.12903,41.83,6.66,2656
+"/security-state-staging/intermediates/625fb1bf-2f17-4e4f-adbb-8ec1cedc9725.pem-1,053",1,153,153,153,0,0.00%,6.53595,13.79,2.7,2160
+"/security-state-staging/intermediates/ed143684-ab7b-440f-80d7-5cb002fd46e6.pem-1,052",1,16,16,16,0,0.00%,62.5,92.41,25.82,1514
+"/security-state-staging/intermediates/17691b06-48fb-4385-a9ab-05f0ad126518.pem-1,050",1,15,15,15,0,0.00%,66.66667,140.1,27.54,2152
+"/security-state-staging/intermediates/66e99cd4-a706-4053-955f-653718c3b045.pem-1,054",1,62,62,62,0,0.00%,16.12903,34.4,6.66,2184
+"/login-1,034",1,390,390,390,0,0.00%,2.5641,1.12,1.2,449
+"/security-state-staging/intermediates/52b2ee0b-8206-410b-b7fe-cf2b915bb6cf.pem-1,055",1,15,15,15,0,0.00%,66.66667,116.54,27.54,1790
+"/security-state-staging/intermediates/e4fb4ed4-bee3-40bb-9993-79934cb2d8f8.pem-1,056",1,28,28,28,0,0.00%,35.71429,75.89,14.75,2176
+"/security-state-staging/intermediates/17691b06-48fb-4385-a9ab-05f0ad126518.pem-1,058",1,101,101,101,0,0.00%,9.90099,20.81,4.09,2152
+"/security-state-staging/intermediates/5cd6b31f-ffd5-4d52-a9e8-fa36ce7bbed8.pem-1,057",1,84,84,84,0,0.00%,11.90476,35.83,4.92,3082
+"/security-state-staging/intermediates/ed143684-ab7b-440f-80d7-5cb002fd46e6.pem-1,059",1,17,17,17,0,0.00%,58.82353,86.97,24.3,1514
+"/security-state-staging/intermediates/848f5df7-2bdf-4d2d-991e-4c4ee088b379.pem-1,060",1,23,23,23,0,0.00%,43.47826,112.77,17.96,2656
+"/security-state-staging/intermediates/625fb1bf-2f17-4e4f-adbb-8ec1cedc9725.pem-1,062",1,15,15,15,0,0.00%,66.66667,140.62,27.54,2160
+"/security-state-staging/intermediates/4ecbd37e-d6ce-4fa2-87b3-a0d6a31677d6.pem-1,063",1,15,15,15,0,0.00%,66.66667,174.48,27.54,2680
+"/security-state-staging/intermediates/ba9ba353-fc26-4c61-a866-b85b659ec9a5.pem-1,065",1,15,15,15,0,0.00%,66.66667,205.66,27.54,3159
+"/security-state-staging/intermediates/66e99cd4-a706-4053-955f-653718c3b045.pem-1,064",1,15,15,15,0,0.00%,66.66667,142.19,27.54,2184
+"/security-state-staging/intermediates/52b2ee0b-8206-410b-b7fe-cf2b915bb6cf.pem-1,066",1,37,37,37,0,0.00%,27.02703,47.24,11.16,1790
+"/security-state-staging/intermediates/91ae18bc-b487-4db4-8b9f-62a9e6fb0fae.pem-1,067",1,40,40,40,0,0.00%,25,80.71,10.33,3306
+"/security-state-staging/intermediates/3b5083ab-175b-4c5f-a509-40cc6f618768.pem-1,068",1,27,27,27,0,0.00%,37.03704,61.67,15.3,1705
+"/security-state-staging/intermediates/72f5db49-9653-406b-b129-7db8f562a09a.pem-1,069",1,23,23,23,0,0.00%,43.47826,106.36,17.96,2505
+"/security-state-staging/intermediates/86434fba-a8fc-495a-9af1-290826501bfc.pem-1,070",1,39,39,39,0,0.00%,25.64103,54.69,10.59,2184
+"/security-state-staging/intermediates/bf3ccd0f-a3a8-4fb4-8efe-fe3fca180a23.pem-1,071",1,53,53,53,0,0.00%,18.86792,33.52,7.79,1819
+"/security-state-staging/intermediates/401b3c9f-2550-49a6-99e6-8ef5a2d8c9a7.pem-1,072",1,92,92,92,0,0.00%,10.86957,36.9,4.49,3476
+"/security-state-staging/intermediates/3b5083ab-175b-4c5f-a509-40cc6f618768.pem-1,074",1,13,13,13,0,0.00%,76.92308,128.08,31.78,1705
+"/security-state-staging/intermediates/91ae18bc-b487-4db4-8b9f-62a9e6fb0fae.pem-1,073",1,14,14,14,0,0.00%,71.42857,230.61,29.51,3306
+TOTAL,4822,385,12,82292,3716.29,0.62%,40.76181,4953.1,26.83,124429.5
